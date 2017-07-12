@@ -1,0 +1,29 @@
+{
+  "name": "mytools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popzhou/mytools.git"
+  },
+  "author": "popzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popzhou/mytools/issues"
+  },
+  "homepage": "https://github.com/popzhou/mytools#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.10.8"
+  }
+}

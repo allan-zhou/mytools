@@ -1,2294 +1,2293 @@
-[
-    {
-        "CompanyCode": "DC1C0EB0-9DF5-4123-AC59-3CEC074F5115",
-        "suppliercode": "000200001000161"
-    },
-    {
-        "CompanyCode": "fe5f1437-0d3b-47c5-b0e1-f11ad4aa3259",
-        "suppliercode": "000200001000480"
-    },
-    {
-        "CompanyCode": "bb332709-fb0e-432e-ae24-8ecae5346543",
-        "suppliercode": "0004cdf9-a740-4657-9566-ad4840ea4b4e"
-    },
-    {
-        "CompanyCode": "9D6E0631-F4C4-47F7-9D77-CDD830083926",
-        "suppliercode": "000500001000137;"
-    },
-    {
-        "CompanyCode": "b9c7a43f-2810-4737-a779-da817c62ce07",
-        "suppliercode": "000500001000304;"
-    },
-    {
-        "CompanyCode": "43F1C45B-EC50-4476-97B8-5A10BA15C626",
-        "suppliercode": "000500001000411;"
-    },
-    {
-        "CompanyCode": "923b2f1b-d3f0-4b51-ae96-5e0bd46fe148",
-        "suppliercode": "000500001000443;"
-    },
-    {
-        "CompanyCode": "173",
-        "suppliercode": "000500001000524;"
-    },
-    {
-        "CompanyCode": "154",
-        "suppliercode": "000500001000525;"
-    },
-    {
-        "CompanyCode": "01fd7297-ccca-4bed-8431-19652634c697",
-        "suppliercode": "000500001000594;"
-    },
-    {
-        "CompanyCode": "520D1889-A99B-4B5F-98B0-A6FBC9BFF609",
-        "suppliercode": "000500001000756;"
-    },
-    {
-        "CompanyCode": "5987A92D-C9FC-45EE-923F-2A302AB78BD6",
-        "suppliercode": "000500001001062;"
-    },
-    {
-        "CompanyCode": "8e44fd78-9114-4d1c-a207-ffb89341d2d2",
-        "suppliercode": "000600001000180"
-    },
-    {
-        "CompanyCode": "571D3A81-7E58-4691-8526-D8DC405C50DC",
-        "suppliercode": "000600001000351"
-    },
-    {
-        "CompanyCode": "220",
-        "suppliercode": "000700057000057;"
-    },
-    {
-        "CompanyCode": "a5abec63-ffd0-46e9-8c21-6e7cac595d9e",
-        "suppliercode": "000700069000069;"
-    },
-    {
-        "CompanyCode": "b71fea3b-30c3-48c3-9563-926afd0179d9",
-        "suppliercode": "000700160000160;"
-    },
-    {
-        "CompanyCode": "A21576C8-1F89-4274-9F62-C20ADF2E1FEF",
-        "suppliercode": "000700164000164;"
-    },
-    {
-        "CompanyCode": "C3CB70CA-FEA3-48FA-9B69-C8ED00185D38",
-        "suppliercode": "000700239000239;"
-    },
-    {
-        "CompanyCode": "1f4ffc21-d472-4a75-be93-e8ae90dd7c85",
-        "suppliercode": "000900001000509"
-    },
-    {
-        "CompanyCode": "a2b4c106-aaf5-48e1-90b5-19f46d5d5bf4",
-        "suppliercode": "003000009000018；"
-    },
-    {
-        "CompanyCode": "248409c4-d0cd-4478-95b3-49401b10cc9e",
-        "suppliercode": "00a0b1a8-a5ce-4e1c-b20a-808f13f8e4e9"
-    },
-    {
-        "CompanyCode": "9c9bd541-d4a7-4d58-8320-a5527101f575",
-        "suppliercode": "00a78536-4eb2-4575-b3b1-a5740258823b"
-    },
-    {
-        "CompanyCode": "d9d1371c-240b-46a0-8501-067232a3beeb",
-        "suppliercode": "01a76c1d-0fb0-486a-97e4-daba1f93e266"
-    },
-    {
-        "CompanyCode": "023C9F00-804E-49D7-B121-5CCB2478C924",
-        "suppliercode": "0205d22a-638e-462c-b408-e36e83104398"
-    },
-    {
-        "CompanyCode": "2dda2d3e-b849-4538-aba6-1a380d75fb8c",
-        "suppliercode": "032442c9-4c1d-4ff2-9a13-0132f5060d7d"
-    },
-    {
-        "CompanyCode": "0798c761-d886-41ba-8bb4-eb4a20f0af37",
-        "suppliercode": "0346b680-66ec-4373-af7c-a99ab995edda"
-    },
-    {
-        "CompanyCode": "51",
-        "suppliercode": "0374b98c-e8ff-49a0-9d65-1a8c8e695de4"
-    },
-    {
-        "CompanyCode": "e6d73395-c275-464f-8c35-3df5025b7542",
-        "suppliercode": "047a9f4c-87f0-4543-bfe1-1ad5c4494682"
-    },
-    {
-        "CompanyCode": "44cf8d8b-b75b-45e5-a8ae-522f7bc1f8e8",
-        "suppliercode": "04b024c3-3029-491c-834a-4f3866939dcb"
-    },
-    {
-        "CompanyCode": "B2955A99-8ECC-4709-8376-9C3C0975B2BB",
-        "suppliercode": "04b0a24e-2ebb-4ad1-9cb4-f3d762e24ced"
-    },
-    {
-        "CompanyCode": "A85854F7-1124-4C08-8B49-1958623BEB11",
-        "suppliercode": "050f67ec-e399-4db1-8fb7-98a9a48d840e"
-    },
-    {
-        "CompanyCode": "99d30d44-3853-43d0-8207-aae79dbe151c",
-        "suppliercode": "05a3d796-42a9-4266-9bab-d477db0fd013"
-    },
-    {
-        "CompanyCode": "21",
-        "suppliercode": "05c5bfe0-a230-4cf4-b074-5a71c15996b9"
-    },
-    {
-        "CompanyCode": "81",
-        "suppliercode": "0666a75e-214d-4cd6-bf98-89921ffe6cc0"
-    },
-    {
-        "CompanyCode": "ae2cb245-1b61-4f86-a214-1fb3f63b44fa",
-        "suppliercode": "06d489c5-9758-4ae8-94a6-52bc44f83b26"
-    },
-    {
-        "CompanyCode": "46",
-        "suppliercode": "06dd99ee-f578-4f11-b1de-a29583d195dd"
-    },
-    {
-        "CompanyCode": "13B25780-8CAF-4653-9F3A-C6AF7D5E0AAD",
-        "suppliercode": "0700cb07-c904-44d2-8b31-d5c13b141b03"
-    },
-    {
-        "CompanyCode": "18DE1C2A-67D4-4F49-8BDB-9B0B470F7975",
-        "suppliercode": "07136989-d7af-42ef-ab02-0b871794e39e"
-    },
-    {
-        "CompanyCode": "37a74888-ab4a-4501-bf3c-fa32abf9b23e",
-        "suppliercode": "073b38e6-cfd2-4843-b336-ca47c992ce65"
-    },
-    {
-        "CompanyCode": "41",
-        "suppliercode": "0938155b-1251-4c8e-8263-7f8f06a156e1"
-    },
-    {
-        "CompanyCode": "d5dceb48-b6b9-427b-b4a8-36ba8fc77c42",
-        "suppliercode": "0ade52a3-9795-49f0-98a3-1a881bdc7eda"
-    },
-    {
-        "CompanyCode": "4E80190A-7468-469C-9E98-DEEA2A810741",
-        "suppliercode": "0b00ed55-6117-408b-8652-cda5024be1d8"
-    },
-    {
-        "CompanyCode": "5422c34e-e574-413b-b252-aa11b18ab706",
-        "suppliercode": "0b8cbf8a-0b86-4d9a-a6a4-b70519b68c07"
-    },
-    {
-        "CompanyCode": "195ab1f8-a826-4453-ac29-542b15c6157b",
-        "suppliercode": "0b923248-6d35-4094-9ad6-66fee02d9b14"
-    },
-    {
-        "CompanyCode": "29613939-0eb7-493e-be0a-63bf4a903b2c",
-        "suppliercode": "0c003b7a-e864-44a5-9536-18bf985a12ba"
-    },
-    {
-        "CompanyCode": "214",
-        "suppliercode": "0c31fb0a-4c39-4bae-9658-28ee954ac97d"
-    },
-    {
-        "CompanyCode": "49",
-        "suppliercode": "0c6766fc-d3ab-41d7-90f5-ee04a408f371"
-    },
-    {
-        "CompanyCode": "6471c857-df99-4c5c-9c93-d1b43afc5d88",
-        "suppliercode": "0d16629e-0d41-445f-8e00-7242da0a69cd"
-    },
-    {
-        "CompanyCode": "74",
-        "suppliercode": "0d3da547-9194-4b90-af02-448cf18b5dc0"
-    },
-    {
-        "CompanyCode": "2a107066-8ecc-4a71-9f79-b486c5ac8247",
-        "suppliercode": "0d9a3293-5268-4cdd-bd23-38b897ab6d9b"
-    },
-    {
-        "CompanyCode": "a28cfca3-aa3e-4178-bf4d-d3055e29e5d0",
-        "suppliercode": "0e047536-1abf-4c60-9eb8-ac6cb7d2c370"
-    },
-    {
-        "CompanyCode": "872c8ed8-d8a8-46ce-83bd-e415927f03cc",
-        "suppliercode": "0e5398cc-4311-4451-89f5-e62624e01478"
-    },
-    {
-        "CompanyCode": "E7BAACD4-1D52-44CE-81FC-A731F9915D50",
-        "suppliercode": "0ef11c22-5547-4385-ad51-e743f957a04a"
-    },
-    {
-        "CompanyCode": "b470124e-bf5d-4c93-bf51-be93e2ef0346",
-        "suppliercode": "0f289067-c7c5-462b-980d-225f98b42d35"
-    },
-    {
-        "CompanyCode": "10C0C4C8-0D5A-471A-A390-EDF247D8D6AF",
-        "suppliercode": "0f734335-df71-419d-b14e-5e0b13133884"
-    },
-    {
-        "CompanyCode": "5B918D33-1ED3-4453-BE7E-19CCCC450BB0",
-        "suppliercode": "0fb0bab3-6c8b-4dbd-9c70-ad02d1a88919"
-    },
-    {
-        "CompanyCode": "047B2A8F-835B-49F8-8098-AF1056248401",
-        "suppliercode": "1.20000001e+014"
-    },
-    {
-        "CompanyCode": "A2BF3FA9-9179-43CA-B885-7729BB18224B",
-        "suppliercode": "100009"
-    },
-    {
-        "CompanyCode": "100",
-        "suppliercode": "100031"
-    },
-    {
-        "CompanyCode": "7b4de682-6872-493e-bedb-b13491eac5e5",
-        "suppliercode": "100300001000128"
-    },
-    {
-        "CompanyCode": "94d671c8-82a4-4bc6-ba7b-f14ecf1fea95",
-        "suppliercode": "105f64a0-675e-4077-986d-af19a05ec492"
-    },
-    {
-        "CompanyCode": "d2ef4694-c1f8-4367-97e5-0d759b44b3b4",
-        "suppliercode": "10c50489-f2f3-47ed-a3c3-060f5a4d6d24"
-    },
-    {
-        "CompanyCode": "f61a6bcf-9dbb-4db7-8450-8161f8ac0878",
-        "suppliercode": "10dde464-74a8-4703-b1d1-9cd4c9276d6d"
-    },
-    {
-        "suppliercode": "11;"
-    },
-    {
-        "CompanyCode": "ADB11C55-AEA6-45C9-9260-87C31F015D54",
-        "suppliercode": "116a41e7-0901-4b89-bf19-30a70c7b6f12"
-    },
-    {
-        "CompanyCode": "82",
-        "suppliercode": "120000001000206"
-    },
-    {
-        "CompanyCode": "52",
-        "suppliercode": "120000001000211"
-    },
-    {
-        "CompanyCode": "7de309d0-b496-4a13-a2e1-e301c3fa0531",
-        "suppliercode": "120000001000276"
-    },
-    {
-        "CompanyCode": "C2692386-C8D7-4983-BC31-4D4603623BB5",
-        "suppliercode": "120000001000280"
-    },
-    {
-        "CompanyCode": "87b7462f-e07b-45c4-8669-926cc83ac2b0",
-        "suppliercode": "1268b3a3-9a41-4dd1-b025-9b3924eadd76"
-    },
-    {
-        "CompanyCode": "6ea9148a-e49e-458c-beeb-c51de5a85944",
-        "suppliercode": "12dff703-493c-433f-bed0-41d2b0031686"
-    },
-    {
-        "CompanyCode": "ab2ad252-3a04-4444-9f58-78c08138a35b",
-        "suppliercode": "138;"
-    },
-    {
-        "CompanyCode": "afacb7b1-161c-42b9-8b51-f9739d738ec3",
-        "suppliercode": "138081db-7e86-44b5-a561-2bd8e64667c9"
-    },
-    {
-        "CompanyCode": "A3F1E9F3-9F2C-4F49-8A22-8FA8F21C0481",
-        "suppliercode": "13a1a231-8933-4f4c-b71f-705123ebd559"
-    },
-    {
-        "CompanyCode": "20",
-        "suppliercode": "13fe39e5-eb57-43bf-ab3f-b3dd4c5c078b"
-    },
-    {
-        "CompanyCode": "eb394e7a-1cc2-4df0-ace5-99a170ab007f",
-        "suppliercode": "140200001000060"
-    },
-    {
-        "CompanyCode": "a7409f7b-49a4-465b-8a0e-eef2b91e2b4f",
-        "suppliercode": "140200001000085"
-    },
-    {
-        "CompanyCode": "a0480183-8bc6-46aa-ada1-55bdba3a3038",
-        "suppliercode": "140200001000089"
-    },
-    {
-        "CompanyCode": "42",
-        "suppliercode": "140200001000151"
-    },
-    {
-        "CompanyCode": "200",
-        "suppliercode": "140800001000111"
-    },
-    {
-        "CompanyCode": "101",
-        "suppliercode": "140900001000234"
-    },
-    {
-        "CompanyCode": "93",
-        "suppliercode": "141200001000390"
-    },
-    {
-        "CompanyCode": "9f413a70-baff-44ba-a829-384fe7c30632",
-        "suppliercode": "141300001000110"
-    },
-    {
-        "CompanyCode": "3230bc0e-0c02-4bfb-8eaf-6eb22c99843d",
-        "suppliercode": "141300001000222"
-    },
-    {
-        "CompanyCode": "13b9c3e7-8622-4a20-9a8a-a667cce28b81",
-        "suppliercode": "141300001101890"
-    },
-    {
-        "CompanyCode": "5b886d6a-5ad1-4997-b19f-4c3230695960",
-        "suppliercode": "141800001100024"
-    },
-    {
-        "CompanyCode": "71216623-5127-47fb-ae46-efa708fb4c05",
-        "suppliercode": "141900001000050;"
-    },
-    {
-        "CompanyCode": "c415e2ee-82ae-4ea3-814d-497c4fa6d451",
-        "suppliercode": "141900001000084"
-    },
-    {
-        "CompanyCode": "E13707B1-3AD6-4B3D-8F42-D0CBC0F18D7F",
-        "suppliercode": "141900001000111;"
-    },
-    {
-        "CompanyCode": "fd132f93-1604-4ac9-ae13-bb40d6894c0a",
-        "suppliercode": "14641fdb-34c9-4bd3-ac1c-a1cd8f52a693"
-    },
-    {
-        "CompanyCode": "90EBFFDF-7896-4DDF-A9EF-91445F6CD4D9",
-        "suppliercode": "14d41ce9-cbb0-4869-aad0-1eba2d90c622"
-    },
-    {
-        "CompanyCode": "0B462065-B926-4EF1-90A6-7065422FD855",
-        "suppliercode": "150000001000059"
-    },
-    {
-        "CompanyCode": "8ADC96E5-18BE-4094-8F74-513ADEBFF8BE",
-        "suppliercode": "151fdb9d-d5b4-4020-9182-4f4165026795"
-    },
-    {
-        "CompanyCode": "84",
-        "suppliercode": "157005b9-1393-4c50-853b-c44e41781e2a"
-    },
-    {
-        "CompanyCode": "33830f89-00a2-4ebb-a7ce-0811aa6022ea",
-        "suppliercode": "15f6bee6-cfd1-4c24-bd91-91338cbf81c1"
-    },
-    {
-        "CompanyCode": "e5ba7c72-cb26-47d5-a747-42c66053e473",
-        "suppliercode": "16"
-    },
-    {
-        "CompanyCode": "67",
-        "suppliercode": "16;"
-    },
-    {
-        "CompanyCode": "190",
-        "suppliercode": "160700001000014；"
-    },
-    {
-        "CompanyCode": "a218759b-5995-4e82-8d2a-d950ea0c00f8",
-        "suppliercode": "161febd0-e23c-49a9-9a69-73177aa4bb12"
-    },
-    {
-        "CompanyCode": "28",
-        "suppliercode": "162bd7ab-c7cd-4363-b148-3ee93da464ad"
-    },
-    {
-        "CompanyCode": "14DFC64C-341B-4477-B4FA-85737798AEEA",
-        "suppliercode": "16394491-fd35-4f4c-aa5f-73dee531b26f"
-    },
-    {
-        "CompanyCode": "201",
-        "suppliercode": "164f14da-64e3-4d39-9ddb-ffac13af1f00"
-    },
-    {
-        "CompanyCode": "0194CEE9-0065-4732-B3B4-710D7740F498",
-        "suppliercode": "16c45610-ba01-44ad-b10d-6bfb31e76a4e"
-    },
-    {
-        "CompanyCode": "0B68C05F-603C-441A-8E02-3CDFA1FB6C0E",
-        "suppliercode": "16fa5503-900b-409a-b7fd-528d425713df"
-    },
-    {
-        "CompanyCode": "46636b55-0764-472a-b240-4c54a11d56eb",
-        "suppliercode": "17;"
-    },
-    {
-        "CompanyCode": "58",
-        "suppliercode": "179c3055-564a-47f2-b9b3-4253b96bbd18"
-    },
-    {
-        "CompanyCode": "4D81D73C-2A30-4500-B53D-A43A76ACA0DB",
-        "suppliercode": "17cc30fa-dd89-44a6-a716-b98c94c44d60"
-    },
-    {
-        "CompanyCode": "759BAD8F-E570-411D-88C9-710D94FE52D8",
-        "suppliercode": "180000001000475"
-    },
-    {
-        "CompanyCode": "109",
-        "suppliercode": "180000001000502"
-    },
-    {
-        "CompanyCode": "-1",
-        "suppliercode": "180000001000506"
-    },
-    {
-        "CompanyCode": "62",
-        "suppliercode": "180400001000380"
-    },
-    {
-        "CompanyCode": "71",
-        "suppliercode": "180a91cf-2d06-4de3-ba97-15799e16dfd3"
-    },
-    {
-        "CompanyCode": "102",
-        "suppliercode": "180f8174-39f9-47df-baf9-b2dc9e67ba0c"
-    },
-    {
-        "CompanyCode": "621211b6-8e6b-434e-945a-953beb9312c8",
-        "suppliercode": "181800009000001"
-    },
-    {
-        "CompanyCode": "b7fd42fe-da74-41b0-84a9-7441fa70a01b",
-        "suppliercode": "181800009000012"
-    },
-    {
-        "CompanyCode": "9",
-        "suppliercode": "181800009000014"
-    },
-    {
-        "CompanyCode": "05459AB9-CF02-41A0-8B28-9F221A3DB1BA",
-        "suppliercode": "181800009000022"
-    },
-    {
-        "CompanyCode": "AF58DC5E-F0CF-45EE-A519-9C32D198A91B",
-        "suppliercode": "181800009000041"
-    },
-    {
-        "CompanyCode": "A25A5BF4-C4C1-444F-9C5E-116D42611D2A",
-        "suppliercode": "181800009000066"
-    },
-    {
-        "CompanyCode": "ee40c2ef-38c2-4237-9a20-5ce0c71aa25b",
-        "suppliercode": "181800009000125"
-    },
-    {
-        "CompanyCode": "032f49fc-9b93-495e-92f2-7c7f71ef09c3",
-        "suppliercode": "181800009000145"
-    },
-    {
-        "CompanyCode": "81585aab-8979-419f-b9fc-3190ed7783a3",
-        "suppliercode": "181800009000166"
-    },
-    {
-        "CompanyCode": "BABF430C-BE01-4C5B-B416-B21443403A9F",
-        "suppliercode": "181800009000224"
-    },
-    {
-        "suppliercode": "181800009000260"
-    },
-    {
-        "suppliercode": "181800009000275"
-    },
-    {
-        "suppliercode": "181800009011239"
-    },
-    {
-        "suppliercode": "181800009011497"
-    },
-    {
-        "suppliercode": "181800009011498"
-    },
-    {
-        "suppliercode": "181800009011499"
-    },
-    {
-        "suppliercode": "181800009011500"
-    },
-    {
-        "suppliercode": "182a3237-b036-4733-aff3-290c5223ceb7"
-    },
-    {
-        "suppliercode": "1852a16b-a6f4-42cc-a97d-e7f6bdc6f9f5"
-    },
-    {
-        "suppliercode": "18c3d229-e5c7-47d1-9e72-35b9865a01f7"
-    },
-    {
-        "suppliercode": "18cd5cd7-001e-4940-aa4f-e9ca07128914"
-    },
-    {
-        "suppliercode": "190400001000090"
-    },
-    {
-        "suppliercode": "19140000113"
-    },
-    {
-        "suppliercode": "19140000116"
-    },
-    {
-        "suppliercode": "19140000125"
-    },
-    {
-        "suppliercode": "19140000127"
-    },
-    {
-        "suppliercode": "19455a70-389f-4ac7-8f4b-a1fbf245dabf"
-    },
-    {
-        "suppliercode": "1a31e608-94e3-43f4-a5f8-d02be15d5b3e"
-    },
-    {
-        "suppliercode": "1b352673-9e93-4de9-9e28-6e201019f688"
-    },
-    {
-        "suppliercode": "1c8357f3-0a3c-4f41-a49c-0dc1cb5abd17"
-    },
-    {
-        "suppliercode": "1ceca007-9b42-4e21-978b-323bc845c987"
-    },
-    {
-        "suppliercode": "1cfc079c-04fd-4a78-b370-753de2aca9c7"
-    },
-    {
-        "suppliercode": "1da2cc18-81fc-4732-826a-9c1cf8d31c26"
-    },
-    {
-        "suppliercode": "1f0277d7-7342-4189-8d1e-67857dff825d"
-    },
-    {
-        "suppliercode": "1f5a7e42-e8c1-4996-b3da-abccc22608d7"
-    },
-    {
-        "suppliercode": "1f6abf1c-fae8-4f9b-9ad5-29de7bbb81f0"
-    },
-    {
-        "suppliercode": "1f9b3f21-8345-4e51-a87b-7874036a6822"
-    },
-    {
-        "suppliercode": "1fb8bf22-010c-4c7d-8fb6-0431e0f13430"
-    },
-    {
-        "suppliercode": "2040c7f4-0169-4f9b-b2bb-c78066b924a7"
-    },
-    {
-        "suppliercode": "205"
-    },
-    {
-        "suppliercode": "20eb0d7d-78f0-44e5-87a9-0cbf8a8e9634"
-    },
-    {
-        "suppliercode": "20eeab59-2baf-43a2-a26d-25c039bd042a"
-    },
-    {
-        "suppliercode": "227d211d-9906-4892-beac-1776f7fedd4c"
-    },
-    {
-        "suppliercode": "228b3fae-a741-4359-8128-fed6eb63ee49"
-    },
-    {
-        "suppliercode": "229e8df3-4151-4a24-9947-1c416cfdab8a"
-    },
-    {
-        "suppliercode": "22e02c26-8e1d-4bc3-9667-a7bfae9ce8e2"
-    },
-    {
-        "suppliercode": "23234977-70dc-4a5b-a494-11dc57495e1b"
-    },
-    {
-        "suppliercode": "23fb678a-2019-45ff-99e3-6ea04eddcedc"
-    },
-    {
-        "suppliercode": "24491b97-515d-4d6c-b5d4-9356ecb3da78"
-    },
-    {
-        "suppliercode": "2498603b-2b52-4981-b90e-01173c306004"
-    },
-    {
-        "suppliercode": "249c9a8c-9f12-4950-bb52-05f428f6a259"
-    },
-    {
-        "suppliercode": "24e8bb68-6c34-4480-9d89-b21a2394f55e"
-    },
-    {
-        "suppliercode": "26509ccd-6367-4564-bd47-b7558b3f1ff1"
-    },
-    {
-        "suppliercode": "26714b46-8d85-4946-bd58-78199cf16beb"
-    },
-    {
-        "suppliercode": "267ed6dd-67ee-46a5-8783-0dc2053568a7"
-    },
-    {
-        "suppliercode": "26c462fc-5b5f-405e-b0a6-e480317653b1"
-    },
-    {
-        "suppliercode": "26cf137e-15ed-4780-8ced-15c8cce008f8"
-    },
-    {
-        "suppliercode": "26f881c7-4cda-4a2c-bd81-d39fc2977b3e"
-    },
-    {
-        "suppliercode": "27e38186-aa06-483f-92ee-2dd3e4bd441f"
-    },
-    {
-        "suppliercode": "2857df85-22d3-44cf-b4da-6c73ae9e5a41"
-    },
-    {
-        "suppliercode": "289d523a-4fdd-4bce-ac98-d2b35ce845cf"
-    },
-    {
-        "suppliercode": "2934d823-b8b5-4bd8-ab99-8a09977600a2"
-    },
-    {
-        "suppliercode": "29487704-bce8-4161-b949-39a9334b94d7"
-    },
-    {
-        "suppliercode": "2953a85f-f28c-41c7-bc3a-ff9f80573748"
-    },
-    {
-        "suppliercode": "29c3e38c-6c33-47ab-aba2-020553744cf7"
-    },
-    {
-        "suppliercode": "2b153640-aa07-47b8-994c-115694868e06"
-    },
-    {
-        "suppliercode": "2bca7df8-58c3-4160-af96-1695dbb1dcb2"
-    },
-    {
-        "suppliercode": "2ca8b304-3831-4b05-8ed9-81fc3bb5cf1d"
-    },
-    {
-        "suppliercode": "2d7b5685-b50c-4c60-ace1-d0457b8c2912"
-    },
-    {
-        "suppliercode": "2dd655f2-e57c-4b39-9741-faa6d5a4bc54"
-    },
-    {
-        "suppliercode": "2e786ad7-fb77-4b5c-a92b-e6efda83e80d"
-    },
-    {
-        "suppliercode": "2eaf8c57-bb12-4bc5-a69b-0f6d5bdfafb4"
-    },
-    {
-        "suppliercode": "2eb482f4-abb9-4836-a6b9-96921c7255cd"
-    },
-    {
-        "suppliercode": "2f4d4b99-23c7-4e6e-bc6b-eb660e8b917d"
-    },
-    {
-        "suppliercode": "2f846f96-50fe-4248-a0a5-009bf5022062"
-    },
-    {
-        "suppliercode": "2f9a5240-b150-40bc-8dcc-05e57fb3ec9e"
-    },
-    {
-        "suppliercode": "2fe6e2e4-91fd-4b75-b0f2-6501c681ebfa"
-    },
-    {
-        "suppliercode": "3000009000006"
-    },
-    {
-        "suppliercode": "3000009000028"
-    },
-    {
-        "suppliercode": "3000009000029"
-    },
-    {
-        "suppliercode": "3000009000031"
-    },
-    {
-        "suppliercode": "32e5f809-318a-4973-8acd-1efe8f8c4208"
-    },
-    {
-        "suppliercode": "3329edb5-99c1-4b67-861b-17d425d37653"
-    },
-    {
-        "suppliercode": "3396df41-666f-4ac6-89cb-06ba0ef30b4a"
-    },
-    {
-        "suppliercode": "33f8af06-8a41-4cad-94e4-3f0c71c3bec3"
-    },
-    {
-        "suppliercode": "34216d9d-d899-4970-aa3a-190444742c65"
-    },
-    {
-        "suppliercode": "34675703-f4dd-4fca-9141-152648c1c715"
-    },
-    {
-        "suppliercode": "3553c0e5-0ff1-4e50-b286-4d00f2a13e18"
-    },
-    {
-        "suppliercode": "357ba8ce-b1b2-4b6e-b8d5-8c9173602736"
-    },
-    {
-        "suppliercode": "35924e8c-f2d0-42e5-a118-bed4acc38c33"
-    },
-    {
-        "suppliercode": "35edb614-6cde-4b7f-965e-0ec954436d03"
-    },
-    {
-        "suppliercode": "3758910e-ccf1-4ed9-8d1c-e6234dc5b864"
-    },
-    {
-        "suppliercode": "37a92c53-c3f7-4eb4-b209-3a52d76886bd"
-    },
-    {
-        "suppliercode": "38f6cde8-c712-405b-91e2-0d16cb5d73fe"
-    },
-    {
-        "suppliercode": "39a7c13e-bdf4-485a-a7b2-74eb80f38730"
-    },
-    {
-        "suppliercode": "39c92ff9-ca1e-44a6-b6e6-fea7ea5449e5"
-    },
-    {
-        "suppliercode": "39cd4041-bcda-44de-9c50-9867844ddb0c"
-    },
-    {
-        "suppliercode": "3abc729b-5701-4e8b-82a5-47ba2086d0e0"
-    },
-    {
-        "suppliercode": "3beae59e-eeab-40f5-b290-1e70eab9f802"
-    },
-    {
-        "suppliercode": "3bf1cc14-d0a1-4e6b-8a2b-257c65b99f5c"
-    },
-    {
-        "suppliercode": "3c7b4e1d-f7dd-4507-98de-56d2d3e517ee"
-    },
-    {
-        "suppliercode": "3dafaab1-34f3-4972-b4db-fd098c3efe7c"
-    },
-    {
-        "suppliercode": "3dba1b28-ebc6-44ef-ab4e-1b07273db8ad"
-    },
-    {
-        "suppliercode": "3e50ef07-5e77-4ad5-b9ae-01f97b99fcc3"
-    },
-    {
-        "suppliercode": "3e563a62-9eb8-4bc2-9320-2e14e28923d7"
-    },
-    {
-        "suppliercode": "3e5c64aa-82d1-41aa-b2dd-1d10853dd5c3"
-    },
-    {
-        "suppliercode": "3e827ff7-7a6a-4a97-9847-6712f081d398"
-    },
-    {
-        "suppliercode": "3f798651-10c9-40c7-8770-c632f27e83a1"
-    },
-    {
-        "suppliercode": "40238aa1-ea4c-498c-be39-6c9ef0762381"
-    },
-    {
-        "suppliercode": "40c24ce3-2ea3-413f-bc53-6e75a1339f2c"
-    },
-    {
-        "suppliercode": "40e3c73a-1266-4876-b564-0ef83096edf6"
-    },
-    {
-        "suppliercode": "40ecb7af-8c92-4331-a5f2-b9edc8b75ce9"
-    },
-    {
-        "suppliercode": "41541c40-4ac8-4cbd-8159-659f5a860437"
-    },
-    {
-        "suppliercode": "417e8e81-9f46-491e-9db0-c5414c38b97a"
-    },
-    {
-        "suppliercode": "42ad5e72-3cd5-452b-bf81-d203f14405e1"
-    },
-    {
-        "suppliercode": "43858784-afb1-4c58-9101-0dc109b9f123"
-    },
-    {
-        "suppliercode": "43d6b57e-2bee-4671-8d73-c39a7a5be707"
-    },
-    {
-        "suppliercode": "44"
-    },
-    {
-        "suppliercode": "44;"
-    },
-    {
-        "suppliercode": "44661030-67e8-434f-bb59-1f0273ffa42b"
-    },
-    {
-        "suppliercode": "44bf697f-8743-405f-8b77-913736c824b4"
-    },
-    {
-        "suppliercode": "44c1458f-0a6d-4885-8107-7ed472e0d3d5"
-    },
-    {
-        "suppliercode": "44d4ad61-5660-49f0-81cd-69a52eb8a449"
-    },
-    {
-        "suppliercode": "45116808-f5d5-4aec-92f1-d314e686d36f"
-    },
-    {
-        "suppliercode": "460e160e-4a77-458e-83a4-f136da0ba49e"
-    },
-    {
-        "suppliercode": "4611e7b3-248c-42b9-8721-855158025e0e"
-    },
-    {
-        "suppliercode": "4781e5df-b3a6-4f30-9175-f19701ab2496"
-    },
-    {
-        "suppliercode": "4781fe4a-6112-40b2-9dbd-08803451d9d4"
-    },
-    {
-        "suppliercode": "478c51bc-77de-453c-b555-b316b35ce1d8"
-    },
-    {
-        "suppliercode": "4844c198-d5c0-45e0-868d-941b3ab5dbad"
-    },
-    {
-        "suppliercode": "484992bd-c1b6-4fe4-8f35-1a35b721f902"
-    },
-    {
-        "suppliercode": "48797958-f248-451f-951e-8af305e8692b"
-    },
-    {
-        "suppliercode": "4897d62f-c2a1-4005-9e05-18b894c6f0fc"
-    },
-    {
-        "suppliercode": "48bf1dea-c758-47b8-a64c-e9b2038b90b0"
-    },
-    {
-        "suppliercode": "4908f24c-4351-4032-b661-52b941c5e161"
-    },
-    {
-        "suppliercode": "49337d99-2470-4ea6-b369-2e15717fae1a"
-    },
-    {
-        "suppliercode": "49a3cfac-f1b9-4db4-af81-e0eb5c7aa63d"
-    },
-    {
-        "suppliercode": "4b01ead8-d447-4b4a-9fdb-1fb583b5a4e6"
-    },
-    {
-        "suppliercode": "4b2da040-c477-4de4-bed8-961dc4fe9b7b"
-    },
-    {
-        "suppliercode": "4b47eb52-9cdc-4612-9dd5-e885a6ce1dfd"
-    },
-    {
-        "suppliercode": "4b4f1d82-29f2-4e87-847f-670a91d5e1e0"
-    },
-    {
-        "suppliercode": "4b79862c-a92b-4ed4-80f2-2efdf91ce5df"
-    },
-    {
-        "suppliercode": "4b84fd86-c457-4863-b376-872405767897"
-    },
-    {
-        "suppliercode": "4c8ab361-4ce2-49f4-911f-f582c8fa533a"
-    },
-    {
-        "suppliercode": "4c943fab-d36e-403f-b320-2a481e16e439"
-    },
-    {
-        "suppliercode": "4d0ee5c3-5782-4250-a4ef-ab621591e34e"
-    },
-    {
-        "suppliercode": "4d208f2e-b367-41a2-aa17-66cae9b199c7"
-    },
-    {
-        "suppliercode": "4d265f37-4830-4fe6-97ec-88271fdd1758"
-    },
-    {
-        "suppliercode": "4d555bfa-ebe0-4bdf-994b-bca1dad6752b"
-    },
-    {
-        "suppliercode": "4d64e9fe-cdcb-4c30-8de0-b51c2557a326"
-    },
-    {
-        "suppliercode": "4de13bdb-7313-47b9-92c4-7e3166a9c487"
-    },
-    {
-        "suppliercode": "4e747613-7997-4e85-869c-ab5f544ba57b"
-    },
-    {
-        "suppliercode": "4ea13a72-4ec6-4049-a71d-aba5cbef88be"
-    },
-    {
-        "suppliercode": "4ee2ca5a-1c97-44a7-bd84-175116b326b9"
-    },
-    {
-        "suppliercode": "4f3fd199-2310-4089-a15e-252ab6d220e1"
-    },
-    {
-        "suppliercode": "4f89f0eb-6af8-45d3-a290-ac7a560aee17"
-    },
-    {
-        "suppliercode": "50916dda-14e2-4d77-bf0b-ca71ab415498"
-    },
-    {
-        "suppliercode": "50c93cb0-8982-41be-94cb-c8683572f31a"
-    },
-    {
-        "suppliercode": "526356ec-5478-4bc1-b5d1-7c59bc800aee"
-    },
-    {
-        "suppliercode": "527e6cf7-7698-4ed7-821e-5ddf9e2f2619"
-    },
-    {
-        "suppliercode": "52fa91fd-fff2-4154-8013-33090167f04d"
-    },
-    {
-        "suppliercode": "5327207f-1033-489a-889d-85dfb96e985d"
-    },
-    {
-        "suppliercode": "53748aa6-7a8f-4a3e-bb50-158ae741bf14"
-    },
-    {
-        "suppliercode": "53806860-82d8-4ac7-bab4-e396ae44fb32"
-    },
-    {
-        "suppliercode": "539c607c-f4a5-41ba-bb1b-72c1c2851426"
-    },
-    {
-        "suppliercode": "53b63b96-e9e5-4cb2-9af5-5684c7211e56"
-    },
-    {
-        "suppliercode": "53d3cfae-d970-4789-969a-b3121628bd8f"
-    },
-    {
-        "suppliercode": "541c17f4-26c5-46d5-b486-ad51da7ef533"
-    },
-    {
-        "suppliercode": "543bfd54-1ea4-4a0c-a1ad-5309f9958f41"
-    },
-    {
-        "suppliercode": "54bb13b9-8d3f-42d8-99fe-e821ef664699"
-    },
-    {
-        "suppliercode": "55710685-4a5f-4588-8d8e-b318b0ef5911"
-    },
-    {
-        "suppliercode": "55bbd38b-c4da-4106-b8da-cc203037d353"
-    },
-    {
-        "suppliercode": "560bc917-3aa5-40f1-aabf-2c88949096f3"
-    },
-    {
-        "suppliercode": "561151c9-19d2-4b47-a92b-a652207845ed"
-    },
-    {
-        "suppliercode": "56841014-2bbf-49dc-bb8d-a94e7af27b2b"
-    },
-    {
-        "suppliercode": "579196f5-f900-4ddf-ab8b-ba8f90145727"
-    },
-    {
-        "suppliercode": "58abe2ea-cfe0-4c26-9441-c29561b92cc9"
-    },
-    {
-        "suppliercode": "58c770fb-11e2-40a8-8ccd-aa1981149821"
-    },
-    {
-        "suppliercode": "58d35767-654e-4dd6-b6be-39927ee251f8"
-    },
-    {
-        "suppliercode": "593d599a-699c-4de4-aaa4-bcb6d55d051e"
-    },
-    {
-        "suppliercode": "59672293-f4df-4fe2-b689-c3462ed78d24"
-    },
-    {
-        "suppliercode": "59bbd261-17e3-421d-83cd-2c801aea5b46"
-    },
-    {
-        "suppliercode": "5ad05172-1deb-46d2-8dcc-7e666c255072"
-    },
-    {
-        "suppliercode": "5b5e73d5-0206-4d6a-a390-f861a410d599"
-    },
-    {
-        "suppliercode": "5b8b1379-6a18-4ed6-bbdf-37534e56a20e"
-    },
-    {
-        "suppliercode": "5c13c359-d53f-403c-9ad7-b324bf79ba1d"
-    },
-    {
-        "suppliercode": "5c9b2c89-ce43-4aeb-b7a1-f14c859df03c"
-    },
-    {
-        "suppliercode": "5d0fdc9d-c059-4e89-a362-d784aba111df"
-    },
-    {
-        "suppliercode": "5d88be2a-012b-4dcc-957e-b765a741b9a5"
-    },
-    {
-        "suppliercode": "5e19bec4-49ea-48c1-a00e-8b25c126aea3"
-    },
-    {
-        "suppliercode": "5f45a053-f811-47b2-9fb3-22a554afc072"
-    },
-    {
-        "suppliercode": "5f60ae34-2057-4679-8bde-8616c5460342"
-    },
-    {
-        "suppliercode": "5fa82814-68b0-4df9-a759-d3fd671b586d"
-    },
-    {
-        "suppliercode": "603bf035-88f1-4486-8ce6-980b2782d81e"
-    },
-    {
-        "suppliercode": "607cb9a8-d7ce-44b1-b5da-a36859db8f60"
-    },
-    {
-        "suppliercode": "6083424e-b371-4fae-bd24-1548d3ac7c97"
-    },
-    {
-        "suppliercode": "61072348-b60c-42cc-a89e-bc093c3556ce"
-    },
-    {
-        "suppliercode": "614b9c28-0bda-4728-a789-65c3f797ef68"
-    },
-    {
-        "suppliercode": "6184c539-cbea-42bd-852b-6be71c1f0ea0"
-    },
-    {
-        "suppliercode": "6223e6fe-5cd1-4e55-8673-bfd34e492e38"
-    },
-    {
-        "suppliercode": "62845874-0433-4659-801c-0025f8317ac7"
-    },
-    {
-        "suppliercode": "62982019-e541-46b4-8877-f095047262fd"
-    },
-    {
-        "suppliercode": "62c25dd8-4463-449b-aae8-4d0d9b87f5f5"
-    },
-    {
-        "suppliercode": "630aefe4-6d03-406c-a713-ded0d503ffaf"
-    },
-    {
-        "suppliercode": "634077da-7fa6-4c0a-a6d2-73bc475b7522"
-    },
-    {
-        "suppliercode": "63f4247a-bc8b-4d70-97e0-6223b0a5eded"
-    },
-    {
-        "suppliercode": "6400f94a-f491-4d1c-96ab-4dc7aa5f379a"
-    },
-    {
-        "suppliercode": "652032ac-6793-450c-8b45-f9ad5fee4b1d"
-    },
-    {
-        "suppliercode": "6611e904-388d-426c-b2f7-6a2deebb0298"
-    },
-    {
-        "suppliercode": "66608156-80c9-4c38-a830-831fb88f4773"
-    },
-    {
-        "suppliercode": "667c2371-2f8e-4201-ae80-9f1de7319ab1"
-    },
-    {
-        "suppliercode": "66b50c78-e122-48b1-8a7c-8dded75411e0"
-    },
-    {
-        "suppliercode": "677cef18-7bb4-4079-b82b-081e871346eb"
-    },
-    {
-        "suppliercode": "679cbc52-dd80-418c-b6f2-5be7e18c1436"
-    },
-    {
-        "suppliercode": "67c0104d-a565-4cd8-a1b0-45d7e78eb886"
-    },
-    {
-        "suppliercode": "683f117a-acde-4202-9da7-e5e56fbf01eb"
-    },
-    {
-        "suppliercode": "684487e8-8c44-46c5-8612-97f6cc319ed3"
-    },
-    {
-        "suppliercode": "68506132-3b05-4504-92e7-bf64e707a448"
-    },
-    {
-        "suppliercode": "68ecbaa6-cf18-48d9-9003-c98bbfcc9428"
-    },
-    {
-        "suppliercode": "6919c484-72f9-4354-a2e0-7a9444ce6f51"
-    },
-    {
-        "suppliercode": "6940bddc-e5cb-458d-9a76-3a190521e3c1"
-    },
-    {
-        "suppliercode": "6955ff9c-646d-48f9-8788-9c70a8d123a4"
-    },
-    {
-        "suppliercode": "69f21899-a94d-4f5e-aef9-a1ae2eca7a9e"
-    },
-    {
-        "suppliercode": "6a45b914-e499-47f5-9bd9-a1d04f856a6a"
-    },
-    {
-        "suppliercode": "6a4ef6df-b892-4a40-a6ac-34ea28bb4ae3"
-    },
-    {
-        "suppliercode": "6ae8a085-4a10-4c02-a9eb-896683aacc61"
-    },
-    {
-        "suppliercode": "6aefc31f-2ea0-4056-a30d-82cfde3d54b3"
-    },
-    {
-        "suppliercode": "6b50a9e5-a197-4657-97e6-94bee3769369"
-    },
-    {
-        "suppliercode": "6c18d5d4-594e-477d-ab62-7920000b5e51"
-    },
-    {
-        "suppliercode": "6cc85425-87b6-4c8c-b5de-8d725903a44a"
-    },
-    {
-        "suppliercode": "6d520c9f-12c8-4a69-8904-6ab2cb37c0df"
-    },
-    {
-        "suppliercode": "6df3ed81-6acd-4ac5-9e36-c2daf4eb582c"
-    },
-    {
-        "suppliercode": "6df90fab-78e2-4b75-8882-5c2497b8d454"
-    },
-    {
-        "suppliercode": "6dfc6658-44c3-49f4-b5f0-2323335bd228"
-    },
-    {
-        "suppliercode": "6e08e857-796d-4507-aae2-cfbf95024a41"
-    },
-    {
-        "suppliercode": "6e19fd55-4362-423d-b095-556854e359c4"
-    },
-    {
-        "suppliercode": "6e46f518-5dfe-4459-8cef-2e39aac5c14e"
-    },
-    {
-        "suppliercode": "6e531c69-3a80-448a-a713-1c3540467bd2"
-    },
-    {
-        "suppliercode": "6ea1130c-cd55-40f6-aca1-8df06a9cbd3c"
-    },
-    {
-        "suppliercode": "702d6318-cc4c-4000-99b4-85ad0dddb9b8"
-    },
-    {
-        "suppliercode": "703b97b7-e0b7-4f3d-a930-959ffe8db3f5"
-    },
-    {
-        "suppliercode": "70fb25e6-9d4b-4096-a1fc-1cfd73e6a27f"
-    },
-    {
-        "suppliercode": "710b7e5c-2c6f-4500-92cb-acd8dc6cb477"
-    },
-    {
-        "suppliercode": "7122e330-2c1f-4c96-9c69-12633d362bf0"
-    },
-    {
-        "suppliercode": "715b9d31-e009-4268-bec0-cf02d10967b8"
-    },
-    {
-        "suppliercode": "71f72e90-5fe4-414f-b23c-7ea06c4c012b"
-    },
-    {
-        "suppliercode": "722885ab-7ad5-4edd-afb8-6141d2d9b91e"
-    },
-    {
-        "suppliercode": "72749083-ee13-4895-8afd-ca5340e8c5cc"
-    },
-    {
-        "suppliercode": "7385d4ea-afc5-43b4-913c-133468918adc"
-    },
-    {
-        "suppliercode": "74ed29bc-30bf-49cf-bb9d-e0191404e3f1"
-    },
-    {
-        "suppliercode": "75511785-a003-4488-b6f5-045eadb7efaa"
-    },
-    {
-        "suppliercode": "75fe6924-a08b-405e-bdb7-6e3e8bc57ba4"
-    },
-    {
-        "suppliercode": "76ff48d5-e729-4b76-be39-eed4ac25a490"
-    },
-    {
-        "suppliercode": "773b4f98-aa5d-40e8-9714-a805046978f9"
-    },
-    {
-        "suppliercode": "781d01f9-ebee-4337-99f3-47de8e950b9e"
-    },
-    {
-        "suppliercode": "78831615-dbd5-4624-97ce-ddf1eef1a5bc"
-    },
-    {
-        "suppliercode": "78c6f6c0-7d75-4a03-89d7-7f3d05f4cf21"
-    },
-    {
-        "suppliercode": "7a0aa374-bd34-413c-9b5e-518db68eb1cf"
-    },
-    {
-        "suppliercode": "7b9b9b3f-7a8f-4f4a-9833-0cb8bf6601c3"
-    },
-    {
-        "suppliercode": "7c0f97c2-893c-499d-af37-c8fc8326e3fa"
-    },
-    {
-        "suppliercode": "7c436d9a-7871-4270-a60d-8ccb98d96c75"
-    },
-    {
-        "suppliercode": "7c9e1a97-0857-4284-b609-5c20c015f99b"
-    },
-    {
-        "suppliercode": "7cd34e98-fd4f-4bf1-8cc1-e1b3b27c7fd2"
-    },
-    {
-        "suppliercode": "7cdf2eb2-d5a6-4e1a-a258-e9d5b881da4c"
-    },
-    {
-        "suppliercode": "7ce3f041-894d-45b3-bb54-c2341c42201a"
-    },
-    {
-        "suppliercode": "7cecd208-f8c8-40c5-9518-cee9786552de"
-    },
-    {
-        "suppliercode": "7d1d4741-7c60-468f-8878-66e7a74e9ebf"
-    },
-    {
-        "suppliercode": "7d30d064-b248-4351-bb11-94702b656f39"
-    },
-    {
-        "suppliercode": "7e4fc883-d08e-4668-bf09-1100eb9a4bf2"
-    },
-    {
-        "suppliercode": "7eb9ff0b-9a84-4ef0-8810-ef8ea316024b"
-    },
-    {
-        "suppliercode": "7ef25132-cd25-4dd3-80c9-51f288ab310c"
-    },
-    {
-        "suppliercode": "7f73880d-0472-439b-9140-ae78e930194d"
-    },
-    {
-        "suppliercode": "7fefdc3b-ef79-4c8f-8746-6318c18a23cd"
-    },
-    {
-        "suppliercode": "8121049f-0512-4165-85a7-57a7516af655"
-    },
-    {
-        "suppliercode": "836e994b-6fbb-413d-aa96-851116a4dd11"
-    },
-    {
-        "suppliercode": "83efa98c-e2b2-436c-b886-19fcc42e4ab9"
-    },
-    {
-        "suppliercode": "84"
-    },
-    {
-        "suppliercode": "84613204-abc7-49e3-87a7-a6fe1055ae4f"
-    },
-    {
-        "suppliercode": "84a77ef0-eceb-4c58-8042-6a29923a3b9b"
-    },
-    {
-        "suppliercode": "8566affd-88ec-4a5b-bbf5-61850427e08c"
-    },
-    {
-        "suppliercode": "85e27d91-925d-49af-a8da-97b2e9579e52"
-    },
-    {
-        "suppliercode": "860e6ecb-f99b-41ce-8228-ca45852455f5"
-    },
-    {
-        "suppliercode": "862974c9-2b6c-4f22-aaac-22333d4abe7c"
-    },
-    {
-        "suppliercode": "86c16d82-1a79-49df-9c21-fad703d170ed"
-    },
-    {
-        "suppliercode": "86e994d8-a2c5-40e6-a499-fecac8f7df2d"
-    },
-    {
-        "suppliercode": "86fd22fe-fce4-4421-853d-451bf23699c9"
-    },
-    {
-        "suppliercode": "873da9fa-0e7f-4cfc-b8dd-216d4961f481"
-    },
-    {
-        "suppliercode": "88df4ee6-2b91-4a2c-9068-0dc2e11ada55"
-    },
-    {
-        "suppliercode": "8a484e8c-8ef7-4b53-809d-3deab0bc7246"
-    },
-    {
-        "suppliercode": "8a800f4c-a7b2-461d-8a90-3a6b13510b9b"
-    },
-    {
-        "suppliercode": "8a8fd8be-bdb6-456a-8c88-b1811e64e3d4"
-    },
-    {
-        "suppliercode": "8a94a2ae-a9f1-418f-915c-a4b8283d9f31"
-    },
-    {
-        "suppliercode": "8ab7478e-3207-4918-a684-4ef34e02dd0f"
-    },
-    {
-        "suppliercode": "8abc5087-d8c9-43a7-a65b-9859f5c3e936"
-    },
-    {
-        "suppliercode": "8b119371-fd52-484c-a3bc-5692d45f1812"
-    },
-    {
-        "suppliercode": "8b86de9e-81cb-4dd4-aac6-2febe9e83351"
-    },
-    {
-        "suppliercode": "8b998007-7226-4e0f-80e2-5e3b70407838"
-    },
-    {
-        "suppliercode": "8d5c4226-f56a-4f02-9843-d67e5c12798e"
-    },
-    {
-        "suppliercode": "8e1c43e2-90a4-420f-926e-d0aea3312fc5"
-    },
-    {
-        "suppliercode": "8e5506db-43c4-4aab-9495-d94c4ee81760"
-    },
-    {
-        "suppliercode": "8ed2eb5c-7bd3-4f13-a599-d36ccbe96b1e"
-    },
-    {
-        "suppliercode": "8fb6ba9c-2abc-4878-9cba-6816f898e514"
-    },
-    {
-        "suppliercode": "8fd86056-7802-4284-a3e7-96d63d865132"
-    },
-    {
-        "suppliercode": "9032e03a-90d6-49ae-99ca-4f0046ef15e4"
-    },
-    {
-        "suppliercode": "90747eb1-bc20-436e-89a7-b8beb99ddad6"
-    },
-    {
-        "suppliercode": "90aebb15-86a8-4cb0-b7f2-03bebdd52e89"
-    },
-    {
-        "suppliercode": "90c7c894-8206-43b8-a01d-6208600dbbf0"
-    },
-    {
-        "suppliercode": "90f74a9a-f6b9-43c8-8f89-7205bb566bb7"
-    },
-    {
-        "suppliercode": "90fa8e22-2edb-41b0-a655-e6660672fc6d"
-    },
-    {
-        "suppliercode": "912df1a1-1a7c-4135-a68b-1e77bff5383f"
-    },
-    {
-        "suppliercode": "918faef7-d580-42f6-a79e-085b7daf6ebe"
-    },
-    {
-        "suppliercode": "922c1580-d930-49d1-8140-09e5e721e318"
-    },
-    {
-        "suppliercode": "928600a6-477f-432b-acaa-46d07954af28"
-    },
-    {
-        "suppliercode": "9322a284-855d-4766-938b-aca28f329c16"
-    },
-    {
-        "suppliercode": "936dba82-d753-4aab-a278-53e46194f07d"
-    },
-    {
-        "suppliercode": "93842883-5d94-4944-9916-1a9607479156"
-    },
-    {
-        "suppliercode": "93a014c2-8447-424b-8420-5a29d8ec284c"
-    },
-    {
-        "suppliercode": "943fef2d-2dba-49be-80f4-709e0e48568c"
-    },
-    {
-        "suppliercode": "94923e1a-5f93-4109-8ad8-140e20be8a8f"
-    },
-    {
-        "suppliercode": "94cd6785-30ed-498d-94ed-a248652d24f9"
-    },
-    {
-        "suppliercode": "951f85ae-d8fb-47d0-89ef-9b16fa3b76fa"
-    },
-    {
-        "suppliercode": "95342b9c-835f-47bc-b82a-1498fe785a9c"
-    },
-    {
-        "suppliercode": "9557da3f-3450-4a88-860c-013e3dd4949f"
-    },
-    {
-        "suppliercode": "956d89e5-f634-4096-8a17-5b2e96123e53"
-    },
-    {
-        "suppliercode": "964cd499-7d99-435e-abbe-bf02c1a13135"
-    },
-    {
-        "suppliercode": "9654b7f5-771b-4623-9044-b548cb978094"
-    },
-    {
-        "suppliercode": "9713d0e3-ecbf-450a-a780-507fb599201f"
-    },
-    {
-        "suppliercode": "97ad13a2-5fbc-425b-b446-66d9561fd3b5"
-    },
-    {
-        "suppliercode": "97cc52d8-b205-44d7-b2ac-103d1516118a"
-    },
-    {
-        "suppliercode": "9838e3b1-1f70-46b7-9c6d-684078970d5c"
-    },
-    {
-        "suppliercode": "98b41798-84b0-4f7d-97e3-e62623b660b7"
-    },
-    {
-        "suppliercode": "98e5f07d-1994-4ac3-be84-cb050e52e5b1"
-    },
-    {
-        "suppliercode": "9915bc4a-295b-4de6-af27-3a5c2ad0d416"
-    },
-    {
-        "suppliercode": "9a3f56b3-7dcf-4e95-bc17-6e76b3e70b8b"
-    },
-    {
-        "suppliercode": "9a727e5a-9fda-4b83-8179-0fd19cbfaefc"
-    },
-    {
-        "suppliercode": "9a7ab187-b16c-4364-9a15-746624e88cd0"
-    },
-    {
-        "suppliercode": "9a819550-7290-4e63-bce2-2adf8ea6bddc"
-    },
-    {
-        "suppliercode": "9ac46301-d60a-4560-a3c2-4e091ffbf9c0"
-    },
-    {
-        "suppliercode": "9b1dd06d-1275-4d55-8d7a-3c50c4c96c8d"
-    },
-    {
-        "suppliercode": "9b8161f5-5979-4c18-905d-035829c2075e"
-    },
-    {
-        "suppliercode": "9b914470-1f87-4130-bb75-56b71d566b00"
-    },
-    {
-        "suppliercode": "9c426eac-cae4-42e8-a3d3-98a904024323"
-    },
-    {
-        "suppliercode": "9c7f78b0-bece-4b06-8810-97afaaec3ead"
-    },
-    {
-        "suppliercode": "9d3620ff-ac95-4475-9df3-a246a6f49ea5"
-    },
-    {
-        "suppliercode": "9d700c89-06c2-445a-8e8c-822bdc10f1e3"
-    },
-    {
-        "suppliercode": "9d92475b-e66b-45b5-a566-62dd3cbf2354"
-    },
-    {
-        "suppliercode": "9da87632-a266-4be5-ac2a-4c1948043ade"
-    },
-    {
-        "suppliercode": "9dae00c9-0b70-4ff1-9a08-64437574f6ad"
-    },
-    {
-        "suppliercode": "9ef8d6f6-2a34-4b77-9b91-8c88f9c5190f"
-    },
-    {
-        "suppliercode": "9fc44a86-f549-4b9b-a5fb-8f0b03c510e2"
-    },
-    {
-        "suppliercode": "a06ed5be-9a8f-4870-a6a6-05700fd67091"
-    },
-    {
-        "suppliercode": "a0a16666-5566-4402-8ef6-d92744a19f6e"
-    },
-    {
-        "suppliercode": "a0ad10f3-68a5-42e3-9678-c7e6e03c34b9"
-    },
-    {
-        "suppliercode": "a102baae-7f3e-41bd-be62-808f1de622d8"
-    },
-    {
-        "suppliercode": "a108765c-cb6c-44bc-a3ae-ddbea53823f8"
-    },
-    {
-        "suppliercode": "a1a23a88-0346-4e0d-a88a-5dec70d7ff83"
-    },
-    {
-        "suppliercode": "a219c946-aad7-4633-a4f5-e70139ffb39b"
-    },
-    {
-        "suppliercode": "a33bc13f-4cf9-413a-9729-3ac85e703598"
-    },
-    {
-        "suppliercode": "a3499ed4-2bb7-485f-840e-dfd7af9cd4ab"
-    },
-    {
-        "suppliercode": "a3b98da6-0ebd-490b-9f3b-02cc1aef2858"
-    },
-    {
-        "suppliercode": "a3edffc9-c027-4000-93da-ecb21a02320c"
-    },
-    {
-        "suppliercode": "a4e10acb-824a-4351-a537-85472c8accad"
-    },
-    {
-        "suppliercode": "a522ae24-c55c-4847-8666-63d8fba2e1ab"
-    },
-    {
-        "suppliercode": "a556db04-95ad-4a1d-8cc7-a17fdebfb094"
-    },
-    {
-        "suppliercode": "a643b2cb-ad17-493b-94e7-6c48e07f0080"
-    },
-    {
-        "suppliercode": "a67afd69-d312-4614-a67e-bcd9539b5882"
-    },
-    {
-        "suppliercode": "a75f96cb-c4cb-4736-88bc-bd384df4f2f6"
-    },
-    {
-        "suppliercode": "a7fffb01-8db2-41c3-851b-914d59656558"
-    },
-    {
-        "suppliercode": "a91eb1f2-92b5-4815-bf2d-4929122f1a96"
-    },
-    {
-        "suppliercode": "a9354bc5-c882-49a9-90da-f19bca34aa24"
-    },
-    {
-        "suppliercode": "a967a007-5fd9-4f9d-9eca-0a06b3bba112"
-    },
-    {
-        "suppliercode": "a9b0dcde-7185-4d17-a236-e5425ee0151f"
-    },
-    {
-        "suppliercode": "a9fab8e4-7d63-4cd9-8422-4f82901d3e21"
-    },
-    {
-        "suppliercode": "aaed392a-1b82-4c7b-af01-17a4e5b60ca7"
-    },
-    {
-        "suppliercode": "ab7a1e55-e070-4387-98a6-7e472f0b9386"
-    },
-    {
-        "suppliercode": "ab8a206b-08e5-4b6a-9f7e-614fef1d5124"
-    },
-    {
-        "suppliercode": "abee9139-44e5-4280-a95c-14a4c808caf6"
-    },
-    {
-        "suppliercode": "ac6e3916-bb89-4dcf-b83a-e63825731bbc"
-    },
-    {
-        "suppliercode": "acb8a1ed-05d3-4f43-bf06-92927089d694"
-    },
-    {
-        "suppliercode": "ad23b80b-bef9-4d93-a78f-237d7bd0de86"
-    },
-    {
-        "suppliercode": "ad7e3408-7918-42c8-b3d1-512f9e7f8ea3"
-    },
-    {
-        "suppliercode": "ad8d19b6-1ea0-4443-97c2-0a2650ed9c14"
-    },
-    {
-        "suppliercode": "add90d8b-1ab7-4fdb-b18f-089c9bfb1c9d"
-    },
-    {
-        "suppliercode": "adedc355-0e3a-4351-9dfd-6620798abe20"
-    },
-    {
-        "suppliercode": "ae254346-1ba7-460d-948a-c8ef8cd9a33a"
-    },
-    {
-        "suppliercode": "af31ec1a-3fb7-49ac-aa0a-f996a516ffb3"
-    },
-    {
-        "suppliercode": "af3e8f3d-fdfe-49e6-8df8-48f38d4ef396"
-    },
-    {
-        "suppliercode": "af6b9c7a-cb1e-40b2-af76-7b7e3ad182ec"
-    },
-    {
-        "suppliercode": "af8d2518-23b1-4cc8-8dfe-ea78c0bf5b9f"
-    },
-    {
-        "suppliercode": "afbc79e0-8e15-452d-aabe-24d44bf1d292"
-    },
-    {
-        "suppliercode": "afeaadaa-915f-450c-8857-d4d6d8b5c72e"
-    },
-    {
-        "suppliercode": "affeb5de-e4b6-4b6f-9a1d-33d740710937"
-    },
-    {
-        "suppliercode": "b0567ccf-235b-4d51-b69b-b8b96f28c508"
-    },
-    {
-        "suppliercode": "b0b8b055-0a73-4f00-9ff3-f888ea11789e"
-    },
-    {
-        "suppliercode": "b1742cad-39b1-445d-8bcb-4e68ca99183a"
-    },
-    {
-        "suppliercode": "b191d164-01cb-48e1-9311-827c1b5132c7"
-    },
-    {
-        "suppliercode": "b1dcb2cf-39c0-4480-81eb-df740effd4f5"
-    },
-    {
-        "suppliercode": "b1f7d12f-e1be-459a-8e39-0c4590c5208f"
-    },
-    {
-        "suppliercode": "b2a99490-0561-415d-903a-62339da38b66"
-    },
-    {
-        "suppliercode": "b2d017f4-fa72-42f5-8a71-e7745fa59e36"
-    },
-    {
-        "suppliercode": "b324c692-629b-4891-9338-2fd63a97fa96"
-    },
-    {
-        "suppliercode": "b3e6827f-0f57-466f-a055-7ed75dcbe02c"
-    },
-    {
-        "suppliercode": "b455e1f9-1630-4845-acd7-b6663bc2cc37"
-    },
-    {
-        "suppliercode": "b48f2bb2-d167-4fc6-aaf0-5fe99a897753"
-    },
-    {
-        "suppliercode": "b49f0e98-33e5-4c39-9fbe-35da892d04f8"
-    },
-    {
-        "suppliercode": "b4d89125-767a-4e12-a360-68258344c7d4"
-    },
-    {
-        "suppliercode": "b5c3567b-317c-441a-ba13-5288673cc090"
-    },
-    {
-        "suppliercode": "b5e740b5-fff9-4a64-b64b-494a8ccc4e0f"
-    },
-    {
-        "suppliercode": "b6a88190-58c4-4715-9c14-0465b394d7ec"
-    },
-    {
-        "suppliercode": "b6ed00cb-22e6-465f-8a4c-8dd2fdb6ddcb"
-    },
-    {
-        "suppliercode": "b708318f-965b-4352-91db-1d34dd5aa216"
-    },
-    {
-        "suppliercode": "b7aa1644-5b49-4157-8f1c-b211786f9690"
-    },
-    {
-        "suppliercode": "b7b86b0c-b6e9-4cf4-8d32-ae57e4a91d7b"
-    },
-    {
-        "suppliercode": "b7ef576b-a645-4818-8ff9-c23b20ee4ccc"
-    },
-    {
-        "suppliercode": "b8c2723b-8ea6-4123-9158-579b750459d4"
-    },
-    {
-        "suppliercode": "b93bcc3a-337a-446f-9318-4bf7c9cff3dc"
-    },
-    {
-        "suppliercode": "b9812213-220a-4bcc-a184-fa6c3f4a9e31"
-    },
-    {
-        "suppliercode": "b98c95f4-a884-42e1-8a1f-951b0f77ad63"
-    },
-    {
-        "suppliercode": "b9b37027-e814-4ca7-924a-3e58b7c24891"
-    },
-    {
-        "suppliercode": "b9bed582-3556-459e-b7a3-40e4dcb72af6"
-    },
-    {
-        "suppliercode": "ba89f070-01d3-49a6-b48e-8a6a0ba30ad8"
-    },
-    {
-        "suppliercode": "baccf651-368a-4d33-9377-d811b617c38f"
-    },
-    {
-        "suppliercode": "bacda23a-5b54-40b8-aaae-db148aa79fb4"
-    },
-    {
-        "suppliercode": "bb145907-9d9d-41c2-b619-3847a1ca62d2"
-    },
-    {
-        "suppliercode": "bc4cbd09-619b-41e8-8261-aab20550be40"
-    },
-    {
-        "suppliercode": "bc8edddb-4a11-40f1-9514-0284da87ff4f"
-    },
-    {
-        "suppliercode": "bcedf94a-8b61-40ff-af2f-ad0d97a276f8"
-    },
-    {
-        "suppliercode": "bd0f39c2-eb10-46eb-be31-d0a3aa8866e5"
-    },
-    {
-        "suppliercode": "bd77ce6c-aad0-406f-815b-26fd4368dce4"
-    },
-    {
-        "suppliercode": "bdfd2026-34f4-4815-9dbb-fb319363fc7f"
-    },
-    {
-        "suppliercode": "bf093f60-ca63-443c-aa3d-28b067a95dc8"
-    },
-    {
-        "suppliercode": "bf565b71-703a-467d-96ac-4d2a24be04a6"
-    },
-    {
-        "suppliercode": "bf709681-39c7-4b19-a9fe-119be99c531a"
-    },
-    {
-        "suppliercode": "bf7307d2-d724-47a3-9de5-d0e3275ca582"
-    },
-    {
-        "suppliercode": "c0007ab6-c61f-4349-b0ee-e5b243226bd9"
-    },
-    {
-        "suppliercode": "c0172aec-5316-4f0e-9562-de8edbf9acbb"
-    },
-    {
-        "suppliercode": "c0be532a-0644-4e6f-9bf1-078b3e7500d1"
-    },
-    {
-        "suppliercode": "c114347c-9e71-4fe7-a8ea-0d329c5645b9"
-    },
-    {
-        "suppliercode": "c16bf102-0d91-4d8e-ac7d-48c36cd4fad3"
-    },
-    {
-        "suppliercode": "c1e94257-b417-45dc-a1a3-d216b0da2990"
-    },
-    {
-        "suppliercode": "c2013075-5053-4f6d-95ba-41051ceeb33a"
-    },
-    {
-        "suppliercode": "c33c0a98-3288-4311-a945-ebf8c6009745"
-    },
-    {
-        "suppliercode": "c3e2a8ab-581d-4aab-aedc-be9cd33c78c0"
-    },
-    {
-        "suppliercode": "c3fd20b1-c736-4b32-85c7-fea484b5f13d"
-    },
-    {
-        "suppliercode": "c3fdf276-e892-4011-ae9e-d3cd42573e00"
-    },
-    {
-        "suppliercode": "c42831a2-d43d-4c3b-8df5-8296bfd53369"
-    },
-    {
-        "suppliercode": "c45adb9f-38ca-4a35-8d34-c823c8e4a8fe"
-    },
-    {
-        "suppliercode": "c45e5fd0-7040-456a-95eb-6d1494ff1824"
-    },
-    {
-        "suppliercode": "c4617cbb-368f-4a85-9c40-c94f37691bc2"
-    },
-    {
-        "suppliercode": "c49ca8a5-1a7a-4630-a5eb-043cf30ab77f"
-    },
-    {
-        "suppliercode": "c4ce3775-ba0d-4900-b626-7c23685b39e8"
-    },
-    {
-        "suppliercode": "c4d99577-55ae-453c-8e43-d1a5a03ba1df"
-    },
-    {
-        "suppliercode": "c52b3c96-909f-41cb-a743-3b86b79d05ea"
-    },
-    {
-        "suppliercode": "c5b4a152-0220-4c04-8034-d05ebd194da3"
-    },
-    {
-        "suppliercode": "c5f9ce3a-3bda-4998-8958-e1abc002181d"
-    },
-    {
-        "suppliercode": "c5fac786-a56e-4f63-b69e-3138b516142c"
-    },
-    {
-        "suppliercode": "c5ff890d-286c-416e-8382-1aa5b9a1abbc"
-    },
-    {
-        "suppliercode": "c6b81a0c-091f-4ed8-9895-762521ac4f7a"
-    },
-    {
-        "suppliercode": "c6e32613-b2cb-450c-af21-3bbfaa5b3cde"
-    },
-    {
-        "suppliercode": "c7240969-9455-4a00-a27d-b27fed8a59fc"
-    },
-    {
-        "suppliercode": "c7366a51-206d-4ef7-a046-5e506d172d35"
-    },
-    {
-        "suppliercode": "c765c618-d46b-4186-b856-81568ff879bb"
-    },
-    {
-        "suppliercode": "c7d3a4d2-5ae7-413b-b54b-406e76cff150"
-    },
-    {
-        "suppliercode": "c7ec4eed-7c26-4a33-8018-bc71f7b45f23"
-    },
-    {
-        "suppliercode": "c801f115-3bf0-43fe-ad74-2b0653be92d1"
-    },
-    {
-        "suppliercode": "c83c5b4b-771b-4104-8f9f-6f28250a3387"
-    },
-    {
-        "suppliercode": "c840761f-eead-4264-8292-ad67517f8806"
-    },
-    {
-        "suppliercode": "c88fe919-aaaa-423b-9146-eea3bb669ab7"
-    },
-    {
-        "suppliercode": "c8b7cb87-9652-42c6-b9f0-971c8746f7d3"
-    },
-    {
-        "suppliercode": "c90d4ce0-0f84-4a76-9ff0-a8952c5f087d"
-    },
-    {
-        "suppliercode": "c9118686-eb82-40c2-89e9-9276aded9cfc"
-    },
-    {
-        "suppliercode": "ca532dcd-f22d-4295-96d0-18dd4c06692d"
-    },
-    {
-        "suppliercode": "ca6b87e2-d15a-444e-a23f-242fe4667cc3"
-    },
-    {
-        "suppliercode": "ca7c4ccb-3ab2-4a4c-a1d4-fe94d335fecf"
-    },
-    {
-        "suppliercode": "ca82dc78-c08e-45c9-bc1c-f419638e7365"
-    },
-    {
-        "suppliercode": "caa40f97-5128-4d72-9e07-2991d718f855"
-    },
-    {
-        "suppliercode": "cad62acf-d0a6-4631-b5a1-38456bc4f964"
-    },
-    {
-        "suppliercode": "cb4137f3-eaba-469b-846b-37d361625449"
-    },
-    {
-        "suppliercode": "cbccb97d-4eb5-471d-9ff8-b80168d8ced0"
-    },
-    {
-        "suppliercode": "cc74ed82-5c8c-4e7f-999f-a11a2139a9ac"
-    },
-    {
-        "suppliercode": "cc7e0365-6a7f-4a10-b960-8b15ddbe4eda"
-    },
-    {
-        "suppliercode": "ce228c96-c2f9-4034-8b08-5d9879a1aa9b"
-    },
-    {
-        "suppliercode": "ce2c4647-81e0-44b5-bf71-e494a6d45e90"
-    },
-    {
-        "suppliercode": "ceab61e3-ed0f-43a4-a753-3d1558b71fc0"
-    },
-    {
-        "suppliercode": "cecb07ea-ca14-4ecc-90ae-5bbffe164407"
-    },
-    {
-        "suppliercode": "cecf0d4f-f841-405e-bd5e-97e2d3dd3feb"
-    },
-    {
-        "suppliercode": "ceeb4833-c927-4321-bd3e-b78d34f89b1b"
-    },
-    {
-        "suppliercode": "cfabf230-ff3e-41f9-bc79-54bc989c8f71"
-    },
-    {
-        "suppliercode": "cfc5aaf9-53ee-4387-8d77-a7b9511cec9d"
-    },
-    {
-        "suppliercode": "d0c93620-fd74-4373-915f-053e4d984732"
-    },
-    {
-        "suppliercode": "d12148b6-9eae-49cf-a38f-142cebd2b287"
-    },
-    {
-        "suppliercode": "d12b0a1f-642b-400e-bc9e-498f0ff1dada"
-    },
-    {
-        "suppliercode": "d1d0f67d-240a-4eac-a1e6-2a7892f1fbc1"
-    },
-    {
-        "suppliercode": "d1d99054-2582-4c0e-98d1-6fae1b008dbb"
-    },
-    {
-        "suppliercode": "d29f7e22-99e5-4b18-9bde-37ce4629a26b"
-    },
-    {
-        "suppliercode": "d2a26d31-41ed-441f-bfc6-52d55113b07e"
-    },
-    {
-        "suppliercode": "d2e49cb5-6ff2-4e24-aaf9-c1b5b39400d8"
-    },
-    {
-        "suppliercode": "d365b2c0-9b88-4507-ab0d-f91c15ecfbd3"
-    },
-    {
-        "suppliercode": "d382e709-e3a7-49fd-885f-f977fa70482f"
-    },
-    {
-        "suppliercode": "d3eb11f7-d3ad-406b-bc62-46562ae4dd0d"
-    },
-    {
-        "suppliercode": "d47afa3c-6a4f-4af9-ac70-a6e360490458"
-    },
-    {
-        "suppliercode": "d4c4d582-ce58-4c64-863f-18e68c497935"
-    },
-    {
-        "suppliercode": "d4c7bcc9-81a8-431e-9e26-f9023397e5c5"
-    },
-    {
-        "suppliercode": "d521a6bb-df42-4e02-b425-d7990a1670d4"
-    },
-    {
-        "suppliercode": "d625950d-093f-452b-afb6-12d40ebea35b"
-    },
-    {
-        "suppliercode": "d67d1388-73de-4a34-bd99-5eeca6bfbd1c"
-    },
-    {
-        "suppliercode": "d737ce02-1876-483a-b647-f7906846fd90"
-    },
-    {
-        "suppliercode": "d7bf69a4-1bfa-48ca-b54b-876c62c6e012"
-    },
-    {
-        "suppliercode": "d7f4e810-cd93-4909-bf76-4bd849a8a82f"
-    },
-    {
-        "suppliercode": "d8e2e44a-ec58-44ad-9899-c9037aa72757"
-    },
-    {
-        "suppliercode": "d927b4a6-ab37-4d9c-ae69-4a8188995a98"
-    },
-    {
-        "suppliercode": "d95bd26d-0e9e-4b03-b739-1a02f08d4578"
-    },
-    {
-        "suppliercode": "da350cc4-3e2b-4d93-ab7b-d9ad128d7cec"
-    },
-    {
-        "suppliercode": "da544ef1-2c3b-4ac3-bce2-629753d95dcc"
-    },
-    {
-        "suppliercode": "dab7bc6d-a585-459b-838a-8e9b366a3642"
-    },
-    {
-        "suppliercode": "daf22bc5-da11-48ea-ae52-2056c2e74e61"
-    },
-    {
-        "suppliercode": "db9e61e5-05b7-42c9-a992-0a9785f0b5fb"
-    },
-    {
-        "suppliercode": "dba327dc-b910-4f17-90bb-3689aff38206"
-    },
-    {
-        "suppliercode": "dbd1b053-88d7-41fb-bdc9-d6a36daef00c"
-    },
-    {
-        "suppliercode": "dc420418-3b09-4c31-a7c7-1df9059d43dc"
-    },
-    {
-        "suppliercode": "dd2ca45b-da23-4fa7-a249-d1083ae70f91"
-    },
-    {
-        "suppliercode": "de8e3690-f31f-40a9-9228-e11613cc2c23"
-    },
-    {
-        "suppliercode": "df136358-ce0f-413d-8521-7e731ab4c993"
-    },
-    {
-        "suppliercode": "df705095-af96-40d9-a113-d0f83f1d58c3"
-    },
-    {
-        "suppliercode": "dfbe8e80-085b-484d-8726-73137467ff75"
-    },
-    {
-        "suppliercode": "dfd1359d-97ba-40b1-918b-74a9735f5fae"
-    },
-    {
-        "suppliercode": "dff9fa1b-14f7-4984-94e3-94825c253660"
-    },
-    {
-        "suppliercode": "e00e5d03-406b-4402-a60d-6eca2580044f"
-    },
-    {
-        "suppliercode": "e0c7a6ee-4c25-4520-a9f2-2fdef100a370"
-    },
-    {
-        "suppliercode": "e16f13b4-9dc4-4a4d-be8d-e37bd3df84ee"
-    },
-    {
-        "suppliercode": "e1898f0f-bf34-4a66-9471-36a661938408"
-    },
-    {
-        "suppliercode": "e2940f87-5ebc-4911-8738-fe882657bff6"
-    },
-    {
-        "suppliercode": "e2d87f99-4b0d-4669-b9b9-781d3c59bf73"
-    },
-    {
-        "suppliercode": "e358131f-5ab9-4569-a493-0fe8a152eb64"
-    },
-    {
-        "suppliercode": "e3bafced-c38f-4574-b1c0-8b0a8ba60700"
-    },
-    {
-        "suppliercode": "e3e0b01b-f0aa-45c9-86a8-a9be93cb77a7"
-    },
-    {
-        "suppliercode": "e4006eae-c8a4-4033-a8da-f04f5e1de52e"
-    },
-    {
-        "suppliercode": "e465d192-1c3a-4644-9432-a08d859a4a0c"
-    },
-    {
-        "suppliercode": "e4c93f61-cee8-4c3d-9f77-691650c2164e"
-    },
-    {
-        "suppliercode": "e4d86a28-8322-4168-b8af-6ddf4db4be64"
-    },
-    {
-        "suppliercode": "e50247b1-8509-4383-8541-31346debbf45"
-    },
-    {
-        "suppliercode": "e55499ae-6a7b-4ca6-b55a-9f5c5cc597ca"
-    },
-    {
-        "suppliercode": "e5d777a1-e8ad-4152-af54-c5c9e039c5cb"
-    },
-    {
-        "suppliercode": "e5ffa1a4-0dc6-4e38-a1ab-0a4aca8900b7"
-    },
-    {
-        "suppliercode": "e635b6d5-5941-46c0-aa29-9ec08057f2de"
-    },
-    {
-        "suppliercode": "e65ff194-d6d8-44cc-bbdc-70aac2b6de1b"
-    },
-    {
-        "suppliercode": "e69e60d6-dc0c-4ae5-81e2-c37643ac3f88"
-    },
-    {
-        "suppliercode": "e6ee01d5-450e-44cc-9f84-618d25e8ccae"
-    },
-    {
-        "suppliercode": "e762e3b6-b39a-4a98-a36e-e6892a666216"
-    },
-    {
-        "suppliercode": "e7980acd-cbfa-4aac-97e1-c099080a99b7"
-    },
-    {
-        "suppliercode": "e7bbc261-818d-486c-bb2c-7fd70515fdfb"
-    },
-    {
-        "suppliercode": "e81920aa-1dc0-4312-acf9-fa77c2ad4085"
-    },
-    {
-        "suppliercode": "e82144be-8c90-4a86-bb3e-c3238bb86e3f"
-    },
-    {
-        "suppliercode": "e8b1ae5a-d163-4042-b9fe-cc07ccf4e772"
-    },
-    {
-        "suppliercode": "e90a3ef7-15b8-4447-bf66-092ad399e7a3"
-    },
-    {
-        "suppliercode": "e9daf0ec-b412-463a-97d3-824d8d6476e2"
-    },
-    {
-        "suppliercode": "ea5e5f4a-a872-406e-9f99-f87ec47f49bc"
-    },
-    {
-        "suppliercode": "eb301e9e-604a-4045-bdc2-3724f9d55604"
-    },
-    {
-        "suppliercode": "eb690851-2b6b-4f37-a491-dea2a7676608"
-    },
-    {
-        "suppliercode": "ecec9d12-61a2-4a3b-9863-c1fc5ade1cb1"
-    },
-    {
-        "suppliercode": "ed92005f-6de5-4e45-a23f-9f252a07edb5"
-    },
-    {
-        "suppliercode": "ef047a08-06b7-485a-8781-a29f3177aa24"
-    },
-    {
-        "suppliercode": "efbe2c8a-f7e6-406d-a42f-3d25865476ea"
-    },
-    {
-        "suppliercode": "efc36e23-80f1-4db1-b06c-c80daf29c6aa"
-    },
-    {
-        "suppliercode": "efd79d46-f94e-440d-878e-cff75bfe47b1"
-    },
-    {
-        "suppliercode": "f04ef4d8-aef1-4609-a224-fb058589b36d"
-    },
-    {
-        "suppliercode": "f07dca78-ec27-4eaf-98c8-e9aa3f3e39e1"
-    },
-    {
-        "suppliercode": "f0c7218f-aed3-4b26-8d37-25fc48b4451f"
-    },
-    {
-        "suppliercode": "f1a55bbb-deae-4b10-a409-55ea6329dc34"
-    },
-    {
-        "suppliercode": "f1b79086-05ec-4120-bf3f-7f1ece135d6f"
-    },
-    {
-        "suppliercode": "f1e6637a-a0e5-443f-9d4d-cc1c49de1b5f"
-    },
-    {
-        "suppliercode": "f1ef63b7-f59c-4c71-a11a-1aaf8fdfa37c"
-    },
-    {
-        "suppliercode": "f30aa52f-2dfa-4795-88bd-b950735e75c4"
-    },
-    {
-        "suppliercode": "f3bac916-cfbb-45eb-9dcc-f6ae378a72be"
-    },
-    {
-        "suppliercode": "f4053871-57e5-4c7d-b552-637a1fc25cf7"
-    },
-    {
-        "suppliercode": "f499ad38-22ef-4085-a344-50dceb1dfad5"
-    },
-    {
-        "suppliercode": "f5acd3ef-7617-4647-aa2f-74cb23f3f06c"
-    },
-    {
-        "suppliercode": "f5f16f46-5ef2-41f5-8d39-278491fc930f"
-    },
-    {
-        "suppliercode": "f7127a38-1567-45f1-9e91-d3603b1a77a2"
-    },
-    {
-        "suppliercode": "f73e0a58-8430-4269-83b6-02ac66685271"
-    },
-    {
-        "suppliercode": "f7533b8f-1460-49a6-b63c-75f15f4fb892"
-    },
-    {
-        "suppliercode": "f7ecf32a-f55a-4b7c-a478-b436e4709292"
-    },
-    {
-        "suppliercode": "f8325c51-3b9f-4a52-92d8-997b0e38888b"
-    },
-    {
-        "suppliercode": "f85aa669-1bc8-49f8-9595-9dcbe5c7522c"
-    },
-    {
-        "suppliercode": "f85c4e96-6da5-40b1-99f1-9847db23f5d3"
-    },
-    {
-        "suppliercode": "f870ca8c-9740-44cc-bf9f-758cef55abe5"
-    },
-    {
-        "suppliercode": "f8ccf29e-d0a8-442d-8053-215c8ba620d2"
-    },
-    {
-        "suppliercode": "f983f95d-b6fe-47d2-9411-45166b096b4b"
-    },
-    {
-        "suppliercode": "f993962f-35b5-4332-8c27-e98319cd3201"
-    },
-    {
-        "suppliercode": "f99479f6-8790-4b5c-ab19-1d1aa816c94b"
-    },
-    {
-        "suppliercode": "fa03425b-7519-450d-b759-586b01f79268"
-    },
-    {
-        "suppliercode": "fa165b33-46d0-478e-ab5f-ae9c40d22d9f"
-    },
-    {
-        "suppliercode": "fa3fa2b5-4fbd-4ff6-bcd1-a031c9ecf2c8"
-    },
-    {
-        "suppliercode": "fb56059e-3687-42cf-bb2e-8c47b55ba5d5"
-    },
-    {
-        "suppliercode": "fb7779b0-33d9-4013-9636-309fa4a4efe9"
-    },
-    {
-        "suppliercode": "fc01e8d0-efec-42c3-b5a7-ed851bddb8f8"
-    },
-    {
-        "suppliercode": "fc035d91-206a-4ccc-88f2-73afcb10046e"
-    },
-    {
-        "suppliercode": "fc396a60-61aa-4930-a9e9-94d777d8c268"
-    },
-    {
-        "suppliercode": "fca7d2bb-b108-4d0d-8f26-8c5df8b759bd"
-    },
-    {
-        "suppliercode": "fcd29af1-f589-4c84-ae3b-2ff9825af0af"
-    },
-    {
-        "suppliercode": "fd4c88ff-ea2d-41f7-8a06-8364249f4ee7"
-    },
-    {
-        "suppliercode": "fdb854bb-fdec-4efc-802c-95f8d23ffe71"
-    },
-    {
-        "suppliercode": "fe769441-75ac-4967-b622-4fdafbb4c02d"
-    },
-    {
-        "suppliercode": "fe7b0656-d629-4bac-90f4-9846073ee261"
-    },
-    {
-        "suppliercode": "fe8adaa1-bb46-4498-af25-348fa525cdc8"
-    },
-    {
-        "suppliercode": "fe8b65e8-85d5-4432-a46f-dcec72f2c5cf"
-    },
-    {
-        "suppliercode": "feb14bf4-c1cf-4bcb-af3c-facab544dbf4"
-    },
-    {
-        "suppliercode": "feb96e1b-19d1-4d82-96c6-3f8826e5605e"
-    },
-    {
-        "suppliercode": "fec13a51-fca0-4e22-a780-5fb0b415d91a"
-    }
+[{
+    "CompanyCode": "DC1C0EB0-9DF5-4123-AC59-3CEC074F5115",
+    "suppliercode": "000200001000161"
+  },
+  {
+    "CompanyCode": "fe5f1437-0d3b-47c5-b0e1-f11ad4aa3259",
+    "suppliercode": "000200001000480"
+  },
+  {
+    "CompanyCode": "bb332709-fb0e-432e-ae24-8ecae5346543",
+    "suppliercode": "0004cdf9-a740-4657-9566-ad4840ea4b4e"
+  },
+  {
+    "CompanyCode": "9D6E0631-F4C4-47F7-9D77-CDD830083926",
+    "suppliercode": "000500001000137;"
+  },
+  {
+    "CompanyCode": "b9c7a43f-2810-4737-a779-da817c62ce07",
+    "suppliercode": "000500001000304;"
+  },
+  {
+    "CompanyCode": "43F1C45B-EC50-4476-97B8-5A10BA15C626",
+    "suppliercode": "000500001000411;"
+  },
+  {
+    "CompanyCode": "923b2f1b-d3f0-4b51-ae96-5e0bd46fe148",
+    "suppliercode": "000500001000443;"
+  },
+  {
+    "CompanyCode": "173",
+    "suppliercode": "000500001000524;"
+  },
+  {
+    "CompanyCode": "154",
+    "suppliercode": "000500001000525;"
+  },
+  {
+    "CompanyCode": "01fd7297-ccca-4bed-8431-19652634c697",
+    "suppliercode": "000500001000594;"
+  },
+  {
+    "CompanyCode": "520D1889-A99B-4B5F-98B0-A6FBC9BFF609",
+    "suppliercode": "000500001000756;"
+  },
+  {
+    "CompanyCode": "5987A92D-C9FC-45EE-923F-2A302AB78BD6",
+    "suppliercode": "000500001001062;"
+  },
+  {
+    "CompanyCode": "8e44fd78-9114-4d1c-a207-ffb89341d2d2",
+    "suppliercode": "000600001000180"
+  },
+  {
+    "CompanyCode": "571D3A81-7E58-4691-8526-D8DC405C50DC",
+    "suppliercode": "000600001000351"
+  },
+  {
+    "CompanyCode": "220",
+    "suppliercode": "000700057000057;"
+  },
+  {
+    "CompanyCode": "a5abec63-ffd0-46e9-8c21-6e7cac595d9e",
+    "suppliercode": "000700069000069;"
+  },
+  {
+    "CompanyCode": "b71fea3b-30c3-48c3-9563-926afd0179d9",
+    "suppliercode": "000700160000160;"
+  },
+  {
+    "CompanyCode": "A21576C8-1F89-4274-9F62-C20ADF2E1FEF",
+    "suppliercode": "000700164000164;"
+  },
+  {
+    "CompanyCode": "C3CB70CA-FEA3-48FA-9B69-C8ED00185D38",
+    "suppliercode": "000700239000239;"
+  },
+  {
+    "CompanyCode": "1f4ffc21-d472-4a75-be93-e8ae90dd7c85",
+    "suppliercode": "000900001000509"
+  },
+  {
+    "CompanyCode": "a2b4c106-aaf5-48e1-90b5-19f46d5d5bf4",
+    "suppliercode": "003000009000018；"
+  },
+  {
+    "CompanyCode": "248409c4-d0cd-4478-95b3-49401b10cc9e",
+    "suppliercode": "00a0b1a8-a5ce-4e1c-b20a-808f13f8e4e9"
+  },
+  {
+    "CompanyCode": "9c9bd541-d4a7-4d58-8320-a5527101f575",
+    "suppliercode": "00a78536-4eb2-4575-b3b1-a5740258823b"
+  },
+  {
+    "CompanyCode": "d9d1371c-240b-46a0-8501-067232a3beeb",
+    "suppliercode": "01a76c1d-0fb0-486a-97e4-daba1f93e266"
+  },
+  {
+    "CompanyCode": "023C9F00-804E-49D7-B121-5CCB2478C924",
+    "suppliercode": "0205d22a-638e-462c-b408-e36e83104398"
+  },
+  {
+    "CompanyCode": "2dda2d3e-b849-4538-aba6-1a380d75fb8c",
+    "suppliercode": "032442c9-4c1d-4ff2-9a13-0132f5060d7d"
+  },
+  {
+    "CompanyCode": "0798c761-d886-41ba-8bb4-eb4a20f0af37",
+    "suppliercode": "0346b680-66ec-4373-af7c-a99ab995edda"
+  },
+  {
+    "CompanyCode": "51",
+    "suppliercode": "0374b98c-e8ff-49a0-9d65-1a8c8e695de4"
+  },
+  {
+    "CompanyCode": "e6d73395-c275-464f-8c35-3df5025b7542",
+    "suppliercode": "047a9f4c-87f0-4543-bfe1-1ad5c4494682"
+  },
+  {
+    "CompanyCode": "44cf8d8b-b75b-45e5-a8ae-522f7bc1f8e8",
+    "suppliercode": "04b024c3-3029-491c-834a-4f3866939dcb"
+  },
+  {
+    "CompanyCode": "B2955A99-8ECC-4709-8376-9C3C0975B2BB",
+    "suppliercode": "04b0a24e-2ebb-4ad1-9cb4-f3d762e24ced"
+  },
+  {
+    "CompanyCode": "A85854F7-1124-4C08-8B49-1958623BEB11",
+    "suppliercode": "050f67ec-e399-4db1-8fb7-98a9a48d840e"
+  },
+  {
+    "CompanyCode": "99d30d44-3853-43d0-8207-aae79dbe151c",
+    "suppliercode": "05a3d796-42a9-4266-9bab-d477db0fd013"
+  },
+  {
+    "CompanyCode": "21",
+    "suppliercode": "05c5bfe0-a230-4cf4-b074-5a71c15996b9"
+  },
+  {
+    "CompanyCode": "81",
+    "suppliercode": "0666a75e-214d-4cd6-bf98-89921ffe6cc0"
+  },
+  {
+    "CompanyCode": "ae2cb245-1b61-4f86-a214-1fb3f63b44fa",
+    "suppliercode": "06d489c5-9758-4ae8-94a6-52bc44f83b26"
+  },
+  {
+    "CompanyCode": "46",
+    "suppliercode": "06dd99ee-f578-4f11-b1de-a29583d195dd"
+  },
+  {
+    "CompanyCode": "13B25780-8CAF-4653-9F3A-C6AF7D5E0AAD",
+    "suppliercode": "0700cb07-c904-44d2-8b31-d5c13b141b03"
+  },
+  {
+    "CompanyCode": "18DE1C2A-67D4-4F49-8BDB-9B0B470F7975",
+    "suppliercode": "07136989-d7af-42ef-ab02-0b871794e39e"
+  },
+  {
+    "CompanyCode": "37a74888-ab4a-4501-bf3c-fa32abf9b23e",
+    "suppliercode": "073b38e6-cfd2-4843-b336-ca47c992ce65"
+  },
+  {
+    "CompanyCode": "41",
+    "suppliercode": "0938155b-1251-4c8e-8263-7f8f06a156e1"
+  },
+  {
+    "CompanyCode": "d5dceb48-b6b9-427b-b4a8-36ba8fc77c42",
+    "suppliercode": "0ade52a3-9795-49f0-98a3-1a881bdc7eda"
+  },
+  {
+    "CompanyCode": "4E80190A-7468-469C-9E98-DEEA2A810741",
+    "suppliercode": "0b00ed55-6117-408b-8652-cda5024be1d8"
+  },
+  {
+    "CompanyCode": "5422c34e-e574-413b-b252-aa11b18ab706",
+    "suppliercode": "0b8cbf8a-0b86-4d9a-a6a4-b70519b68c07"
+  },
+  {
+    "CompanyCode": "195ab1f8-a826-4453-ac29-542b15c6157b",
+    "suppliercode": "0b923248-6d35-4094-9ad6-66fee02d9b14"
+  },
+  {
+    "CompanyCode": "29613939-0eb7-493e-be0a-63bf4a903b2c",
+    "suppliercode": "0c003b7a-e864-44a5-9536-18bf985a12ba"
+  },
+  {
+    "CompanyCode": "214",
+    "suppliercode": "0c31fb0a-4c39-4bae-9658-28ee954ac97d"
+  },
+  {
+    "CompanyCode": "49",
+    "suppliercode": "0c6766fc-d3ab-41d7-90f5-ee04a408f371"
+  },
+  {
+    "CompanyCode": "6471c857-df99-4c5c-9c93-d1b43afc5d88",
+    "suppliercode": "0d16629e-0d41-445f-8e00-7242da0a69cd"
+  },
+  {
+    "CompanyCode": "74",
+    "suppliercode": "0d3da547-9194-4b90-af02-448cf18b5dc0"
+  },
+  {
+    "CompanyCode": "2a107066-8ecc-4a71-9f79-b486c5ac8247",
+    "suppliercode": "0d9a3293-5268-4cdd-bd23-38b897ab6d9b"
+  },
+  {
+    "CompanyCode": "a28cfca3-aa3e-4178-bf4d-d3055e29e5d0",
+    "suppliercode": "0e047536-1abf-4c60-9eb8-ac6cb7d2c370"
+  },
+  {
+    "CompanyCode": "872c8ed8-d8a8-46ce-83bd-e415927f03cc",
+    "suppliercode": "0e5398cc-4311-4451-89f5-e62624e01478"
+  },
+  {
+    "CompanyCode": "E7BAACD4-1D52-44CE-81FC-A731F9915D50",
+    "suppliercode": "0ef11c22-5547-4385-ad51-e743f957a04a"
+  },
+  {
+    "CompanyCode": "b470124e-bf5d-4c93-bf51-be93e2ef0346",
+    "suppliercode": "0f289067-c7c5-462b-980d-225f98b42d35"
+  },
+  {
+    "CompanyCode": "10C0C4C8-0D5A-471A-A390-EDF247D8D6AF",
+    "suppliercode": "0f734335-df71-419d-b14e-5e0b13133884"
+  },
+  {
+    "CompanyCode": "5B918D33-1ED3-4453-BE7E-19CCCC450BB0",
+    "suppliercode": "0fb0bab3-6c8b-4dbd-9c70-ad02d1a88919"
+  },
+  {
+    "CompanyCode": "047B2A8F-835B-49F8-8098-AF1056248401",
+    "suppliercode": "1.20000001e+014"
+  },
+  {
+    "CompanyCode": "A2BF3FA9-9179-43CA-B885-7729BB18224B",
+    "suppliercode": "100009"
+  },
+  {
+    "CompanyCode": "100",
+    "suppliercode": "100031"
+  },
+  {
+    "CompanyCode": "7b4de682-6872-493e-bedb-b13491eac5e5",
+    "suppliercode": "100300001000128"
+  },
+  {
+    "CompanyCode": "94d671c8-82a4-4bc6-ba7b-f14ecf1fea95",
+    "suppliercode": "105f64a0-675e-4077-986d-af19a05ec492"
+  },
+  {
+    "CompanyCode": "d2ef4694-c1f8-4367-97e5-0d759b44b3b4",
+    "suppliercode": "10c50489-f2f3-47ed-a3c3-060f5a4d6d24"
+  },
+  {
+    "CompanyCode": "f61a6bcf-9dbb-4db7-8450-8161f8ac0878",
+    "suppliercode": "10dde464-74a8-4703-b1d1-9cd4c9276d6d"
+  },
+  {
+    "suppliercode": "11;"
+  },
+  {
+    "CompanyCode": "ADB11C55-AEA6-45C9-9260-87C31F015D54",
+    "suppliercode": "116a41e7-0901-4b89-bf19-30a70c7b6f12"
+  },
+  {
+    "CompanyCode": "82",
+    "suppliercode": "120000001000206"
+  },
+  {
+    "CompanyCode": "52",
+    "suppliercode": "120000001000211"
+  },
+  {
+    "CompanyCode": "7de309d0-b496-4a13-a2e1-e301c3fa0531",
+    "suppliercode": "120000001000276"
+  },
+  {
+    "CompanyCode": "C2692386-C8D7-4983-BC31-4D4603623BB5",
+    "suppliercode": "120000001000280"
+  },
+  {
+    "CompanyCode": "87b7462f-e07b-45c4-8669-926cc83ac2b0",
+    "suppliercode": "1268b3a3-9a41-4dd1-b025-9b3924eadd76"
+  },
+  {
+    "CompanyCode": "6ea9148a-e49e-458c-beeb-c51de5a85944",
+    "suppliercode": "12dff703-493c-433f-bed0-41d2b0031686"
+  },
+  {
+    "CompanyCode": "ab2ad252-3a04-4444-9f58-78c08138a35b",
+    "suppliercode": "138;"
+  },
+  {
+    "CompanyCode": "afacb7b1-161c-42b9-8b51-f9739d738ec3",
+    "suppliercode": "138081db-7e86-44b5-a561-2bd8e64667c9"
+  },
+  {
+    "CompanyCode": "A3F1E9F3-9F2C-4F49-8A22-8FA8F21C0481",
+    "suppliercode": "13a1a231-8933-4f4c-b71f-705123ebd559"
+  },
+  {
+    "CompanyCode": "20",
+    "suppliercode": "13fe39e5-eb57-43bf-ab3f-b3dd4c5c078b"
+  },
+  {
+    "CompanyCode": "eb394e7a-1cc2-4df0-ace5-99a170ab007f",
+    "suppliercode": "140200001000060"
+  },
+  {
+    "CompanyCode": "a7409f7b-49a4-465b-8a0e-eef2b91e2b4f",
+    "suppliercode": "140200001000085"
+  },
+  {
+    "CompanyCode": "a0480183-8bc6-46aa-ada1-55bdba3a3038",
+    "suppliercode": "140200001000089"
+  },
+  {
+    "CompanyCode": "42",
+    "suppliercode": "140200001000151"
+  },
+  {
+    "CompanyCode": "200",
+    "suppliercode": "140800001000111"
+  },
+  {
+    "CompanyCode": "101",
+    "suppliercode": "140900001000234"
+  },
+  {
+    "CompanyCode": "93",
+    "suppliercode": "141200001000390"
+  },
+  {
+    "CompanyCode": "9f413a70-baff-44ba-a829-384fe7c30632",
+    "suppliercode": "141300001000110"
+  },
+  {
+    "CompanyCode": "3230bc0e-0c02-4bfb-8eaf-6eb22c99843d",
+    "suppliercode": "141300001000222"
+  },
+  {
+    "CompanyCode": "13b9c3e7-8622-4a20-9a8a-a667cce28b81",
+    "suppliercode": "141300001101890"
+  },
+  {
+    "CompanyCode": "5b886d6a-5ad1-4997-b19f-4c3230695960",
+    "suppliercode": "141800001100024"
+  },
+  {
+    "CompanyCode": "71216623-5127-47fb-ae46-efa708fb4c05",
+    "suppliercode": "141900001000050;"
+  },
+  {
+    "CompanyCode": "c415e2ee-82ae-4ea3-814d-497c4fa6d451",
+    "suppliercode": "141900001000084"
+  },
+  {
+    "CompanyCode": "E13707B1-3AD6-4B3D-8F42-D0CBC0F18D7F",
+    "suppliercode": "141900001000111;"
+  },
+  {
+    "CompanyCode": "fd132f93-1604-4ac9-ae13-bb40d6894c0a",
+    "suppliercode": "14641fdb-34c9-4bd3-ac1c-a1cd8f52a693"
+  },
+  {
+    "CompanyCode": "90EBFFDF-7896-4DDF-A9EF-91445F6CD4D9",
+    "suppliercode": "14d41ce9-cbb0-4869-aad0-1eba2d90c622"
+  },
+  {
+    "CompanyCode": "0B462065-B926-4EF1-90A6-7065422FD855",
+    "suppliercode": "150000001000059"
+  },
+  {
+    "CompanyCode": "8ADC96E5-18BE-4094-8F74-513ADEBFF8BE",
+    "suppliercode": "151fdb9d-d5b4-4020-9182-4f4165026795"
+  },
+  {
+    "CompanyCode": "84",
+    "suppliercode": "157005b9-1393-4c50-853b-c44e41781e2a"
+  },
+  {
+    "CompanyCode": "33830f89-00a2-4ebb-a7ce-0811aa6022ea",
+    "suppliercode": "15f6bee6-cfd1-4c24-bd91-91338cbf81c1"
+  },
+  {
+    "CompanyCode": "e5ba7c72-cb26-47d5-a747-42c66053e473",
+    "suppliercode": "16"
+  },
+  {
+    "CompanyCode": "67",
+    "suppliercode": "16;"
+  },
+  {
+    "CompanyCode": "190",
+    "suppliercode": "160700001000014；"
+  },
+  {
+    "CompanyCode": "a218759b-5995-4e82-8d2a-d950ea0c00f8",
+    "suppliercode": "161febd0-e23c-49a9-9a69-73177aa4bb12"
+  },
+  {
+    "CompanyCode": "28",
+    "suppliercode": "162bd7ab-c7cd-4363-b148-3ee93da464ad"
+  },
+  {
+    "CompanyCode": "14DFC64C-341B-4477-B4FA-85737798AEEA",
+    "suppliercode": "16394491-fd35-4f4c-aa5f-73dee531b26f"
+  },
+  {
+    "CompanyCode": "201",
+    "suppliercode": "164f14da-64e3-4d39-9ddb-ffac13af1f00"
+  },
+  {
+    "CompanyCode": "0194CEE9-0065-4732-B3B4-710D7740F498",
+    "suppliercode": "16c45610-ba01-44ad-b10d-6bfb31e76a4e"
+  },
+  {
+    "CompanyCode": "0B68C05F-603C-441A-8E02-3CDFA1FB6C0E",
+    "suppliercode": "16fa5503-900b-409a-b7fd-528d425713df"
+  },
+  {
+    "CompanyCode": "46636b55-0764-472a-b240-4c54a11d56eb",
+    "suppliercode": "17;"
+  },
+  {
+    "CompanyCode": "58",
+    "suppliercode": "179c3055-564a-47f2-b9b3-4253b96bbd18"
+  },
+  {
+    "CompanyCode": "4D81D73C-2A30-4500-B53D-A43A76ACA0DB",
+    "suppliercode": "17cc30fa-dd89-44a6-a716-b98c94c44d60"
+  },
+  {
+    "CompanyCode": "759BAD8F-E570-411D-88C9-710D94FE52D8",
+    "suppliercode": "180000001000475"
+  },
+  {
+    "CompanyCode": "109",
+    "suppliercode": "180000001000502"
+  },
+  {
+    "CompanyCode": "-1",
+    "suppliercode": "180000001000506"
+  },
+  {
+    "CompanyCode": "62",
+    "suppliercode": "180400001000380"
+  },
+  {
+    "CompanyCode": "71",
+    "suppliercode": "180a91cf-2d06-4de3-ba97-15799e16dfd3"
+  },
+  {
+    "CompanyCode": "102",
+    "suppliercode": "180f8174-39f9-47df-baf9-b2dc9e67ba0c"
+  },
+  {
+    "CompanyCode": "621211b6-8e6b-434e-945a-953beb9312c8",
+    "suppliercode": "181800009000001"
+  },
+  {
+    "CompanyCode": "b7fd42fe-da74-41b0-84a9-7441fa70a01b",
+    "suppliercode": "181800009000012"
+  },
+  {
+    "CompanyCode": "9",
+    "suppliercode": "181800009000014"
+  },
+  {
+    "CompanyCode": "05459AB9-CF02-41A0-8B28-9F221A3DB1BA",
+    "suppliercode": "181800009000022"
+  },
+  {
+    "CompanyCode": "AF58DC5E-F0CF-45EE-A519-9C32D198A91B",
+    "suppliercode": "181800009000041"
+  },
+  {
+    "CompanyCode": "A25A5BF4-C4C1-444F-9C5E-116D42611D2A",
+    "suppliercode": "181800009000066"
+  },
+  {
+    "CompanyCode": "ee40c2ef-38c2-4237-9a20-5ce0c71aa25b",
+    "suppliercode": "181800009000125"
+  },
+  {
+    "CompanyCode": "032f49fc-9b93-495e-92f2-7c7f71ef09c3",
+    "suppliercode": "181800009000145"
+  },
+  {
+    "CompanyCode": "81585aab-8979-419f-b9fc-3190ed7783a3",
+    "suppliercode": "181800009000166"
+  },
+  {
+    "CompanyCode": "BABF430C-BE01-4C5B-B416-B21443403A9F",
+    "suppliercode": "181800009000224"
+  },
+  {
+    "suppliercode": "181800009000260"
+  },
+  {
+    "suppliercode": "181800009000275"
+  },
+  {
+    "suppliercode": "181800009011239"
+  },
+  {
+    "suppliercode": "181800009011497"
+  },
+  {
+    "suppliercode": "181800009011498"
+  },
+  {
+    "suppliercode": "181800009011499"
+  },
+  {
+    "suppliercode": "181800009011500"
+  },
+  {
+    "suppliercode": "182a3237-b036-4733-aff3-290c5223ceb7"
+  },
+  {
+    "suppliercode": "1852a16b-a6f4-42cc-a97d-e7f6bdc6f9f5"
+  },
+  {
+    "suppliercode": "18c3d229-e5c7-47d1-9e72-35b9865a01f7"
+  },
+  {
+    "suppliercode": "18cd5cd7-001e-4940-aa4f-e9ca07128914"
+  },
+  {
+    "suppliercode": "190400001000090"
+  },
+  {
+    "suppliercode": "19140000113"
+  },
+  {
+    "suppliercode": "19140000116"
+  },
+  {
+    "suppliercode": "19140000125"
+  },
+  {
+    "suppliercode": "19140000127"
+  },
+  {
+    "suppliercode": "19455a70-389f-4ac7-8f4b-a1fbf245dabf"
+  },
+  {
+    "suppliercode": "1a31e608-94e3-43f4-a5f8-d02be15d5b3e"
+  },
+  {
+    "suppliercode": "1b352673-9e93-4de9-9e28-6e201019f688"
+  },
+  {
+    "suppliercode": "1c8357f3-0a3c-4f41-a49c-0dc1cb5abd17"
+  },
+  {
+    "suppliercode": "1ceca007-9b42-4e21-978b-323bc845c987"
+  },
+  {
+    "suppliercode": "1cfc079c-04fd-4a78-b370-753de2aca9c7"
+  },
+  {
+    "suppliercode": "1da2cc18-81fc-4732-826a-9c1cf8d31c26"
+  },
+  {
+    "suppliercode": "1f0277d7-7342-4189-8d1e-67857dff825d"
+  },
+  {
+    "suppliercode": "1f5a7e42-e8c1-4996-b3da-abccc22608d7"
+  },
+  {
+    "suppliercode": "1f6abf1c-fae8-4f9b-9ad5-29de7bbb81f0"
+  },
+  {
+    "suppliercode": "1f9b3f21-8345-4e51-a87b-7874036a6822"
+  },
+  {
+    "suppliercode": "1fb8bf22-010c-4c7d-8fb6-0431e0f13430"
+  },
+  {
+    "suppliercode": "2040c7f4-0169-4f9b-b2bb-c78066b924a7"
+  },
+  {
+    "suppliercode": "205"
+  },
+  {
+    "suppliercode": "20eb0d7d-78f0-44e5-87a9-0cbf8a8e9634"
+  },
+  {
+    "suppliercode": "20eeab59-2baf-43a2-a26d-25c039bd042a"
+  },
+  {
+    "suppliercode": "227d211d-9906-4892-beac-1776f7fedd4c"
+  },
+  {
+    "suppliercode": "228b3fae-a741-4359-8128-fed6eb63ee49"
+  },
+  {
+    "suppliercode": "229e8df3-4151-4a24-9947-1c416cfdab8a"
+  },
+  {
+    "suppliercode": "22e02c26-8e1d-4bc3-9667-a7bfae9ce8e2"
+  },
+  {
+    "suppliercode": "23234977-70dc-4a5b-a494-11dc57495e1b"
+  },
+  {
+    "suppliercode": "23fb678a-2019-45ff-99e3-6ea04eddcedc"
+  },
+  {
+    "suppliercode": "24491b97-515d-4d6c-b5d4-9356ecb3da78"
+  },
+  {
+    "suppliercode": "2498603b-2b52-4981-b90e-01173c306004"
+  },
+  {
+    "suppliercode": "249c9a8c-9f12-4950-bb52-05f428f6a259"
+  },
+  {
+    "suppliercode": "24e8bb68-6c34-4480-9d89-b21a2394f55e"
+  },
+  {
+    "suppliercode": "26509ccd-6367-4564-bd47-b7558b3f1ff1"
+  },
+  {
+    "suppliercode": "26714b46-8d85-4946-bd58-78199cf16beb"
+  },
+  {
+    "suppliercode": "267ed6dd-67ee-46a5-8783-0dc2053568a7"
+  },
+  {
+    "suppliercode": "26c462fc-5b5f-405e-b0a6-e480317653b1"
+  },
+  {
+    "suppliercode": "26cf137e-15ed-4780-8ced-15c8cce008f8"
+  },
+  {
+    "suppliercode": "26f881c7-4cda-4a2c-bd81-d39fc2977b3e"
+  },
+  {
+    "suppliercode": "27e38186-aa06-483f-92ee-2dd3e4bd441f"
+  },
+  {
+    "suppliercode": "2857df85-22d3-44cf-b4da-6c73ae9e5a41"
+  },
+  {
+    "suppliercode": "289d523a-4fdd-4bce-ac98-d2b35ce845cf"
+  },
+  {
+    "suppliercode": "2934d823-b8b5-4bd8-ab99-8a09977600a2"
+  },
+  {
+    "suppliercode": "29487704-bce8-4161-b949-39a9334b94d7"
+  },
+  {
+    "suppliercode": "2953a85f-f28c-41c7-bc3a-ff9f80573748"
+  },
+  {
+    "suppliercode": "29c3e38c-6c33-47ab-aba2-020553744cf7"
+  },
+  {
+    "suppliercode": "2b153640-aa07-47b8-994c-115694868e06"
+  },
+  {
+    "suppliercode": "2bca7df8-58c3-4160-af96-1695dbb1dcb2"
+  },
+  {
+    "suppliercode": "2ca8b304-3831-4b05-8ed9-81fc3bb5cf1d"
+  },
+  {
+    "suppliercode": "2d7b5685-b50c-4c60-ace1-d0457b8c2912"
+  },
+  {
+    "suppliercode": "2dd655f2-e57c-4b39-9741-faa6d5a4bc54"
+  },
+  {
+    "suppliercode": "2e786ad7-fb77-4b5c-a92b-e6efda83e80d"
+  },
+  {
+    "suppliercode": "2eaf8c57-bb12-4bc5-a69b-0f6d5bdfafb4"
+  },
+  {
+    "suppliercode": "2eb482f4-abb9-4836-a6b9-96921c7255cd"
+  },
+  {
+    "suppliercode": "2f4d4b99-23c7-4e6e-bc6b-eb660e8b917d"
+  },
+  {
+    "suppliercode": "2f846f96-50fe-4248-a0a5-009bf5022062"
+  },
+  {
+    "suppliercode": "2f9a5240-b150-40bc-8dcc-05e57fb3ec9e"
+  },
+  {
+    "suppliercode": "2fe6e2e4-91fd-4b75-b0f2-6501c681ebfa"
+  },
+  {
+    "suppliercode": "3000009000006"
+  },
+  {
+    "suppliercode": "3000009000028"
+  },
+  {
+    "suppliercode": "3000009000029"
+  },
+  {
+    "suppliercode": "3000009000031"
+  },
+  {
+    "suppliercode": "32e5f809-318a-4973-8acd-1efe8f8c4208"
+  },
+  {
+    "suppliercode": "3329edb5-99c1-4b67-861b-17d425d37653"
+  },
+  {
+    "suppliercode": "3396df41-666f-4ac6-89cb-06ba0ef30b4a"
+  },
+  {
+    "suppliercode": "33f8af06-8a41-4cad-94e4-3f0c71c3bec3"
+  },
+  {
+    "suppliercode": "34216d9d-d899-4970-aa3a-190444742c65"
+  },
+  {
+    "suppliercode": "34675703-f4dd-4fca-9141-152648c1c715"
+  },
+  {
+    "suppliercode": "3553c0e5-0ff1-4e50-b286-4d00f2a13e18"
+  },
+  {
+    "suppliercode": "357ba8ce-b1b2-4b6e-b8d5-8c9173602736"
+  },
+  {
+    "suppliercode": "35924e8c-f2d0-42e5-a118-bed4acc38c33"
+  },
+  {
+    "suppliercode": "35edb614-6cde-4b7f-965e-0ec954436d03"
+  },
+  {
+    "suppliercode": "3758910e-ccf1-4ed9-8d1c-e6234dc5b864"
+  },
+  {
+    "suppliercode": "37a92c53-c3f7-4eb4-b209-3a52d76886bd"
+  },
+  {
+    "suppliercode": "38f6cde8-c712-405b-91e2-0d16cb5d73fe"
+  },
+  {
+    "suppliercode": "39a7c13e-bdf4-485a-a7b2-74eb80f38730"
+  },
+  {
+    "suppliercode": "39c92ff9-ca1e-44a6-b6e6-fea7ea5449e5"
+  },
+  {
+    "suppliercode": "39cd4041-bcda-44de-9c50-9867844ddb0c"
+  },
+  {
+    "suppliercode": "3abc729b-5701-4e8b-82a5-47ba2086d0e0"
+  },
+  {
+    "suppliercode": "3beae59e-eeab-40f5-b290-1e70eab9f802"
+  },
+  {
+    "suppliercode": "3bf1cc14-d0a1-4e6b-8a2b-257c65b99f5c"
+  },
+  {
+    "suppliercode": "3c7b4e1d-f7dd-4507-98de-56d2d3e517ee"
+  },
+  {
+    "suppliercode": "3dafaab1-34f3-4972-b4db-fd098c3efe7c"
+  },
+  {
+    "suppliercode": "3dba1b28-ebc6-44ef-ab4e-1b07273db8ad"
+  },
+  {
+    "suppliercode": "3e50ef07-5e77-4ad5-b9ae-01f97b99fcc3"
+  },
+  {
+    "suppliercode": "3e563a62-9eb8-4bc2-9320-2e14e28923d7"
+  },
+  {
+    "suppliercode": "3e5c64aa-82d1-41aa-b2dd-1d10853dd5c3"
+  },
+  {
+    "suppliercode": "3e827ff7-7a6a-4a97-9847-6712f081d398"
+  },
+  {
+    "suppliercode": "3f798651-10c9-40c7-8770-c632f27e83a1"
+  },
+  {
+    "suppliercode": "40238aa1-ea4c-498c-be39-6c9ef0762381"
+  },
+  {
+    "suppliercode": "40c24ce3-2ea3-413f-bc53-6e75a1339f2c"
+  },
+  {
+    "suppliercode": "40e3c73a-1266-4876-b564-0ef83096edf6"
+  },
+  {
+    "suppliercode": "40ecb7af-8c92-4331-a5f2-b9edc8b75ce9"
+  },
+  {
+    "suppliercode": "41541c40-4ac8-4cbd-8159-659f5a860437"
+  },
+  {
+    "suppliercode": "417e8e81-9f46-491e-9db0-c5414c38b97a"
+  },
+  {
+    "suppliercode": "42ad5e72-3cd5-452b-bf81-d203f14405e1"
+  },
+  {
+    "suppliercode": "43858784-afb1-4c58-9101-0dc109b9f123"
+  },
+  {
+    "suppliercode": "43d6b57e-2bee-4671-8d73-c39a7a5be707"
+  },
+  {
+    "suppliercode": "44"
+  },
+  {
+    "suppliercode": "44;"
+  },
+  {
+    "suppliercode": "44661030-67e8-434f-bb59-1f0273ffa42b"
+  },
+  {
+    "suppliercode": "44bf697f-8743-405f-8b77-913736c824b4"
+  },
+  {
+    "suppliercode": "44c1458f-0a6d-4885-8107-7ed472e0d3d5"
+  },
+  {
+    "suppliercode": "44d4ad61-5660-49f0-81cd-69a52eb8a449"
+  },
+  {
+    "suppliercode": "45116808-f5d5-4aec-92f1-d314e686d36f"
+  },
+  {
+    "suppliercode": "460e160e-4a77-458e-83a4-f136da0ba49e"
+  },
+  {
+    "suppliercode": "4611e7b3-248c-42b9-8721-855158025e0e"
+  },
+  {
+    "suppliercode": "4781e5df-b3a6-4f30-9175-f19701ab2496"
+  },
+  {
+    "suppliercode": "4781fe4a-6112-40b2-9dbd-08803451d9d4"
+  },
+  {
+    "suppliercode": "478c51bc-77de-453c-b555-b316b35ce1d8"
+  },
+  {
+    "suppliercode": "4844c198-d5c0-45e0-868d-941b3ab5dbad"
+  },
+  {
+    "suppliercode": "484992bd-c1b6-4fe4-8f35-1a35b721f902"
+  },
+  {
+    "suppliercode": "48797958-f248-451f-951e-8af305e8692b"
+  },
+  {
+    "suppliercode": "4897d62f-c2a1-4005-9e05-18b894c6f0fc"
+  },
+  {
+    "suppliercode": "48bf1dea-c758-47b8-a64c-e9b2038b90b0"
+  },
+  {
+    "suppliercode": "4908f24c-4351-4032-b661-52b941c5e161"
+  },
+  {
+    "suppliercode": "49337d99-2470-4ea6-b369-2e15717fae1a"
+  },
+  {
+    "suppliercode": "49a3cfac-f1b9-4db4-af81-e0eb5c7aa63d"
+  },
+  {
+    "suppliercode": "4b01ead8-d447-4b4a-9fdb-1fb583b5a4e6"
+  },
+  {
+    "suppliercode": "4b2da040-c477-4de4-bed8-961dc4fe9b7b"
+  },
+  {
+    "suppliercode": "4b47eb52-9cdc-4612-9dd5-e885a6ce1dfd"
+  },
+  {
+    "suppliercode": "4b4f1d82-29f2-4e87-847f-670a91d5e1e0"
+  },
+  {
+    "suppliercode": "4b79862c-a92b-4ed4-80f2-2efdf91ce5df"
+  },
+  {
+    "suppliercode": "4b84fd86-c457-4863-b376-872405767897"
+  },
+  {
+    "suppliercode": "4c8ab361-4ce2-49f4-911f-f582c8fa533a"
+  },
+  {
+    "suppliercode": "4c943fab-d36e-403f-b320-2a481e16e439"
+  },
+  {
+    "suppliercode": "4d0ee5c3-5782-4250-a4ef-ab621591e34e"
+  },
+  {
+    "suppliercode": "4d208f2e-b367-41a2-aa17-66cae9b199c7"
+  },
+  {
+    "suppliercode": "4d265f37-4830-4fe6-97ec-88271fdd1758"
+  },
+  {
+    "suppliercode": "4d555bfa-ebe0-4bdf-994b-bca1dad6752b"
+  },
+  {
+    "suppliercode": "4d64e9fe-cdcb-4c30-8de0-b51c2557a326"
+  },
+  {
+    "suppliercode": "4de13bdb-7313-47b9-92c4-7e3166a9c487"
+  },
+  {
+    "suppliercode": "4e747613-7997-4e85-869c-ab5f544ba57b"
+  },
+  {
+    "suppliercode": "4ea13a72-4ec6-4049-a71d-aba5cbef88be"
+  },
+  {
+    "suppliercode": "4ee2ca5a-1c97-44a7-bd84-175116b326b9"
+  },
+  {
+    "suppliercode": "4f3fd199-2310-4089-a15e-252ab6d220e1"
+  },
+  {
+    "suppliercode": "4f89f0eb-6af8-45d3-a290-ac7a560aee17"
+  },
+  {
+    "suppliercode": "50916dda-14e2-4d77-bf0b-ca71ab415498"
+  },
+  {
+    "suppliercode": "50c93cb0-8982-41be-94cb-c8683572f31a"
+  },
+  {
+    "suppliercode": "526356ec-5478-4bc1-b5d1-7c59bc800aee"
+  },
+  {
+    "suppliercode": "527e6cf7-7698-4ed7-821e-5ddf9e2f2619"
+  },
+  {
+    "suppliercode": "52fa91fd-fff2-4154-8013-33090167f04d"
+  },
+  {
+    "suppliercode": "5327207f-1033-489a-889d-85dfb96e985d"
+  },
+  {
+    "suppliercode": "53748aa6-7a8f-4a3e-bb50-158ae741bf14"
+  },
+  {
+    "suppliercode": "53806860-82d8-4ac7-bab4-e396ae44fb32"
+  },
+  {
+    "suppliercode": "539c607c-f4a5-41ba-bb1b-72c1c2851426"
+  },
+  {
+    "suppliercode": "53b63b96-e9e5-4cb2-9af5-5684c7211e56"
+  },
+  {
+    "suppliercode": "53d3cfae-d970-4789-969a-b3121628bd8f"
+  },
+  {
+    "suppliercode": "541c17f4-26c5-46d5-b486-ad51da7ef533"
+  },
+  {
+    "suppliercode": "543bfd54-1ea4-4a0c-a1ad-5309f9958f41"
+  },
+  {
+    "suppliercode": "54bb13b9-8d3f-42d8-99fe-e821ef664699"
+  },
+  {
+    "suppliercode": "55710685-4a5f-4588-8d8e-b318b0ef5911"
+  },
+  {
+    "suppliercode": "55bbd38b-c4da-4106-b8da-cc203037d353"
+  },
+  {
+    "suppliercode": "560bc917-3aa5-40f1-aabf-2c88949096f3"
+  },
+  {
+    "suppliercode": "561151c9-19d2-4b47-a92b-a652207845ed"
+  },
+  {
+    "suppliercode": "56841014-2bbf-49dc-bb8d-a94e7af27b2b"
+  },
+  {
+    "suppliercode": "579196f5-f900-4ddf-ab8b-ba8f90145727"
+  },
+  {
+    "suppliercode": "58abe2ea-cfe0-4c26-9441-c29561b92cc9"
+  },
+  {
+    "suppliercode": "58c770fb-11e2-40a8-8ccd-aa1981149821"
+  },
+  {
+    "suppliercode": "58d35767-654e-4dd6-b6be-39927ee251f8"
+  },
+  {
+    "suppliercode": "593d599a-699c-4de4-aaa4-bcb6d55d051e"
+  },
+  {
+    "suppliercode": "59672293-f4df-4fe2-b689-c3462ed78d24"
+  },
+  {
+    "suppliercode": "59bbd261-17e3-421d-83cd-2c801aea5b46"
+  },
+  {
+    "suppliercode": "5ad05172-1deb-46d2-8dcc-7e666c255072"
+  },
+  {
+    "suppliercode": "5b5e73d5-0206-4d6a-a390-f861a410d599"
+  },
+  {
+    "suppliercode": "5b8b1379-6a18-4ed6-bbdf-37534e56a20e"
+  },
+  {
+    "suppliercode": "5c13c359-d53f-403c-9ad7-b324bf79ba1d"
+  },
+  {
+    "suppliercode": "5c9b2c89-ce43-4aeb-b7a1-f14c859df03c"
+  },
+  {
+    "suppliercode": "5d0fdc9d-c059-4e89-a362-d784aba111df"
+  },
+  {
+    "suppliercode": "5d88be2a-012b-4dcc-957e-b765a741b9a5"
+  },
+  {
+    "suppliercode": "5e19bec4-49ea-48c1-a00e-8b25c126aea3"
+  },
+  {
+    "suppliercode": "5f45a053-f811-47b2-9fb3-22a554afc072"
+  },
+  {
+    "suppliercode": "5f60ae34-2057-4679-8bde-8616c5460342"
+  },
+  {
+    "suppliercode": "5fa82814-68b0-4df9-a759-d3fd671b586d"
+  },
+  {
+    "suppliercode": "603bf035-88f1-4486-8ce6-980b2782d81e"
+  },
+  {
+    "suppliercode": "607cb9a8-d7ce-44b1-b5da-a36859db8f60"
+  },
+  {
+    "suppliercode": "6083424e-b371-4fae-bd24-1548d3ac7c97"
+  },
+  {
+    "suppliercode": "61072348-b60c-42cc-a89e-bc093c3556ce"
+  },
+  {
+    "suppliercode": "614b9c28-0bda-4728-a789-65c3f797ef68"
+  },
+  {
+    "suppliercode": "6184c539-cbea-42bd-852b-6be71c1f0ea0"
+  },
+  {
+    "suppliercode": "6223e6fe-5cd1-4e55-8673-bfd34e492e38"
+  },
+  {
+    "suppliercode": "62845874-0433-4659-801c-0025f8317ac7"
+  },
+  {
+    "suppliercode": "62982019-e541-46b4-8877-f095047262fd"
+  },
+  {
+    "suppliercode": "62c25dd8-4463-449b-aae8-4d0d9b87f5f5"
+  },
+  {
+    "suppliercode": "630aefe4-6d03-406c-a713-ded0d503ffaf"
+  },
+  {
+    "suppliercode": "634077da-7fa6-4c0a-a6d2-73bc475b7522"
+  },
+  {
+    "suppliercode": "63f4247a-bc8b-4d70-97e0-6223b0a5eded"
+  },
+  {
+    "suppliercode": "6400f94a-f491-4d1c-96ab-4dc7aa5f379a"
+  },
+  {
+    "suppliercode": "652032ac-6793-450c-8b45-f9ad5fee4b1d"
+  },
+  {
+    "suppliercode": "6611e904-388d-426c-b2f7-6a2deebb0298"
+  },
+  {
+    "suppliercode": "66608156-80c9-4c38-a830-831fb88f4773"
+  },
+  {
+    "suppliercode": "667c2371-2f8e-4201-ae80-9f1de7319ab1"
+  },
+  {
+    "suppliercode": "66b50c78-e122-48b1-8a7c-8dded75411e0"
+  },
+  {
+    "suppliercode": "677cef18-7bb4-4079-b82b-081e871346eb"
+  },
+  {
+    "suppliercode": "679cbc52-dd80-418c-b6f2-5be7e18c1436"
+  },
+  {
+    "suppliercode": "67c0104d-a565-4cd8-a1b0-45d7e78eb886"
+  },
+  {
+    "suppliercode": "683f117a-acde-4202-9da7-e5e56fbf01eb"
+  },
+  {
+    "suppliercode": "684487e8-8c44-46c5-8612-97f6cc319ed3"
+  },
+  {
+    "suppliercode": "68506132-3b05-4504-92e7-bf64e707a448"
+  },
+  {
+    "suppliercode": "68ecbaa6-cf18-48d9-9003-c98bbfcc9428"
+  },
+  {
+    "suppliercode": "6919c484-72f9-4354-a2e0-7a9444ce6f51"
+  },
+  {
+    "suppliercode": "6940bddc-e5cb-458d-9a76-3a190521e3c1"
+  },
+  {
+    "suppliercode": "6955ff9c-646d-48f9-8788-9c70a8d123a4"
+  },
+  {
+    "suppliercode": "69f21899-a94d-4f5e-aef9-a1ae2eca7a9e"
+  },
+  {
+    "suppliercode": "6a45b914-e499-47f5-9bd9-a1d04f856a6a"
+  },
+  {
+    "suppliercode": "6a4ef6df-b892-4a40-a6ac-34ea28bb4ae3"
+  },
+  {
+    "suppliercode": "6ae8a085-4a10-4c02-a9eb-896683aacc61"
+  },
+  {
+    "suppliercode": "6aefc31f-2ea0-4056-a30d-82cfde3d54b3"
+  },
+  {
+    "suppliercode": "6b50a9e5-a197-4657-97e6-94bee3769369"
+  },
+  {
+    "suppliercode": "6c18d5d4-594e-477d-ab62-7920000b5e51"
+  },
+  {
+    "suppliercode": "6cc85425-87b6-4c8c-b5de-8d725903a44a"
+  },
+  {
+    "suppliercode": "6d520c9f-12c8-4a69-8904-6ab2cb37c0df"
+  },
+  {
+    "suppliercode": "6df3ed81-6acd-4ac5-9e36-c2daf4eb582c"
+  },
+  {
+    "suppliercode": "6df90fab-78e2-4b75-8882-5c2497b8d454"
+  },
+  {
+    "suppliercode": "6dfc6658-44c3-49f4-b5f0-2323335bd228"
+  },
+  {
+    "suppliercode": "6e08e857-796d-4507-aae2-cfbf95024a41"
+  },
+  {
+    "suppliercode": "6e19fd55-4362-423d-b095-556854e359c4"
+  },
+  {
+    "suppliercode": "6e46f518-5dfe-4459-8cef-2e39aac5c14e"
+  },
+  {
+    "suppliercode": "6e531c69-3a80-448a-a713-1c3540467bd2"
+  },
+  {
+    "suppliercode": "6ea1130c-cd55-40f6-aca1-8df06a9cbd3c"
+  },
+  {
+    "suppliercode": "702d6318-cc4c-4000-99b4-85ad0dddb9b8"
+  },
+  {
+    "suppliercode": "703b97b7-e0b7-4f3d-a930-959ffe8db3f5"
+  },
+  {
+    "suppliercode": "70fb25e6-9d4b-4096-a1fc-1cfd73e6a27f"
+  },
+  {
+    "suppliercode": "710b7e5c-2c6f-4500-92cb-acd8dc6cb477"
+  },
+  {
+    "suppliercode": "7122e330-2c1f-4c96-9c69-12633d362bf0"
+  },
+  {
+    "suppliercode": "715b9d31-e009-4268-bec0-cf02d10967b8"
+  },
+  {
+    "suppliercode": "71f72e90-5fe4-414f-b23c-7ea06c4c012b"
+  },
+  {
+    "suppliercode": "722885ab-7ad5-4edd-afb8-6141d2d9b91e"
+  },
+  {
+    "suppliercode": "72749083-ee13-4895-8afd-ca5340e8c5cc"
+  },
+  {
+    "suppliercode": "7385d4ea-afc5-43b4-913c-133468918adc"
+  },
+  {
+    "suppliercode": "74ed29bc-30bf-49cf-bb9d-e0191404e3f1"
+  },
+  {
+    "suppliercode": "75511785-a003-4488-b6f5-045eadb7efaa"
+  },
+  {
+    "suppliercode": "75fe6924-a08b-405e-bdb7-6e3e8bc57ba4"
+  },
+  {
+    "suppliercode": "76ff48d5-e729-4b76-be39-eed4ac25a490"
+  },
+  {
+    "suppliercode": "773b4f98-aa5d-40e8-9714-a805046978f9"
+  },
+  {
+    "suppliercode": "781d01f9-ebee-4337-99f3-47de8e950b9e"
+  },
+  {
+    "suppliercode": "78831615-dbd5-4624-97ce-ddf1eef1a5bc"
+  },
+  {
+    "suppliercode": "78c6f6c0-7d75-4a03-89d7-7f3d05f4cf21"
+  },
+  {
+    "suppliercode": "7a0aa374-bd34-413c-9b5e-518db68eb1cf"
+  },
+  {
+    "suppliercode": "7b9b9b3f-7a8f-4f4a-9833-0cb8bf6601c3"
+  },
+  {
+    "suppliercode": "7c0f97c2-893c-499d-af37-c8fc8326e3fa"
+  },
+  {
+    "suppliercode": "7c436d9a-7871-4270-a60d-8ccb98d96c75"
+  },
+  {
+    "suppliercode": "7c9e1a97-0857-4284-b609-5c20c015f99b"
+  },
+  {
+    "suppliercode": "7cd34e98-fd4f-4bf1-8cc1-e1b3b27c7fd2"
+  },
+  {
+    "suppliercode": "7cdf2eb2-d5a6-4e1a-a258-e9d5b881da4c"
+  },
+  {
+    "suppliercode": "7ce3f041-894d-45b3-bb54-c2341c42201a"
+  },
+  {
+    "suppliercode": "7cecd208-f8c8-40c5-9518-cee9786552de"
+  },
+  {
+    "suppliercode": "7d1d4741-7c60-468f-8878-66e7a74e9ebf"
+  },
+  {
+    "suppliercode": "7d30d064-b248-4351-bb11-94702b656f39"
+  },
+  {
+    "suppliercode": "7e4fc883-d08e-4668-bf09-1100eb9a4bf2"
+  },
+  {
+    "suppliercode": "7eb9ff0b-9a84-4ef0-8810-ef8ea316024b"
+  },
+  {
+    "suppliercode": "7ef25132-cd25-4dd3-80c9-51f288ab310c"
+  },
+  {
+    "suppliercode": "7f73880d-0472-439b-9140-ae78e930194d"
+  },
+  {
+    "suppliercode": "7fefdc3b-ef79-4c8f-8746-6318c18a23cd"
+  },
+  {
+    "suppliercode": "8121049f-0512-4165-85a7-57a7516af655"
+  },
+  {
+    "suppliercode": "836e994b-6fbb-413d-aa96-851116a4dd11"
+  },
+  {
+    "suppliercode": "83efa98c-e2b2-436c-b886-19fcc42e4ab9"
+  },
+  {
+    "suppliercode": "84"
+  },
+  {
+    "suppliercode": "84613204-abc7-49e3-87a7-a6fe1055ae4f"
+  },
+  {
+    "suppliercode": "84a77ef0-eceb-4c58-8042-6a29923a3b9b"
+  },
+  {
+    "suppliercode": "8566affd-88ec-4a5b-bbf5-61850427e08c"
+  },
+  {
+    "suppliercode": "85e27d91-925d-49af-a8da-97b2e9579e52"
+  },
+  {
+    "suppliercode": "860e6ecb-f99b-41ce-8228-ca45852455f5"
+  },
+  {
+    "suppliercode": "862974c9-2b6c-4f22-aaac-22333d4abe7c"
+  },
+  {
+    "suppliercode": "86c16d82-1a79-49df-9c21-fad703d170ed"
+  },
+  {
+    "suppliercode": "86e994d8-a2c5-40e6-a499-fecac8f7df2d"
+  },
+  {
+    "suppliercode": "86fd22fe-fce4-4421-853d-451bf23699c9"
+  },
+  {
+    "suppliercode": "873da9fa-0e7f-4cfc-b8dd-216d4961f481"
+  },
+  {
+    "suppliercode": "88df4ee6-2b91-4a2c-9068-0dc2e11ada55"
+  },
+  {
+    "suppliercode": "8a484e8c-8ef7-4b53-809d-3deab0bc7246"
+  },
+  {
+    "suppliercode": "8a800f4c-a7b2-461d-8a90-3a6b13510b9b"
+  },
+  {
+    "suppliercode": "8a8fd8be-bdb6-456a-8c88-b1811e64e3d4"
+  },
+  {
+    "suppliercode": "8a94a2ae-a9f1-418f-915c-a4b8283d9f31"
+  },
+  {
+    "suppliercode": "8ab7478e-3207-4918-a684-4ef34e02dd0f"
+  },
+  {
+    "suppliercode": "8abc5087-d8c9-43a7-a65b-9859f5c3e936"
+  },
+  {
+    "suppliercode": "8b119371-fd52-484c-a3bc-5692d45f1812"
+  },
+  {
+    "suppliercode": "8b86de9e-81cb-4dd4-aac6-2febe9e83351"
+  },
+  {
+    "suppliercode": "8b998007-7226-4e0f-80e2-5e3b70407838"
+  },
+  {
+    "suppliercode": "8d5c4226-f56a-4f02-9843-d67e5c12798e"
+  },
+  {
+    "suppliercode": "8e1c43e2-90a4-420f-926e-d0aea3312fc5"
+  },
+  {
+    "suppliercode": "8e5506db-43c4-4aab-9495-d94c4ee81760"
+  },
+  {
+    "suppliercode": "8ed2eb5c-7bd3-4f13-a599-d36ccbe96b1e"
+  },
+  {
+    "suppliercode": "8fb6ba9c-2abc-4878-9cba-6816f898e514"
+  },
+  {
+    "suppliercode": "8fd86056-7802-4284-a3e7-96d63d865132"
+  },
+  {
+    "suppliercode": "9032e03a-90d6-49ae-99ca-4f0046ef15e4"
+  },
+  {
+    "suppliercode": "90747eb1-bc20-436e-89a7-b8beb99ddad6"
+  },
+  {
+    "suppliercode": "90aebb15-86a8-4cb0-b7f2-03bebdd52e89"
+  },
+  {
+    "suppliercode": "90c7c894-8206-43b8-a01d-6208600dbbf0"
+  },
+  {
+    "suppliercode": "90f74a9a-f6b9-43c8-8f89-7205bb566bb7"
+  },
+  {
+    "suppliercode": "90fa8e22-2edb-41b0-a655-e6660672fc6d"
+  },
+  {
+    "suppliercode": "912df1a1-1a7c-4135-a68b-1e77bff5383f"
+  },
+  {
+    "suppliercode": "918faef7-d580-42f6-a79e-085b7daf6ebe"
+  },
+  {
+    "suppliercode": "922c1580-d930-49d1-8140-09e5e721e318"
+  },
+  {
+    "suppliercode": "928600a6-477f-432b-acaa-46d07954af28"
+  },
+  {
+    "suppliercode": "9322a284-855d-4766-938b-aca28f329c16"
+  },
+  {
+    "suppliercode": "936dba82-d753-4aab-a278-53e46194f07d"
+  },
+  {
+    "suppliercode": "93842883-5d94-4944-9916-1a9607479156"
+  },
+  {
+    "suppliercode": "93a014c2-8447-424b-8420-5a29d8ec284c"
+  },
+  {
+    "suppliercode": "943fef2d-2dba-49be-80f4-709e0e48568c"
+  },
+  {
+    "suppliercode": "94923e1a-5f93-4109-8ad8-140e20be8a8f"
+  },
+  {
+    "suppliercode": "94cd6785-30ed-498d-94ed-a248652d24f9"
+  },
+  {
+    "suppliercode": "951f85ae-d8fb-47d0-89ef-9b16fa3b76fa"
+  },
+  {
+    "suppliercode": "95342b9c-835f-47bc-b82a-1498fe785a9c"
+  },
+  {
+    "suppliercode": "9557da3f-3450-4a88-860c-013e3dd4949f"
+  },
+  {
+    "suppliercode": "956d89e5-f634-4096-8a17-5b2e96123e53"
+  },
+  {
+    "suppliercode": "964cd499-7d99-435e-abbe-bf02c1a13135"
+  },
+  {
+    "suppliercode": "9654b7f5-771b-4623-9044-b548cb978094"
+  },
+  {
+    "suppliercode": "9713d0e3-ecbf-450a-a780-507fb599201f"
+  },
+  {
+    "suppliercode": "97ad13a2-5fbc-425b-b446-66d9561fd3b5"
+  },
+  {
+    "suppliercode": "97cc52d8-b205-44d7-b2ac-103d1516118a"
+  },
+  {
+    "suppliercode": "9838e3b1-1f70-46b7-9c6d-684078970d5c"
+  },
+  {
+    "suppliercode": "98b41798-84b0-4f7d-97e3-e62623b660b7"
+  },
+  {
+    "suppliercode": "98e5f07d-1994-4ac3-be84-cb050e52e5b1"
+  },
+  {
+    "suppliercode": "9915bc4a-295b-4de6-af27-3a5c2ad0d416"
+  },
+  {
+    "suppliercode": "9a3f56b3-7dcf-4e95-bc17-6e76b3e70b8b"
+  },
+  {
+    "suppliercode": "9a727e5a-9fda-4b83-8179-0fd19cbfaefc"
+  },
+  {
+    "suppliercode": "9a7ab187-b16c-4364-9a15-746624e88cd0"
+  },
+  {
+    "suppliercode": "9a819550-7290-4e63-bce2-2adf8ea6bddc"
+  },
+  {
+    "suppliercode": "9ac46301-d60a-4560-a3c2-4e091ffbf9c0"
+  },
+  {
+    "suppliercode": "9b1dd06d-1275-4d55-8d7a-3c50c4c96c8d"
+  },
+  {
+    "suppliercode": "9b8161f5-5979-4c18-905d-035829c2075e"
+  },
+  {
+    "suppliercode": "9b914470-1f87-4130-bb75-56b71d566b00"
+  },
+  {
+    "suppliercode": "9c426eac-cae4-42e8-a3d3-98a904024323"
+  },
+  {
+    "suppliercode": "9c7f78b0-bece-4b06-8810-97afaaec3ead"
+  },
+  {
+    "suppliercode": "9d3620ff-ac95-4475-9df3-a246a6f49ea5"
+  },
+  {
+    "suppliercode": "9d700c89-06c2-445a-8e8c-822bdc10f1e3"
+  },
+  {
+    "suppliercode": "9d92475b-e66b-45b5-a566-62dd3cbf2354"
+  },
+  {
+    "suppliercode": "9da87632-a266-4be5-ac2a-4c1948043ade"
+  },
+  {
+    "suppliercode": "9dae00c9-0b70-4ff1-9a08-64437574f6ad"
+  },
+  {
+    "suppliercode": "9ef8d6f6-2a34-4b77-9b91-8c88f9c5190f"
+  },
+  {
+    "suppliercode": "9fc44a86-f549-4b9b-a5fb-8f0b03c510e2"
+  },
+  {
+    "suppliercode": "a06ed5be-9a8f-4870-a6a6-05700fd67091"
+  },
+  {
+    "suppliercode": "a0a16666-5566-4402-8ef6-d92744a19f6e"
+  },
+  {
+    "suppliercode": "a0ad10f3-68a5-42e3-9678-c7e6e03c34b9"
+  },
+  {
+    "suppliercode": "a102baae-7f3e-41bd-be62-808f1de622d8"
+  },
+  {
+    "suppliercode": "a108765c-cb6c-44bc-a3ae-ddbea53823f8"
+  },
+  {
+    "suppliercode": "a1a23a88-0346-4e0d-a88a-5dec70d7ff83"
+  },
+  {
+    "suppliercode": "a219c946-aad7-4633-a4f5-e70139ffb39b"
+  },
+  {
+    "suppliercode": "a33bc13f-4cf9-413a-9729-3ac85e703598"
+  },
+  {
+    "suppliercode": "a3499ed4-2bb7-485f-840e-dfd7af9cd4ab"
+  },
+  {
+    "suppliercode": "a3b98da6-0ebd-490b-9f3b-02cc1aef2858"
+  },
+  {
+    "suppliercode": "a3edffc9-c027-4000-93da-ecb21a02320c"
+  },
+  {
+    "suppliercode": "a4e10acb-824a-4351-a537-85472c8accad"
+  },
+  {
+    "suppliercode": "a522ae24-c55c-4847-8666-63d8fba2e1ab"
+  },
+  {
+    "suppliercode": "a556db04-95ad-4a1d-8cc7-a17fdebfb094"
+  },
+  {
+    "suppliercode": "a643b2cb-ad17-493b-94e7-6c48e07f0080"
+  },
+  {
+    "suppliercode": "a67afd69-d312-4614-a67e-bcd9539b5882"
+  },
+  {
+    "suppliercode": "a75f96cb-c4cb-4736-88bc-bd384df4f2f6"
+  },
+  {
+    "suppliercode": "a7fffb01-8db2-41c3-851b-914d59656558"
+  },
+  {
+    "suppliercode": "a91eb1f2-92b5-4815-bf2d-4929122f1a96"
+  },
+  {
+    "suppliercode": "a9354bc5-c882-49a9-90da-f19bca34aa24"
+  },
+  {
+    "suppliercode": "a967a007-5fd9-4f9d-9eca-0a06b3bba112"
+  },
+  {
+    "suppliercode": "a9b0dcde-7185-4d17-a236-e5425ee0151f"
+  },
+  {
+    "suppliercode": "a9fab8e4-7d63-4cd9-8422-4f82901d3e21"
+  },
+  {
+    "suppliercode": "aaed392a-1b82-4c7b-af01-17a4e5b60ca7"
+  },
+  {
+    "suppliercode": "ab7a1e55-e070-4387-98a6-7e472f0b9386"
+  },
+  {
+    "suppliercode": "ab8a206b-08e5-4b6a-9f7e-614fef1d5124"
+  },
+  {
+    "suppliercode": "abee9139-44e5-4280-a95c-14a4c808caf6"
+  },
+  {
+    "suppliercode": "ac6e3916-bb89-4dcf-b83a-e63825731bbc"
+  },
+  {
+    "suppliercode": "acb8a1ed-05d3-4f43-bf06-92927089d694"
+  },
+  {
+    "suppliercode": "ad23b80b-bef9-4d93-a78f-237d7bd0de86"
+  },
+  {
+    "suppliercode": "ad7e3408-7918-42c8-b3d1-512f9e7f8ea3"
+  },
+  {
+    "suppliercode": "ad8d19b6-1ea0-4443-97c2-0a2650ed9c14"
+  },
+  {
+    "suppliercode": "add90d8b-1ab7-4fdb-b18f-089c9bfb1c9d"
+  },
+  {
+    "suppliercode": "adedc355-0e3a-4351-9dfd-6620798abe20"
+  },
+  {
+    "suppliercode": "ae254346-1ba7-460d-948a-c8ef8cd9a33a"
+  },
+  {
+    "suppliercode": "af31ec1a-3fb7-49ac-aa0a-f996a516ffb3"
+  },
+  {
+    "suppliercode": "af3e8f3d-fdfe-49e6-8df8-48f38d4ef396"
+  },
+  {
+    "suppliercode": "af6b9c7a-cb1e-40b2-af76-7b7e3ad182ec"
+  },
+  {
+    "suppliercode": "af8d2518-23b1-4cc8-8dfe-ea78c0bf5b9f"
+  },
+  {
+    "suppliercode": "afbc79e0-8e15-452d-aabe-24d44bf1d292"
+  },
+  {
+    "suppliercode": "afeaadaa-915f-450c-8857-d4d6d8b5c72e"
+  },
+  {
+    "suppliercode": "affeb5de-e4b6-4b6f-9a1d-33d740710937"
+  },
+  {
+    "suppliercode": "b0567ccf-235b-4d51-b69b-b8b96f28c508"
+  },
+  {
+    "suppliercode": "b0b8b055-0a73-4f00-9ff3-f888ea11789e"
+  },
+  {
+    "suppliercode": "b1742cad-39b1-445d-8bcb-4e68ca99183a"
+  },
+  {
+    "suppliercode": "b191d164-01cb-48e1-9311-827c1b5132c7"
+  },
+  {
+    "suppliercode": "b1dcb2cf-39c0-4480-81eb-df740effd4f5"
+  },
+  {
+    "suppliercode": "b1f7d12f-e1be-459a-8e39-0c4590c5208f"
+  },
+  {
+    "suppliercode": "b2a99490-0561-415d-903a-62339da38b66"
+  },
+  {
+    "suppliercode": "b2d017f4-fa72-42f5-8a71-e7745fa59e36"
+  },
+  {
+    "suppliercode": "b324c692-629b-4891-9338-2fd63a97fa96"
+  },
+  {
+    "suppliercode": "b3e6827f-0f57-466f-a055-7ed75dcbe02c"
+  },
+  {
+    "suppliercode": "b455e1f9-1630-4845-acd7-b6663bc2cc37"
+  },
+  {
+    "suppliercode": "b48f2bb2-d167-4fc6-aaf0-5fe99a897753"
+  },
+  {
+    "suppliercode": "b49f0e98-33e5-4c39-9fbe-35da892d04f8"
+  },
+  {
+    "suppliercode": "b4d89125-767a-4e12-a360-68258344c7d4"
+  },
+  {
+    "suppliercode": "b5c3567b-317c-441a-ba13-5288673cc090"
+  },
+  {
+    "suppliercode": "b5e740b5-fff9-4a64-b64b-494a8ccc4e0f"
+  },
+  {
+    "suppliercode": "b6a88190-58c4-4715-9c14-0465b394d7ec"
+  },
+  {
+    "suppliercode": "b6ed00cb-22e6-465f-8a4c-8dd2fdb6ddcb"
+  },
+  {
+    "suppliercode": "b708318f-965b-4352-91db-1d34dd5aa216"
+  },
+  {
+    "suppliercode": "b7aa1644-5b49-4157-8f1c-b211786f9690"
+  },
+  {
+    "suppliercode": "b7b86b0c-b6e9-4cf4-8d32-ae57e4a91d7b"
+  },
+  {
+    "suppliercode": "b7ef576b-a645-4818-8ff9-c23b20ee4ccc"
+  },
+  {
+    "suppliercode": "b8c2723b-8ea6-4123-9158-579b750459d4"
+  },
+  {
+    "suppliercode": "b93bcc3a-337a-446f-9318-4bf7c9cff3dc"
+  },
+  {
+    "suppliercode": "b9812213-220a-4bcc-a184-fa6c3f4a9e31"
+  },
+  {
+    "suppliercode": "b98c95f4-a884-42e1-8a1f-951b0f77ad63"
+  },
+  {
+    "suppliercode": "b9b37027-e814-4ca7-924a-3e58b7c24891"
+  },
+  {
+    "suppliercode": "b9bed582-3556-459e-b7a3-40e4dcb72af6"
+  },
+  {
+    "suppliercode": "ba89f070-01d3-49a6-b48e-8a6a0ba30ad8"
+  },
+  {
+    "suppliercode": "baccf651-368a-4d33-9377-d811b617c38f"
+  },
+  {
+    "suppliercode": "bacda23a-5b54-40b8-aaae-db148aa79fb4"
+  },
+  {
+    "suppliercode": "bb145907-9d9d-41c2-b619-3847a1ca62d2"
+  },
+  {
+    "suppliercode": "bc4cbd09-619b-41e8-8261-aab20550be40"
+  },
+  {
+    "suppliercode": "bc8edddb-4a11-40f1-9514-0284da87ff4f"
+  },
+  {
+    "suppliercode": "bcedf94a-8b61-40ff-af2f-ad0d97a276f8"
+  },
+  {
+    "suppliercode": "bd0f39c2-eb10-46eb-be31-d0a3aa8866e5"
+  },
+  {
+    "suppliercode": "bd77ce6c-aad0-406f-815b-26fd4368dce4"
+  },
+  {
+    "suppliercode": "bdfd2026-34f4-4815-9dbb-fb319363fc7f"
+  },
+  {
+    "suppliercode": "bf093f60-ca63-443c-aa3d-28b067a95dc8"
+  },
+  {
+    "suppliercode": "bf565b71-703a-467d-96ac-4d2a24be04a6"
+  },
+  {
+    "suppliercode": "bf709681-39c7-4b19-a9fe-119be99c531a"
+  },
+  {
+    "suppliercode": "bf7307d2-d724-47a3-9de5-d0e3275ca582"
+  },
+  {
+    "suppliercode": "c0007ab6-c61f-4349-b0ee-e5b243226bd9"
+  },
+  {
+    "suppliercode": "c0172aec-5316-4f0e-9562-de8edbf9acbb"
+  },
+  {
+    "suppliercode": "c0be532a-0644-4e6f-9bf1-078b3e7500d1"
+  },
+  {
+    "suppliercode": "c114347c-9e71-4fe7-a8ea-0d329c5645b9"
+  },
+  {
+    "suppliercode": "c16bf102-0d91-4d8e-ac7d-48c36cd4fad3"
+  },
+  {
+    "suppliercode": "c1e94257-b417-45dc-a1a3-d216b0da2990"
+  },
+  {
+    "suppliercode": "c2013075-5053-4f6d-95ba-41051ceeb33a"
+  },
+  {
+    "suppliercode": "c33c0a98-3288-4311-a945-ebf8c6009745"
+  },
+  {
+    "suppliercode": "c3e2a8ab-581d-4aab-aedc-be9cd33c78c0"
+  },
+  {
+    "suppliercode": "c3fd20b1-c736-4b32-85c7-fea484b5f13d"
+  },
+  {
+    "suppliercode": "c3fdf276-e892-4011-ae9e-d3cd42573e00"
+  },
+  {
+    "suppliercode": "c42831a2-d43d-4c3b-8df5-8296bfd53369"
+  },
+  {
+    "suppliercode": "c45adb9f-38ca-4a35-8d34-c823c8e4a8fe"
+  },
+  {
+    "suppliercode": "c45e5fd0-7040-456a-95eb-6d1494ff1824"
+  },
+  {
+    "suppliercode": "c4617cbb-368f-4a85-9c40-c94f37691bc2"
+  },
+  {
+    "suppliercode": "c49ca8a5-1a7a-4630-a5eb-043cf30ab77f"
+  },
+  {
+    "suppliercode": "c4ce3775-ba0d-4900-b626-7c23685b39e8"
+  },
+  {
+    "suppliercode": "c4d99577-55ae-453c-8e43-d1a5a03ba1df"
+  },
+  {
+    "suppliercode": "c52b3c96-909f-41cb-a743-3b86b79d05ea"
+  },
+  {
+    "suppliercode": "c5b4a152-0220-4c04-8034-d05ebd194da3"
+  },
+  {
+    "suppliercode": "c5f9ce3a-3bda-4998-8958-e1abc002181d"
+  },
+  {
+    "suppliercode": "c5fac786-a56e-4f63-b69e-3138b516142c"
+  },
+  {
+    "suppliercode": "c5ff890d-286c-416e-8382-1aa5b9a1abbc"
+  },
+  {
+    "suppliercode": "c6b81a0c-091f-4ed8-9895-762521ac4f7a"
+  },
+  {
+    "suppliercode": "c6e32613-b2cb-450c-af21-3bbfaa5b3cde"
+  },
+  {
+    "suppliercode": "c7240969-9455-4a00-a27d-b27fed8a59fc"
+  },
+  {
+    "suppliercode": "c7366a51-206d-4ef7-a046-5e506d172d35"
+  },
+  {
+    "suppliercode": "c765c618-d46b-4186-b856-81568ff879bb"
+  },
+  {
+    "suppliercode": "c7d3a4d2-5ae7-413b-b54b-406e76cff150"
+  },
+  {
+    "suppliercode": "c7ec4eed-7c26-4a33-8018-bc71f7b45f23"
+  },
+  {
+    "suppliercode": "c801f115-3bf0-43fe-ad74-2b0653be92d1"
+  },
+  {
+    "suppliercode": "c83c5b4b-771b-4104-8f9f-6f28250a3387"
+  },
+  {
+    "suppliercode": "c840761f-eead-4264-8292-ad67517f8806"
+  },
+  {
+    "suppliercode": "c88fe919-aaaa-423b-9146-eea3bb669ab7"
+  },
+  {
+    "suppliercode": "c8b7cb87-9652-42c6-b9f0-971c8746f7d3"
+  },
+  {
+    "suppliercode": "c90d4ce0-0f84-4a76-9ff0-a8952c5f087d"
+  },
+  {
+    "suppliercode": "c9118686-eb82-40c2-89e9-9276aded9cfc"
+  },
+  {
+    "suppliercode": "ca532dcd-f22d-4295-96d0-18dd4c06692d"
+  },
+  {
+    "suppliercode": "ca6b87e2-d15a-444e-a23f-242fe4667cc3"
+  },
+  {
+    "suppliercode": "ca7c4ccb-3ab2-4a4c-a1d4-fe94d335fecf"
+  },
+  {
+    "suppliercode": "ca82dc78-c08e-45c9-bc1c-f419638e7365"
+  },
+  {
+    "suppliercode": "caa40f97-5128-4d72-9e07-2991d718f855"
+  },
+  {
+    "suppliercode": "cad62acf-d0a6-4631-b5a1-38456bc4f964"
+  },
+  {
+    "suppliercode": "cb4137f3-eaba-469b-846b-37d361625449"
+  },
+  {
+    "suppliercode": "cbccb97d-4eb5-471d-9ff8-b80168d8ced0"
+  },
+  {
+    "suppliercode": "cc74ed82-5c8c-4e7f-999f-a11a2139a9ac"
+  },
+  {
+    "suppliercode": "cc7e0365-6a7f-4a10-b960-8b15ddbe4eda"
+  },
+  {
+    "suppliercode": "ce228c96-c2f9-4034-8b08-5d9879a1aa9b"
+  },
+  {
+    "suppliercode": "ce2c4647-81e0-44b5-bf71-e494a6d45e90"
+  },
+  {
+    "suppliercode": "ceab61e3-ed0f-43a4-a753-3d1558b71fc0"
+  },
+  {
+    "suppliercode": "cecb07ea-ca14-4ecc-90ae-5bbffe164407"
+  },
+  {
+    "suppliercode": "cecf0d4f-f841-405e-bd5e-97e2d3dd3feb"
+  },
+  {
+    "suppliercode": "ceeb4833-c927-4321-bd3e-b78d34f89b1b"
+  },
+  {
+    "suppliercode": "cfabf230-ff3e-41f9-bc79-54bc989c8f71"
+  },
+  {
+    "suppliercode": "cfc5aaf9-53ee-4387-8d77-a7b9511cec9d"
+  },
+  {
+    "suppliercode": "d0c93620-fd74-4373-915f-053e4d984732"
+  },
+  {
+    "suppliercode": "d12148b6-9eae-49cf-a38f-142cebd2b287"
+  },
+  {
+    "suppliercode": "d12b0a1f-642b-400e-bc9e-498f0ff1dada"
+  },
+  {
+    "suppliercode": "d1d0f67d-240a-4eac-a1e6-2a7892f1fbc1"
+  },
+  {
+    "suppliercode": "d1d99054-2582-4c0e-98d1-6fae1b008dbb"
+  },
+  {
+    "suppliercode": "d29f7e22-99e5-4b18-9bde-37ce4629a26b"
+  },
+  {
+    "suppliercode": "d2a26d31-41ed-441f-bfc6-52d55113b07e"
+  },
+  {
+    "suppliercode": "d2e49cb5-6ff2-4e24-aaf9-c1b5b39400d8"
+  },
+  {
+    "suppliercode": "d365b2c0-9b88-4507-ab0d-f91c15ecfbd3"
+  },
+  {
+    "suppliercode": "d382e709-e3a7-49fd-885f-f977fa70482f"
+  },
+  {
+    "suppliercode": "d3eb11f7-d3ad-406b-bc62-46562ae4dd0d"
+  },
+  {
+    "suppliercode": "d47afa3c-6a4f-4af9-ac70-a6e360490458"
+  },
+  {
+    "suppliercode": "d4c4d582-ce58-4c64-863f-18e68c497935"
+  },
+  {
+    "suppliercode": "d4c7bcc9-81a8-431e-9e26-f9023397e5c5"
+  },
+  {
+    "suppliercode": "d521a6bb-df42-4e02-b425-d7990a1670d4"
+  },
+  {
+    "suppliercode": "d625950d-093f-452b-afb6-12d40ebea35b"
+  },
+  {
+    "suppliercode": "d67d1388-73de-4a34-bd99-5eeca6bfbd1c"
+  },
+  {
+    "suppliercode": "d737ce02-1876-483a-b647-f7906846fd90"
+  },
+  {
+    "suppliercode": "d7bf69a4-1bfa-48ca-b54b-876c62c6e012"
+  },
+  {
+    "suppliercode": "d7f4e810-cd93-4909-bf76-4bd849a8a82f"
+  },
+  {
+    "suppliercode": "d8e2e44a-ec58-44ad-9899-c9037aa72757"
+  },
+  {
+    "suppliercode": "d927b4a6-ab37-4d9c-ae69-4a8188995a98"
+  },
+  {
+    "suppliercode": "d95bd26d-0e9e-4b03-b739-1a02f08d4578"
+  },
+  {
+    "suppliercode": "da350cc4-3e2b-4d93-ab7b-d9ad128d7cec"
+  },
+  {
+    "suppliercode": "da544ef1-2c3b-4ac3-bce2-629753d95dcc"
+  },
+  {
+    "suppliercode": "dab7bc6d-a585-459b-838a-8e9b366a3642"
+  },
+  {
+    "suppliercode": "daf22bc5-da11-48ea-ae52-2056c2e74e61"
+  },
+  {
+    "suppliercode": "db9e61e5-05b7-42c9-a992-0a9785f0b5fb"
+  },
+  {
+    "suppliercode": "dba327dc-b910-4f17-90bb-3689aff38206"
+  },
+  {
+    "suppliercode": "dbd1b053-88d7-41fb-bdc9-d6a36daef00c"
+  },
+  {
+    "suppliercode": "dc420418-3b09-4c31-a7c7-1df9059d43dc"
+  },
+  {
+    "suppliercode": "dd2ca45b-da23-4fa7-a249-d1083ae70f91"
+  },
+  {
+    "suppliercode": "de8e3690-f31f-40a9-9228-e11613cc2c23"
+  },
+  {
+    "suppliercode": "df136358-ce0f-413d-8521-7e731ab4c993"
+  },
+  {
+    "suppliercode": "df705095-af96-40d9-a113-d0f83f1d58c3"
+  },
+  {
+    "suppliercode": "dfbe8e80-085b-484d-8726-73137467ff75"
+  },
+  {
+    "suppliercode": "dfd1359d-97ba-40b1-918b-74a9735f5fae"
+  },
+  {
+    "suppliercode": "dff9fa1b-14f7-4984-94e3-94825c253660"
+  },
+  {
+    "suppliercode": "e00e5d03-406b-4402-a60d-6eca2580044f"
+  },
+  {
+    "suppliercode": "e0c7a6ee-4c25-4520-a9f2-2fdef100a370"
+  },
+  {
+    "suppliercode": "e16f13b4-9dc4-4a4d-be8d-e37bd3df84ee"
+  },
+  {
+    "suppliercode": "e1898f0f-bf34-4a66-9471-36a661938408"
+  },
+  {
+    "suppliercode": "e2940f87-5ebc-4911-8738-fe882657bff6"
+  },
+  {
+    "suppliercode": "e2d87f99-4b0d-4669-b9b9-781d3c59bf73"
+  },
+  {
+    "suppliercode": "e358131f-5ab9-4569-a493-0fe8a152eb64"
+  },
+  {
+    "suppliercode": "e3bafced-c38f-4574-b1c0-8b0a8ba60700"
+  },
+  {
+    "suppliercode": "e3e0b01b-f0aa-45c9-86a8-a9be93cb77a7"
+  },
+  {
+    "suppliercode": "e4006eae-c8a4-4033-a8da-f04f5e1de52e"
+  },
+  {
+    "suppliercode": "e465d192-1c3a-4644-9432-a08d859a4a0c"
+  },
+  {
+    "suppliercode": "e4c93f61-cee8-4c3d-9f77-691650c2164e"
+  },
+  {
+    "suppliercode": "e4d86a28-8322-4168-b8af-6ddf4db4be64"
+  },
+  {
+    "suppliercode": "e50247b1-8509-4383-8541-31346debbf45"
+  },
+  {
+    "suppliercode": "e55499ae-6a7b-4ca6-b55a-9f5c5cc597ca"
+  },
+  {
+    "suppliercode": "e5d777a1-e8ad-4152-af54-c5c9e039c5cb"
+  },
+  {
+    "suppliercode": "e5ffa1a4-0dc6-4e38-a1ab-0a4aca8900b7"
+  },
+  {
+    "suppliercode": "e635b6d5-5941-46c0-aa29-9ec08057f2de"
+  },
+  {
+    "suppliercode": "e65ff194-d6d8-44cc-bbdc-70aac2b6de1b"
+  },
+  {
+    "suppliercode": "e69e60d6-dc0c-4ae5-81e2-c37643ac3f88"
+  },
+  {
+    "suppliercode": "e6ee01d5-450e-44cc-9f84-618d25e8ccae"
+  },
+  {
+    "suppliercode": "e762e3b6-b39a-4a98-a36e-e6892a666216"
+  },
+  {
+    "suppliercode": "e7980acd-cbfa-4aac-97e1-c099080a99b7"
+  },
+  {
+    "suppliercode": "e7bbc261-818d-486c-bb2c-7fd70515fdfb"
+  },
+  {
+    "suppliercode": "e81920aa-1dc0-4312-acf9-fa77c2ad4085"
+  },
+  {
+    "suppliercode": "e82144be-8c90-4a86-bb3e-c3238bb86e3f"
+  },
+  {
+    "suppliercode": "e8b1ae5a-d163-4042-b9fe-cc07ccf4e772"
+  },
+  {
+    "suppliercode": "e90a3ef7-15b8-4447-bf66-092ad399e7a3"
+  },
+  {
+    "suppliercode": "e9daf0ec-b412-463a-97d3-824d8d6476e2"
+  },
+  {
+    "suppliercode": "ea5e5f4a-a872-406e-9f99-f87ec47f49bc"
+  },
+  {
+    "suppliercode": "eb301e9e-604a-4045-bdc2-3724f9d55604"
+  },
+  {
+    "suppliercode": "eb690851-2b6b-4f37-a491-dea2a7676608"
+  },
+  {
+    "suppliercode": "ecec9d12-61a2-4a3b-9863-c1fc5ade1cb1"
+  },
+  {
+    "suppliercode": "ed92005f-6de5-4e45-a23f-9f252a07edb5"
+  },
+  {
+    "suppliercode": "ef047a08-06b7-485a-8781-a29f3177aa24"
+  },
+  {
+    "suppliercode": "efbe2c8a-f7e6-406d-a42f-3d25865476ea"
+  },
+  {
+    "suppliercode": "efc36e23-80f1-4db1-b06c-c80daf29c6aa"
+  },
+  {
+    "suppliercode": "efd79d46-f94e-440d-878e-cff75bfe47b1"
+  },
+  {
+    "suppliercode": "f04ef4d8-aef1-4609-a224-fb058589b36d"
+  },
+  {
+    "suppliercode": "f07dca78-ec27-4eaf-98c8-e9aa3f3e39e1"
+  },
+  {
+    "suppliercode": "f0c7218f-aed3-4b26-8d37-25fc48b4451f"
+  },
+  {
+    "suppliercode": "f1a55bbb-deae-4b10-a409-55ea6329dc34"
+  },
+  {
+    "suppliercode": "f1b79086-05ec-4120-bf3f-7f1ece135d6f"
+  },
+  {
+    "suppliercode": "f1e6637a-a0e5-443f-9d4d-cc1c49de1b5f"
+  },
+  {
+    "suppliercode": "f1ef63b7-f59c-4c71-a11a-1aaf8fdfa37c"
+  },
+  {
+    "suppliercode": "f30aa52f-2dfa-4795-88bd-b950735e75c4"
+  },
+  {
+    "suppliercode": "f3bac916-cfbb-45eb-9dcc-f6ae378a72be"
+  },
+  {
+    "suppliercode": "f4053871-57e5-4c7d-b552-637a1fc25cf7"
+  },
+  {
+    "suppliercode": "f499ad38-22ef-4085-a344-50dceb1dfad5"
+  },
+  {
+    "suppliercode": "f5acd3ef-7617-4647-aa2f-74cb23f3f06c"
+  },
+  {
+    "suppliercode": "f5f16f46-5ef2-41f5-8d39-278491fc930f"
+  },
+  {
+    "suppliercode": "f7127a38-1567-45f1-9e91-d3603b1a77a2"
+  },
+  {
+    "suppliercode": "f73e0a58-8430-4269-83b6-02ac66685271"
+  },
+  {
+    "suppliercode": "f7533b8f-1460-49a6-b63c-75f15f4fb892"
+  },
+  {
+    "suppliercode": "f7ecf32a-f55a-4b7c-a478-b436e4709292"
+  },
+  {
+    "suppliercode": "f8325c51-3b9f-4a52-92d8-997b0e38888b"
+  },
+  {
+    "suppliercode": "f85aa669-1bc8-49f8-9595-9dcbe5c7522c"
+  },
+  {
+    "suppliercode": "f85c4e96-6da5-40b1-99f1-9847db23f5d3"
+  },
+  {
+    "suppliercode": "f870ca8c-9740-44cc-bf9f-758cef55abe5"
+  },
+  {
+    "suppliercode": "f8ccf29e-d0a8-442d-8053-215c8ba620d2"
+  },
+  {
+    "suppliercode": "f983f95d-b6fe-47d2-9411-45166b096b4b"
+  },
+  {
+    "suppliercode": "f993962f-35b5-4332-8c27-e98319cd3201"
+  },
+  {
+    "suppliercode": "f99479f6-8790-4b5c-ab19-1d1aa816c94b"
+  },
+  {
+    "suppliercode": "fa03425b-7519-450d-b759-586b01f79268"
+  },
+  {
+    "suppliercode": "fa165b33-46d0-478e-ab5f-ae9c40d22d9f"
+  },
+  {
+    "suppliercode": "fa3fa2b5-4fbd-4ff6-bcd1-a031c9ecf2c8"
+  },
+  {
+    "suppliercode": "fb56059e-3687-42cf-bb2e-8c47b55ba5d5"
+  },
+  {
+    "suppliercode": "fb7779b0-33d9-4013-9636-309fa4a4efe9"
+  },
+  {
+    "suppliercode": "fc01e8d0-efec-42c3-b5a7-ed851bddb8f8"
+  },
+  {
+    "suppliercode": "fc035d91-206a-4ccc-88f2-73afcb10046e"
+  },
+  {
+    "suppliercode": "fc396a60-61aa-4930-a9e9-94d777d8c268"
+  },
+  {
+    "suppliercode": "fca7d2bb-b108-4d0d-8f26-8c5df8b759bd"
+  },
+  {
+    "suppliercode": "fcd29af1-f589-4c84-ae3b-2ff9825af0af"
+  },
+  {
+    "suppliercode": "fd4c88ff-ea2d-41f7-8a06-8364249f4ee7"
+  },
+  {
+    "suppliercode": "fdb854bb-fdec-4efc-802c-95f8d23ffe71"
+  },
+  {
+    "suppliercode": "fe769441-75ac-4967-b622-4fdafbb4c02d"
+  },
+  {
+    "suppliercode": "fe7b0656-d629-4bac-90f4-9846073ee261"
+  },
+  {
+    "suppliercode": "fe8adaa1-bb46-4498-af25-348fa525cdc8"
+  },
+  {
+    "suppliercode": "fe8b65e8-85d5-4432-a46f-dcec72f2c5cf"
+  },
+  {
+    "suppliercode": "feb14bf4-c1cf-4bcb-af3c-facab544dbf4"
+  },
+  {
+    "suppliercode": "feb96e1b-19d1-4d82-96c6-3f8826e5605e"
+  },
+  {
+    "suppliercode": "fec13a51-fca0-4e22-a780-5fb0b415d91a"
+  }
 ]
