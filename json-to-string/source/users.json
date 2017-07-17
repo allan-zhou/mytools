@@ -1,9 +1,1115 @@
 [{
-    "name": "周佳良",
-    "email": "zhoujl@sinooceanland.com"
-  },
-  {
-    "name": "韩东辉",
-    "email": "handh@sinooceanland.com"
-  }
-]
+  "name": "李明",
+  "email": "liming@sinooceangroup.com",
+  "phone": "",
+  "seat": "1排中  5座",
+  "city": ""
+}, {
+  "name": "李虎",
+  "email": "lihu@sinooceangroup.com",
+  "phone": "+8618910298850",
+  "seat": "1排中  4座",
+  "city": ""
+}, {
+  "name": "温海成",
+  "email": "wenhaicheng@sinooceangroup.com",
+  "phone": "+8613911169525",
+  "seat": "1排中  6座",
+  "city": ""
+}, {
+  "name": "谌祖元",
+  "email": "shenzuyuan@sinooceangroup.com",
+  "phone": "+8613901327575",
+  "seat": "1排中  3座",
+  "city": ""
+}, {
+  "name": "Adrian Sum",
+  "email": "shenpy@sinooceangroup.com",
+  "phone": "+85251057799",
+  "seat": "1排中  7座"
+}, {
+  "name": "胡波",
+  "email": "hubo@sinooceanland.com",
+  "phone": "+8613601129927",
+  "seat": "1排中  2座",
+  "city": ""
+}, {
+  "name": "崔洪杰",
+  "email": "cuihj@sinooceangroup.com",
+  "phone": "+8613801378275",
+  "seat": "1排中  8座",
+  "city": ""
+}, {
+  "name": "李洪波",
+  "email": "lihb@sinooceangroup.com",
+  "phone": "+8613501377005",
+  "seat": "1排中  1座",
+  "city": ""
+}, {
+  "name": "李建波",
+  "email": "lijb@sinooceangroup.com",
+  "phone": "+8618611351889",
+  "seat": "1排右  2座",
+  "city": ""
+}, {
+  "name": "王福顺",
+  "email": "wangfsh@sinooceangroup.com",
+  "phone": "+8618600027900",
+  "seat": "1排右  1座",
+  "city": ""
+}, {
+  "name": "徐立",
+  "email": "xuli@sinooceangroup.com",
+  "phone": "",
+  "seat": "1排右  3座",
+  "city": ""
+}, {
+  "name": "陈润福",
+  "email": "chenrf@sinooceangroup.com",
+  "phone": "+8618612691122",
+  "seat": "1排右  4座",
+  "city": ""
+}, {
+  "name": "陈伟",
+  "email": "chenwei@sinooceangroup.com",
+  "phone": "+8613811740559",
+  "seat": "1排左  5座",
+  "city": ""
+}, {
+  "name": "王洪辉",
+  "email": "wanghh@sinooceangroup.com",
+  "phone": "+8613911102683",
+  "seat": "1排左  3座",
+  "city": ""
+}, {
+  "name": "杨德勇",
+  "email": "yangdy@sinooceangroup.com",
+  "phone": "+8613810713069",
+  "seat": "1排左  4座",
+  "city": ""
+}, {
+  "name": "丁晖",
+  "email": "dinghui@sinooceangroup.com",
+  "phone": "+8618618307476",
+  "seat": "1排左  6座",
+  "city": ""
+}, {
+  "name": "朱晓星",
+  "email": "zhuxx@sinooceangroup.com",
+  "phone": "+8613466571149",
+  "seat": "2排中  5座",
+  "city": ""
+}, {
+  "name": "顾捷",
+  "email": "gujie@sinooceangroup.com",
+  "phone": "+8613601034162",
+  "seat": "8排右  1座",
+  "city": ""
+}, {
+  "name": "胡英勇",
+  "email": "huyingy@sinooceangroup.com",
+  "phone": "+8618811086566",
+  "seat": "1排左  2座",
+  "city": ""
+}, {
+  "name": "郑存怀",
+  "email": "zhengch@sinooceangroup.com",
+  "phone": "+8613750823015",
+  "seat": "8排中  3座",
+  "city": ""
+}, {
+  "name": "李丹阳",
+  "email": "lidanyang@sinooceangroup.com",
+  "phone": "+8613501397153",
+  "seat": "8排左  1座",
+  "city": ""
+}, {
+  "name": "王红军",
+  "email": "wanghongjun@sinooceangroup.com",
+  "phone": "+8613811661088",
+  "seat": "8排左  4座",
+  "city": ""
+}, {
+  "name": "陈宇飞",
+  "email": "chenyuf@sinooceangroup.com",
+  "phone": "+8613810000149",
+  "seat": "8排左  5座",
+  "city": ""
+}, {
+  "name": "赵一争",
+  "email": "zhaoyizh@sinooceangroup.com",
+  "phone": "+8615911114178",
+  "seat": "8排左  6座",
+  "city": ""
+}, {
+  "name": "俞国泰",
+  "email": "yugt@sinooceangroup.com",
+  "phone": "+8613911908630",
+  "seat": "8排右  2座",
+  "city": ""
+}, {
+  "name": "张书峰",
+  "email": "zhangshuf@sinooceangroup.com",
+  "phone": "+8613581886650",
+  "seat": "9排右  3座",
+  "city": ""
+}, {
+  "name": "张晶华",
+  "email": "zhangjingh@sinooceangroup.com",
+  "phone": "+8613301057579",
+  "seat": "9排右  1座",
+  "city": ""
+}, {
+  "name": "王玫（总裁管理中心）",
+  "email": "wangmei3@sinooceangroup.com",
+  "phone": "+8613810864500",
+  "seat": "9排右  2座",
+  "city": ""
+}, {
+  "name": "赵嵬",
+  "email": "zhaowei9@sinooceangroup.com",
+  "phone": "+8613810919636",
+  "seat": "2排中  9座",
+  "city": ""
+}, {
+  "name": "陈世杰",
+  "email": "chenshij@sinooceangroup.com",
+  "phone": "+8613811017005",
+  "seat": "9排左  4座",
+  "city": ""
+}, {
+  "name": "邓岩",
+  "email": "dengyan@sinooceangroup.com",
+  "phone": "+8613601216807",
+  "seat": "9排中  2座",
+  "city": ""
+}, {
+  "name": "吕昕",
+  "email": "lvxin@sinooceangroup.com",
+  "phone": "+8613910003611",
+  "seat": "9排中  1座",
+  "city": ""
+}, {
+  "name": "王兴涛",
+  "email": "wangxingt@sinooceangroup.com",
+  "phone": "+8613718268809",
+  "seat": "9排左  6座",
+  "city": ""
+}, {
+  "name": "钳磊",
+  "email": "qianlei@sinooceangroup.com",
+  "phone": "+8613301046186",
+  "seat": "9排左  5座",
+  "city": ""
+}, {
+  "name": "姜南(财务管理中心)",
+  "email": "jiangnan@sinooceangroup.com",
+  "phone": "+8613501176466",
+  "seat": "8排中  6座",
+  "city": ""
+}, {
+  "name": "朱葛颖",
+  "email": "zhugy@sinooceangroup.com",
+  "phone": "+8613611166666",
+  "seat": "8排中  8座",
+  "city": ""
+}, {
+  "name": "沈立杰",
+  "email": "shenlj@sinooceangroup.com",
+  "phone": "+8613911321586",
+  "seat": "8排中  7座",
+  "city": ""
+}, {
+  "name": "任伟",
+  "email": "renwei@sinooceangroup.com",
+  "phone": "+8613810249726",
+  "seat": "4排中  3座",
+  "city": ""
+}, {
+  "name": "樊海云",
+  "email": "fanhy@sinooceangroup.com",
+  "phone": "+8618301181686",
+  "seat": "2排中  7座",
+  "city": ""
+}, {
+  "name": "刘静(战略流程中心)",
+  "email": "liujing11@sinooceangroup.com",
+  "phone": "+8613810756608",
+  "seat": "9排中  8座",
+  "city": ""
+}, {
+  "name": "李燕翔",
+  "email": "liyanxiang@sinooceangroup.com",
+  "phone": "+8613601298305",
+  "seat": "9排右  9座",
+  "city": ""
+}, {
+  "name": "高洁（人力资源中心）",
+  "email": "gaojie@sinooceangroup.com",
+  "phone": "+8618600229935",
+  "seat": "2排中  8座",
+  "city": ""
+}, {
+  "name": "黄楠（人力资源中心）",
+  "email": "huangnan1@sinooceangroup.com",
+  "phone": "+8615810866627",
+  "seat": "9排中  3座",
+  "city": ""
+}, {
+  "name": "李博为",
+  "email": "libw@sinooceangroup.com",
+  "phone": "+8613601131305",
+  "seat": "9排中  4座",
+  "city": ""
+}, {
+  "name": "刘英雯",
+  "email": "liuyw@sinooceangroup.com",
+  "phone": "+8613911323045",
+  "seat": "9排中  5座",
+  "city": ""
+}, {
+  "name": "王军(经营管理中心）",
+  "email": "wangjun@sinooceangroup.com",
+  "phone": "+8618601283377",
+  "seat": "2排中  6座",
+  "city": ""
+}, {
+  "name": "段涛",
+  "email": "duantao@sinooceangroup.com",
+  "phone": "+8613801302419",
+  "seat": "7排左  5座",
+  "city": ""
+}, {
+  "name": "王彩星",
+  "email": "wangcx@sinooceangroup.com",
+  "phone": "+8618518383050",
+  "seat": "7排左  6座",
+  "city": ""
+}, {
+  "name": "钟启昌",
+  "email": "paulchung@sinooceangroup.com",
+  "phone": "+85262811920",
+  "seat": "2排右  4座",
+  "city": ""
+}, {
+  "name": "庄炜檑",
+  "email": "wilsonchong@sinooceangroup.com",
+  "phone": "+85291313290",
+  "seat": "2排右  6座",
+  "city": ""
+}, {
+  "name": "杨乐宇",
+  "email": "emilyyu@sinooceangroup.com",
+  "phone": "+85295128499",
+  "seat": "2排右  3座",
+  "city": ""
+}, {
+  "name": "庄江波",
+  "email": "zhuangjb@sinooceangroup.com",
+  "phone": "+8618501369895",
+  "seat": "3排中  9座",
+  "city": ""
+}, {
+  "name": "陈干辉",
+  "email": "chengh@sinooceangroup.com",
+  "phone": "+8613910697577",
+  "seat": "3排右  1座",
+  "city": ""
+}, {
+  "name": "高山",
+  "email": "gaoshan1@sinooceangroup.com",
+  "phone": "+8618722527777",
+  "seat": "3排右  2座",
+  "city": ""
+}, {
+  "name": "郭建涛",
+  "email": "guojt@sinooceangroup.com",
+  "phone": "+8618722533377",
+  "seat": "7排中  9座",
+  "city": ""
+}, {
+  "name": "罗明强",
+  "email": "luomq@sinooceangroup.com",
+  "phone": "+8613701123876",
+  "seat": "4排中  9座",
+  "city": ""
+}, {
+  "name": "张晓岩",
+  "email": "zhangxiaoyan@sinooceangroup.com",
+  "phone": "+8613661091233",
+  "seat": "4排右  1座",
+  "city": ""
+}, {
+  "name": "张颂",
+  "email": "zhangsong@sinooceangroup.com",
+  "phone": "+8613801064979",
+  "seat": "4排右  2座",
+  "city": ""
+}, {
+  "name": "郭建民",
+  "email": "guojm@sinooceangroup.com",
+  "phone": "+8615201594126",
+  "seat": "8排中  9座",
+  "city": ""
+}, {
+  "name": "万凌",
+  "email": "wanling@sinooceangroup.com",
+  "phone": "+8613901362351",
+  "seat": "5排中  9座",
+  "city": ""
+}, {
+  "name": "赵光耀",
+  "email": "zhaoguangy@sinooceangroup.com",
+  "phone": "+8613901360676",
+  "seat": "5排右  1座",
+  "city": ""
+}, {
+  "name": "田成功",
+  "email": "tianchg@sinooceangroup.com",
+  "phone": "+8618610290821",
+  "seat": "5排右  2座",
+  "city": ""
+}, {
+  "name": "路平",
+  "email": "luping@sinooceangroup.com",
+  "phone": "+8613910816146",
+  "seat": "6排右  2座",
+  "city": ""
+}, {
+  "name": "安莉",
+  "email": "anli@sinooceangroup.com",
+  "phone": "+8618610928171",
+  "seat": "6排中  9座",
+  "city": ""
+}, {
+  "name": "赵罡",
+  "email": "zhaogang3@sinooceangroup.com",
+  "phone": "+8613910937169",
+  "seat": "6排右  1座",
+  "city": ""
+}, {
+  "name": "史志勇",
+  "email": "shizhy@sinooceangroup.com",
+  "phone": "+8613601203418",
+  "seat": "2排中  1座",
+  "city": ""
+}, {
+  "name": "谢英亮",
+  "email": "xieyl@sinooceangroup.com",
+  "phone": "+8615824463918",
+  "seat": "3排中  1座",
+  "city": ""
+}, {
+  "name": "刘恩伟",
+  "email": "liuenw@sinooceangroup.com",
+  "phone": "+8618600689119",
+  "seat": "3排右  3座",
+  "city": ""
+}, {
+  "name": "吕国亮",
+  "email": "lvgl@sinooceangroup.com",
+  "phone": "+8613332211589",
+  "seat": "3排左  6座",
+  "city": ""
+}, {
+  "name": "张兴科",
+  "email": "zhangxingk@sinooceangroup.com",
+  "phone": "+8613940256578",
+  "seat": "3排左  4座",
+  "city": ""
+}, {
+  "name": "李云鹏（沈阳分中心）",
+  "email": "liyunpeng@sinooceangroup.com",
+  "phone": "+8613998897077",
+  "seat": "4排中  1座",
+  "city": ""
+}, {
+  "name": "陈晔",
+  "email": "chenye@sinooceangroup.com",
+  "phone": "+8618642827071",
+  "seat": "4排左  6座",
+  "city": ""
+}, {
+  "name": "张昊(合肥分中心投资管理模块)",
+  "email": "zhanghao7@sinooceangroup.com",
+  "phone": "+8613222783839",
+  "seat": "4排左  5座",
+  "city": ""
+}, {
+  "name": "乔文伟",
+  "email": "qiaoww@sinooceangroup.com",
+  "phone": "+8613906421222",
+  "seat": "4排左  4座",
+  "city": ""
+}, {
+  "name": "赵金河",
+  "email": "zhaojinhe@sinooceangroup.com",
+  "phone": "+8615515553114",
+  "seat": "5排中  1座",
+  "city": ""
+}, {
+  "name": "马旭1",
+  "email": "maxu1@sinooceangroup.com",
+  "phone": "+8613940955310",
+  "seat": "3排左  5座",
+  "city": ""
+}, {
+  "name": "高笑语",
+  "email": "gaoxiaoyu@sinooceangroup.com",
+  "phone": "+8618640809853",
+  "seat": "5排左  5座",
+  "city": ""
+}, {
+  "name": "陶建国",
+  "email": "taojg@sinooceangroup.com",
+  "phone": "+8613615594434",
+  "seat": "5排左  4座",
+  "city": ""
+}, {
+  "name": "叶军",
+  "email": "yejun@sinooceangroup.com",
+  "phone": "+8615805594291",
+  "seat": "6排中  1座",
+  "city": ""
+}, {
+  "name": "严亚贤",
+  "email": "yanyx@sinooceangroup.com",
+  "phone": "+8618055914345",
+  "seat": "5排左  6座",
+  "city": ""
+}, {
+  "name": "王艳萍",
+  "email": "wangyanp@sinooceangroup.com",
+  "phone": "+8613940874138",
+  "seat": "6排左  5座",
+  "city": ""
+}, {
+  "name": "于婷婷",
+  "email": "yutt@sinooceangroup.com",
+  "phone": "+8618641168101",
+  "seat": "6排左  4座",
+  "city": ""
+}, {
+  "name": "贾鹏翔",
+  "email": "jiapx@sinooceangroup.com",
+  "phone": "+8613801775886",
+  "seat": "2排中  2座",
+  "city": ""
+}, {
+  "name": "厉嘉锋",
+  "email": "lijf@sinooceangroup.com",
+  "phone": "+8613606508068",
+  "seat": "3排中  2座",
+  "city": ""
+}, {
+  "name": "温恩奇",
+  "email": "weneq@sinooceangroup.com",
+  "phone": "+8613901604488",
+  "seat": "3排中  3座",
+  "city": ""
+}, {
+  "name": "娄文华",
+  "email": "louwh@sinooceangroup.com",
+  "phone": "+8613601027781",
+  "seat": "3排中  4座",
+  "city": ""
+}, {
+  "name": "周群贤",
+  "email": "zhouqx@sinooceangroup.com",
+  "phone": "+8613003199199",
+  "seat": "4排中  2座",
+  "city": ""
+}, {
+  "name": "万乐",
+  "email": "wanle@sinooceangroup.com",
+  "phone": "+8613911012356",
+  "seat": "8排中  5座",
+  "city": ""
+}, {
+  "name": "韩维清",
+  "email": "hanwq@sinooceangroup.com",
+  "phone": "+8613911770792",
+  "seat": "4排中  4座",
+  "city": ""
+}, {
+  "name": "郑鹏杙",
+  "email": "zhengpy@sinooceangroup.com",
+  "phone": "+8618958076158",
+  "seat": "5排中  2座",
+  "city": ""
+}, {
+  "name": "李成虎",
+  "email": "lichengh@sinooceangroup.com",
+  "phone": "+8613506138655",
+  "seat": "7排中  1座",
+  "city": ""
+}, {
+  "name": "徐瑞文",
+  "email": "xuruiw@sinooceangroup.com",
+  "phone": "+8613879109788",
+  "seat": "7排中  3座",
+  "city": ""
+}, {
+  "name": "陈兵",
+  "email": "chenbing@sinooceangroup.com",
+  "phone": "+8613855916238",
+  "seat": "7排中  2座",
+  "city": ""
+}, {
+  "name": "蔚立锋",
+  "email": "yulf@sinooceangroup.com",
+  "phone": "+8613817735468",
+  "seat": "5排中  3座",
+  "city": ""
+}, {
+  "name": "孔华强",
+  "email": "konghq@sinooceangroup.com",
+  "phone": "+8613807196568",
+  "seat": "8排中  2座",
+  "city": ""
+}, {
+  "name": "李林达",
+  "email": "lild@sinooceangroup.com",
+  "phone": "+8613811001281",
+  "seat": "8排中  1座",
+  "city": ""
+}, {
+  "name": "吴健",
+  "email": "wujian5@sinooceangroup.com",
+  "phone": "+8613671769208",
+  "seat": "6排中  3座",
+  "city": ""
+}, {
+  "name": "沈阳（三部宁波分中心）",
+  "email": "shenyang6@sinooceangroup.com",
+  "phone": "+8618918896661",
+  "seat": "7排中  4座",
+  "city": ""
+}, {
+  "name": "金苹",
+  "email": "jinping@sinooceangroup.com",
+  "phone": "+8613968124549",
+  "seat": "8排中  4座",
+  "city": ""
+}, {
+  "name": "付开",
+  "email": "fukai@sinooceangroup.com",
+  "phone": "+8613958040907",
+  "seat": "8排右  5座",
+  "city": ""
+}, {
+  "name": "陈宁",
+  "email": "chenning@sinooceangroup.com",
+  "phone": "+8613910008986",
+  "seat": "6排中  2座",
+  "city": ""
+}, {
+  "name": "赵建军",
+  "email": "zhaojianjun@sinooceangroup.com",
+  "phone": "+8613590882929",
+  "seat": "2排中  3座",
+  "city": ""
+}, {
+  "name": "周司泰",
+  "email": "zhoust@sinooceangroup.com",
+  "phone": "+8613928152830",
+  "seat": "3排中  6座",
+  "city": ""
+}, {
+  "name": "刘代伏",
+  "email": "liudf@sinooceangroup.com",
+  "phone": "+8615813736688",
+  "seat": "3排中  7座",
+  "city": ""
+}, {
+  "name": "郑黎明",
+  "email": "zhenglm@sinooceangroup.com",
+  "phone": "+8615099939776",
+  "seat": "3排中  8座",
+  "city": ""
+}, {
+  "name": "袁志宏",
+  "email": "yuanzhh@sinooceangroup.com",
+  "phone": "+8613928158186",
+  "seat": "8排右  4座",
+  "city": ""
+}, {
+  "name": "张舰",
+  "email": "zhangjian7@sinooceangroup.com",
+  "phone": "+8613825222166",
+  "seat": "3排中  5座",
+  "city": ""
+}, {
+  "name": "黄华洪",
+  "email": "huanghh@sinooceangroup.com",
+  "phone": "+8613420481580 ",
+  "seat": "4排中  7座",
+  "city": ""
+}, {
+  "name": "骆文斌",
+  "email": "luowb@sinooceangroup.com",
+  "phone": "+8618996363006",
+  "seat": "5排中  8座",
+  "city": ""
+}, {
+  "name": "郭雷",
+  "email": "guolei@sinooceangroup.com",
+  "phone": "+8613602624707",
+  "seat": "5排中  7座",
+  "city": ""
+}, {
+  "name": "侯敏",
+  "email": "houmin@sinooceangroup.com",
+  "phone": "+8615091909516",
+  "seat": "6排中  7座",
+  "city": ""
+}, {
+  "name": "陈志刚",
+  "email": "chenzhg@sinooceangroup.com",
+  "phone": "+8613925370310",
+  "seat": "6排中  8座",
+  "city": ""
+}, {
+  "name": "陈荣华",
+  "email": "chenrh@sinooceangroup.com",
+  "phone": "+8613510239796",
+  "seat": "4排中  6座",
+  "city": ""
+}, {
+  "name": "赵松",
+  "email": "zhaosong@sinooceangroup.com",
+  "phone": "+8613424596606",
+  "seat": "4排中  5座",
+  "city": ""
+}, {
+  "name": "陈爱国",
+  "email": "chenaig@sinooceangroup.com",
+  "phone": "+8618675587612",
+  "seat": "7排中  7座",
+  "city": ""
+}, {
+  "name": "胡恒",
+  "email": "huheng@sinooceangroup.com",
+  "phone": "+8613923070665",
+  "seat": "4排中  8座",
+  "city": ""
+}, {
+  "name": "黄川",
+  "email": "huangchuan@sinooceangroup.com",
+  "phone": "+8618688951066",
+  "seat": "7排中  8座",
+  "city": ""
+}, {
+  "name": "周传忠",
+  "email": "zhouchzh@sinooceangroup.com",
+  "phone": "+8613311568989",
+  "seat": "3排左  3座",
+  "city": ""
+}, {
+  "name": "赵文武",
+  "email": "zhaoww@sinooceangroup.com",
+  "phone": "+8618867118087",
+  "seat": "4排左  3座",
+  "city": ""
+}, {
+  "name": "雷玉红",
+  "email": "leiyh@sinooceangroup.com",
+  "phone": "+8613701104710\t",
+  "seat": "5排左  3座",
+  "city": ""
+}, {
+  "name": "陈宏涛",
+  "email": "chenht@sinooceangroup.com",
+  "phone": "+8613501172173",
+  "seat": "6排左  3座",
+  "city": ""
+}, {
+  "name": "孔繁琢",
+  "email": "kongfzh@sinooceangroup.com",
+  "phone": "+8613901077515",
+  "seat": "7排左  3座",
+  "city": ""
+}, {
+  "name": "娄浩源",
+  "email": "louhy@sinooceangroup.com",
+  "phone": "+8613911937643",
+  "seat": "7排左  4座 ",
+  "city": ""
+}, {
+  "name": "卓海斌",
+  "email": "zhuohb@sinooceangroup.com",
+  "phone": "+8618661822627",
+  "seat": "8排左  3座",
+  "city": ""
+}, {
+  "name": "王默",
+  "email": "wangm@sinooceangroup.com",
+  "phone": "+8613811879742",
+  "seat": "8排左  2座",
+  "city": ""
+}, {
+  "name": "王树云",
+  "email": "wangshy@sinooceangroup.com",
+  "phone": "+8618822510006",
+  "seat": "3排右  5座 ",
+  "city": ""
+}, {
+  "name": "罗剑",
+  "email": "luojian@sinooceangroup.com",
+  "phone": "+8613801010578",
+  "seat": "3排右  4座",
+  "city": ""
+}, {
+  "name": "戈宁轩",
+  "email": "genx@sinooceangroup.com",
+  "phone": "+8613910678459",
+  "seat": "4排右  4座",
+  "city": ""
+}, {
+  "name": "江颖",
+  "email": "jiangying@sinooceangroup.com",
+  "phone": "+8618600051722",
+  "seat": "4排右  3座",
+  "city": ""
+}, {
+  "name": "蒋雪",
+  "email": "jiangxue3@sinooceangroup.com",
+  "phone": "+8618600230303",
+  "seat": "5排右  4座",
+  "city": ""
+}, {
+  "name": "单思君",
+  "email": "shansj@sinooceangroup.com",
+  "phone": "+8618611869186",
+  "seat": "5排右  3座",
+  "city": ""
+}, {
+  "name": "崔建",
+  "email": "cuijian1@sinooceangroup.com",
+  "phone": "+8613901291002",
+  "seat": "6排右  4座",
+  "city": ""
+}, {
+  "name": "赵伟",
+  "email": "zhaowei@sinooceangroup.com",
+  "phone": "+8613911173619",
+  "seat": "3排右  6座",
+  "city": ""
+}, {
+  "name": "章鑫",
+  "email": "zhangxin1@sinooceangroup.com",
+  "phone": "+8613488782607",
+  "seat": "4排右  6座",
+  "city": ""
+}, {
+  "name": "田景峰",
+  "email": "tianjf@sinooceangroup.com",
+  "phone": "+8613940962608",
+  "seat": "4排右  5座",
+  "city": ""
+}, {
+  "name": "陈奕奇",
+  "email": "chenyq@sinooceangroup.com",
+  "phone": "+8613370179121",
+  "seat": "5排右  6座",
+  "city": ""
+}, {
+  "name": "谢宁",
+  "email": "xiening@sinooceangroup.com",
+  "phone": "+8618602669956",
+  "seat": "5排右  5座",
+  "city": ""
+}, {
+  "name": "王宏斌",
+  "email": "wanghb@sinooceangroup.com",
+  "phone": "+8613910732339",
+  "seat": "6排右  6座",
+  "city": ""
+}, {
+  "name": "窦志",
+  "email": "douzhi@sinooceangroup.com",
+  "phone": "+8613901334293",
+  "seat": "6排右  5座",
+  "city": ""
+}, {
+  "name": "王强",
+  "email": "wangqiang7@sinooceangroup.com",
+  "phone": "+8613840451300",
+  "seat": "7排右  6座 ",
+  "city": ""
+}, {
+  "name": "何畏",
+  "email": "hewei1@sinooceangroup.com",
+  "phone": "+8613901201682",
+  "seat": "7排右  5座 ",
+  "city": ""
+}, {
+  "name": "李向儒",
+  "email": "lixr@sinooceangroup.com",
+  "phone": "+8618622331061",
+  "seat": "8排右  6座   ",
+  "city": ""
+}, {
+  "name": "高强",
+  "email": "gaoqiang@sinooceangroup.com",
+  "phone": "+8613810932339",
+  "seat": "7排右  3座",
+  "city": ""
+}, {
+  "name": "白涛",
+  "email": "baitao@sinooceangroup.com",
+  "phone": "+8618610007018",
+  "seat": "9排右  4座",
+  "city": ""
+}, {
+  "name": "万玉岩",
+  "email": "wanyy@sinooceangroup.com",
+  "phone": "+8613911607908",
+  "seat": "9排右  6座",
+  "city": ""
+}, {
+  "name": "马敏",
+  "email": "mamin@sinooceangroup.com",
+  "phone": "+8613501205890",
+  "seat": "7排右  2座 ",
+  "city": ""
+}, {
+  "name": "边昕宇",
+  "email": "bianxy@sinooceangroup.com",
+  "phone": "+8613501170858",
+  "seat": "7排右  1座",
+  "city": ""
+}, {
+  "name": "冯燕",
+  "email": "fengyan@sinooceangroup.com",
+  "phone": "+8618622331297",
+  "seat": "8排右  3座",
+  "city": ""
+}, {
+  "name": "马天一",
+  "email": "maty@sinooceangroup.com",
+  "phone": "+8613910664896",
+  "seat": "2排中  4座",
+  "city": ""
+}, {
+  "name": "纪冬",
+  "email": "jidong@sinooceangroup.com",
+  "phone": "+8613910035323",
+  "seat": "3排左  2座",
+  "city": ""
+}, {
+  "name": "刘宇红",
+  "email": "liuyh@sinooceangroup.com",
+  "phone": "+8613901178035",
+  "seat": "3排左  1座",
+  "city": ""
+}, {
+  "name": "陈凯峰",
+  "email": "chenkf@sinooceangroup.com",
+  "phone": "+8618600032299",
+  "seat": "4排左  1座",
+  "city": ""
+}, {
+  "name": "刘宫",
+  "email": "liugong@sinooceangroup.com",
+  "phone": "+8613911118072",
+  "seat": "4排左  2座",
+  "city": ""
+}, {
+  "name": "张涛（写字楼事业部高管）",
+  "email": "zhangtao8@sinooceangroup.com",
+  "phone": "+8613564803965",
+  "seat": "5排左  1座",
+  "city": ""
+}, {
+  "name": "黄志达",
+  "email": "huangzhd@sinooceangroup.com",
+  "phone": "+8618910568173",
+  "seat": "5排左  2座",
+  "city": ""
+}, {
+  "name": "胡浩（写字楼产品营造中心）",
+  "email": "huhao1@sinooceangroup.com",
+  "phone": "+8613910660971",
+  "seat": "6排左  1座 ",
+  "city": ""
+}, {
+  "name": "黄裕桥",
+  "email": "huangyq@sinooceangroup.com",
+  "phone": "+8613801305282",
+  "seat": "6排左  2座",
+  "city": ""
+}, {
+  "name": "高根",
+  "email": "gaogen@sinooceangroup.com",
+  "phone": "+8613810904022",
+  "seat": "7排左  1座",
+  "city": ""
+}, {
+  "name": "彭辉(写字楼战略计划模块)",
+  "email": "penghui1@sinooceangroup.com",
+  "phone": "+8613701175665",
+  "seat": "7排左  2座",
+  "city": ""
+}, {
+  "name": "张星宇",
+  "email": "zhangxy@sinooceangroup.com",
+  "phone": "+8613910657829",
+  "seat": "5排中  5座",
+  "city": ""
+}, {
+  "name": "林川",
+  "email": "linchuan@sinooceangroup.com",
+  "phone": "+8615101680420",
+  "seat": "5排中  4座",
+  "city": ""
+}, {
+  "name": "房炜",
+  "email": "fangwei3@sinooceangroup.com",
+  "phone": "+8613910016588",
+  "seat": "5排中  6座",
+  "city": ""
+}, {
+  "name": "周岳",
+  "email": "zhouyue1@sinooceangroup.com",
+  "phone": "+8613910017769",
+  "seat": "6排中  5座",
+  "city": ""
+}, {
+  "name": "辛长征",
+  "email": "xinchzh@sinooceangroup.com",
+  "phone": "+8618515060832",
+  "seat": "6排中  4座",
+  "city": ""
+}, {
+  "name": "郑凡明",
+  "email": "zhengfm@sinooceangroup.com",
+  "phone": "+8613810702975",
+  "seat": "6排中  6座 ",
+  "city": ""
+}, {
+  "name": "陈阳",
+  "email": "chenyang3@sinooceangroup.com",
+  "phone": "+8618901065695 ",
+  "seat": "7排中  5座 ",
+  "city": ""
+}, {
+  "name": "崔月明",
+  "email": "cuiym@sinooceangroup.com",
+  "phone": "+8613701172578",
+  "seat": "2排右  1座",
+  "city": ""
+}, {
+  "name": "梁萌",
+  "email": "liangmeng@sinooceangroup.com",
+  "phone": "+8613911402346",
+  "seat": "6排左  6座",
+  "city": ""
+}, {
+  "name": "单昶",
+  "email": "shanchang@sinooceangroup.com",
+  "seat": "2排左  5座"
+}, {
+  "name": "金屹",
+  "email": "jinyi@sinooceangroup.com",
+  "seat": "9排右  5座"
+}, {
+  "name": "李华",
+  "email": "lihua@sinooceangroup.com",
+  "seat": "9排中  6座"
+}, {
+  "name": "李耀刚",
+  "email": "liyaog@sinooceangroup.com",
+  "seat": "2排左  6座"
+}, {
+  "name": "钱昊旻",
+  "seat": "7排中 6座"
+}, {
+  "name": "苏小虎",
+  "email": "suxh@sinooceangroup.com",
+  "seat": "7排右  4座"
+}, {
+  "name": "余凯恩",
+  "email": "emilyyu@sinooceangroup.com",
+  "seat": "2排右  5座"
+}, {
+  "name": "张玮",
+  "seat": "6排右  3座"
+}, {
+  "name": "张媛媛",
+  "email": "zhangyy1@sinooceangroup.com",
+  "seat": "9排中  7座"
+}, {
+  "name": "朱雪松",
+  "email": "zhuxs@sinooceangroup.com",
+  "seat": "2排右  2座"
+}, {
+  "name": "韩东辉",
+  "email": "handh@sinooceangroup.com",
+  "phone": "+8618515550517"
+}, {
+  "name": "赵铁铮",
+  "email": "v-zhaotzh@sinooceangroup.com",
+  "phone": "+8613269678086",
+  "city": ""
+}, {
+  "name": "周佳良",
+  "email": "zhoujl@sinooceangroup.com",
+  "phone": "+8613716440076",
+  "seat": "",
+  "city": ""
+}, {
+  "name": "路晓红",
+  "email": "luxh@sinooceangroup.com"
+}, {
+  "name": "高媛",
+  "email": "gaoyuan1@sinooceangroup.com"
+}, {
+  "name": "白金德成",
+  "email": "baijdch@sinooceangroup.com"
+}, {
+  "name": "李丞",
+  "email": "licheng3@sinooceangroup.com"
+}, {
+  "name": "杨小龙",
+  "email": "yangxiaolong@sinooceangroup.com"
+}, {
+  "name": "温翔宇",
+  "email": "wenxy@sinooceangroup.com"
+}, {
+  "name": "张锐",
+  "email": "zhangui3@sinooceangroup.com"
+}, {
+  "name": "项英伦",
+  "email": "xiangyingl@sinooceangroup.com"
+}, {
+  "name": "徐丽敏",
+  "email": "xulim@sinooceangroup.com"
+}, {
+  "name": "罗智德",
+  "email": "luozhd@sinooceangroup.com"
+}, {
+  "name": "梁崇佳",
+  "email": "liangchj@sinooceangroup.com"
+}, {
+  "name": "周强",
+  "email": "zhouqiang1@sinooceangroup.com"
+}, {
+  "name": "于小娟",
+  "email": "yuxiaojuan@sinooceangroup.com"
+}, {
+  "name": "冯涛",
+  "email": "fengtao5@sinooceangroup.com"
+}, {
+  "name": "刘思源",
+  "email": "liusiyuan@sinooceangroup.com"
+}, {
+  "name": "翟鹏昊",
+  "email": "zhaiph@sinooceangroup.com"
+}, {
+  "name": "井波",
+  "email": "jingbo@sinooceangroup.com"
+}, {
+  "name": "卜智昊",
+  "email": "buzhih@sinooceangroup.com"
+}]
