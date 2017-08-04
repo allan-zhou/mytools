@@ -2,4 +2,6 @@ target
 
 node_modules
 
-source/Attendee.xls
+source/Attendee.xlsx
+
+data/
